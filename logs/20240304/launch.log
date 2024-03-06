@@ -1,0 +1,634 @@
+$ ros2 launch zed_wrapper zedx_multi_camera.launch.py
+[INFO] [launch]: All log files can be found below /home/starlight/.ros/log/2024-03-04-17-45-23-290715-slv-66876
+[INFO] [launch]: Default logging verbosity is set to INFO
+[WARNING] [launch_ros.actions.node]: Parameter file path is not a file: .
+[WARNING] [launch_ros.actions.node]: Parameter file path is not a file: .
+[INFO] [robot_state_publisher-1]: process started with pid [66880]
+[INFO] [zed_wrapper-2]: process started with pid [66882]
+[INFO] [robot_state_publisher-3]: process started with pid [66884]
+[INFO] [zed_wrapper-4]: process started with pid [66886]
+[robot_state_publisher-3] [INFO] [1709545525.225776651] [zedx.right.zed_state_publisher]: got segment zedx/right_camera_center
+[robot_state_publisher-3] [INFO] [1709545525.225982636] [zedx.right.zed_state_publisher]: got segment zedx/right_camera_link
+[robot_state_publisher-3] [INFO] [1709545525.226008748] [zedx.right.zed_state_publisher]: got segment zedx/right_left_camera_frame
+[robot_state_publisher-3] [INFO] [1709545525.226020972] [zedx.right.zed_state_publisher]: got segment zedx/right_left_camera_optical_frame
+[robot_state_publisher-3] [INFO] [1709545525.226030220] [zedx.right.zed_state_publisher]: got segment zedx/right_right_camera_frame
+[robot_state_publisher-3] [INFO] [1709545525.226039148] [zedx.right.zed_state_publisher]: got segment zedx/right_right_camera_optical_frame
+[robot_state_publisher-1] [INFO] [1709545525.226217517] [zedx.left.zed_state_publisher]: got segment zedx/left_camera_center
+[robot_state_publisher-1] [INFO] [1709545525.226363118] [zedx.left.zed_state_publisher]: got segment zedx/left_camera_link
+[robot_state_publisher-1] [INFO] [1709545525.226385838] [zedx.left.zed_state_publisher]: got segment zedx/left_left_camera_frame
+[robot_state_publisher-1] [INFO] [1709545525.226397614] [zedx.left.zed_state_publisher]: got segment zedx/left_left_camera_optical_frame
+[robot_state_publisher-1] [INFO] [1709545525.226407406] [zedx.left.zed_state_publisher]: got segment zedx/left_right_camera_frame
+[robot_state_publisher-1] [INFO] [1709545525.226415566] [zedx.left.zed_state_publisher]: got segment zedx/left_right_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545525.342365814] [zedx.right.zed_node]: ********************************
+[zed_wrapper-4] [INFO] [1709545525.342662200] [zedx.right.zed_node]:       ZED Camera Component 
+[zed_wrapper-4] [INFO] [1709545525.342690200] [zedx.right.zed_node]: ********************************
+[zed_wrapper-4] [INFO] [1709545525.342705880] [zedx.right.zed_node]:  * namespace: /zedx/right
+[zed_wrapper-4] [INFO] [1709545525.342718552] [zedx.right.zed_node]:  * node name: zed_node
+[zed_wrapper-4] [INFO] [1709545525.342727672] [zedx.right.zed_node]: ********************************
+[zed_wrapper-4] [INFO] [1709545525.342755193] [zedx.right.zed_node]: *** DEBUG parameters ***
+[zed_wrapper-4] [INFO] [1709545525.342810137] [zedx.right.zed_node]:  * Debug Common: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342836025] [zedx.right.zed_node]:  * Debug Simulation: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342866073] [zedx.right.zed_node]:  * Debug Video/Depth: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342886105] [zedx.right.zed_node]:  * Debug Control settings: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342909881] [zedx.right.zed_node]:  * Debug Point Cloud: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342930202] [zedx.right.zed_node]:  * Debug GNSS: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342953370] [zedx.right.zed_node]:  * Debug Positional Tracking: FALSE
+[zed_wrapper-4] [INFO] [1709545525.342980090] [zedx.right.zed_node]:  * Debug sensors: FALSE
+[zed_wrapper-4] [INFO] [1709545525.343002426] [zedx.right.zed_node]:  * Debug Mapping: FALSE
+[zed_wrapper-4] [INFO] [1709545525.343025690] [zedx.right.zed_node]:  * Debug Object Detection: FALSE
+[zed_wrapper-4] [INFO] [1709545525.343054618] [zedx.right.zed_node]:  * Debug Body Tracking: FALSE
+[zed_wrapper-4] [INFO] [1709545525.343077818] [zedx.right.zed_node]:  * Debug Advanced: FALSE
+[zed_wrapper-4] [INFO] [1709545525.343136315] [zedx.right.zed_node]: *** GENERAL parameters ***
+[zed_wrapper-4] [INFO] [1709545525.343190811] [zedx.right.zed_node]:  * SVO: ''
+[zed_wrapper-4] [INFO] [1709545525.343241243] [zedx.right.zed_node]:  * Camera model: zedx - ZED X
+[zed_wrapper-4] [INFO] [1709545525.343288828] [zedx.right.zed_node]:  * SDK Verbose: 1
+[zed_wrapper-4] [INFO] [1709545525.343322748] [zedx.right.zed_node]:  * Camera name: zedx/right
+[zed_wrapper-4] [INFO] [1709545525.343352252] [zedx.right.zed_node]:  * Camera SN: 40051193
+[zed_wrapper-4] [INFO] [1709545525.343377020] [zedx.right.zed_node]:  * Camera timeout [sec]: 5
+[zed_wrapper-4] [INFO] [1709545525.343399964] [zedx.right.zed_node]:  * Camera reconnection temptatives: 5
+[zed_wrapper-4] [INFO] [1709545525.343428796] [zedx.right.zed_node]:  * Camera framerate: 30
+[zed_wrapper-4] [INFO] [1709545525.343454780] [zedx.right.zed_node]:  * GPU ID: -1
+[zed_wrapper-4] [INFO] [1709545525.343492605] [zedx.right.zed_node]:  * Camera resolution: HD1200
+[zed_wrapper-4] [INFO] [1709545525.343520925] [zedx.right.zed_node]:  * Publishing resolution: CUSTOM
+[zed_wrapper-4] [INFO] [1709545525.343575837] [zedx.right.zed_node]:  * Publishing downscale factor: 2
+[zed_wrapper-4] [INFO] [1709545525.343619421] [zedx.right.zed_node]:  * Region of interest: []
+[zed_wrapper-4] [INFO] [1709545525.343646366] [zedx.right.zed_node]:  * Camera self calibration: TRUE
+[zed_wrapper-4] [INFO] [1709545525.343675198] [zedx.right.zed_node]:  * Camera flip: FALSE
+[zed_wrapper-4] [INFO] [1709545525.343706398] [zedx.right.zed_node]:  * [DYN] Publish framerate [Hz]:  15
+[zed_wrapper-4] [INFO] [1709545525.343724222] [zedx.right.zed_node]: *** VIDEO parameters ***
+[zed_wrapper-4] [INFO] [1709545525.343750974] [zedx.right.zed_node]:  * [DYN] Saturation: 4
+[zed_wrapper-4] [INFO] [1709545525.343780094] [zedx.right.zed_node]:  * [DYN] Sharpness: 4
+[zed_wrapper-4] [INFO] [1709545525.343804702] [zedx.right.zed_node]:  * [DYN] Gamma: 8
+[zed_wrapper-4] [INFO] [1709545525.343827743] [zedx.right.zed_node]:  * [DYN] Auto Exposure/Gain: TRUE
+[zed_wrapper-4] [INFO] [1709545525.343851263] [zedx.right.zed_node]:  * [DYN] Exposure: 80
+[zed_wrapper-4] [INFO] [1709545525.343883743] [zedx.right.zed_node]:  * [DYN] Gain: 80
+[zed_wrapper-4] [INFO] [1709545525.343908095] [zedx.right.zed_node]:  * [DYN] Auto White Balance: TRUE
+[zed_wrapper-4] [INFO] [1709545525.343932767] [zedx.right.zed_node]:  * [DYN] White Balance Temperature: 42
+[zed_wrapper-4] [INFO] [1709545525.343961311] [zedx.right.zed_node]:  * [DYN] ZED X Exposure time: 16000
+[zed_wrapper-4] [INFO] [1709545525.343987231] [zedx.right.zed_node]:  * [DYN] ZED X Auto Exp. time range min: 28
+[zed_wrapper-4] [INFO] [1709545525.344011200] [zedx.right.zed_node]:  * [DYN] ZED X Auto Exp. time range max: 30000
+[zed_wrapper-4] [INFO] [1709545525.344037664] [zedx.right.zed_node]:  * [DYN] ZED X Exposure comp.: 50
+[zed_wrapper-4] [INFO] [1709545525.344060960] [zedx.right.zed_node]:  * [DYN] ZED X Analog Gain: 1255
+[zed_wrapper-4] [INFO] [1709545525.344083584] [zedx.right.zed_node]:  * [DYN] ZED X Auto Analog Gain range min: 1000
+[zed_wrapper-4] [INFO] [1709545525.344195777] [zedx.right.zed_node]:  * [DYN] ZED X Auto Analog Gain range max: 16000
+[zed_wrapper-4] [INFO] [1709545525.344230017] [zedx.right.zed_node]:  * [DYN] ZED X Digital Gain: 1
+[zed_wrapper-4] [INFO] [1709545525.344257697] [zedx.right.zed_node]:  * [DYN] ZED X Auto Digital Gain range min: 1
+[zed_wrapper-4] [INFO] [1709545525.344281569] [zedx.right.zed_node]:  * [DYN] ZED X Auto Digital Gain range max: 256
+[zed_wrapper-4] [INFO] [1709545525.344310945] [zedx.right.zed_node]:  * [DYN] ZED X Auto Digital Gain range max: 50
+[zed_wrapper-4] [INFO] [1709545525.344341185] [zedx.right.zed_node]:  * Video QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.344367330] [zedx.right.zed_node]:  * Video QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.344395394] [zedx.right.zed_node]:  * Video QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.344420930] [zedx.right.zed_node]:  * Video QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.344438370] [zedx.right.zed_node]: *** DEPTH parameters ***
+[zed_wrapper-4] [INFO] [1709545525.344477986] [zedx.right.zed_node]:  * Depth mode: ULTRA [3]
+[zed_wrapper-4] [INFO] [1709545525.344519298] [zedx.right.zed_node]:  * Min depth [m]: 0.3
+[zed_wrapper-4] [INFO] [1709545525.344552259] [zedx.right.zed_node]:  * Max depth [m]: 10
+[zed_wrapper-4] [INFO] [1709545525.344580163] [zedx.right.zed_node]:  * Depth Stabilization: 1
+[zed_wrapper-4] [INFO] [1709545525.344604867] [zedx.right.zed_node]:  * OpenNI mode (16bit point cloud): FALSE
+[zed_wrapper-4] [INFO] [1709545525.344636035] [zedx.right.zed_node]:  * [DYN] Point cloud rate [Hz]: 10
+[zed_wrapper-4] [INFO] [1709545525.344681475] [zedx.right.zed_node]:  * [DYN] Depth Confidence: 50
+[zed_wrapper-4] [INFO] [1709545525.344716931] [zedx.right.zed_node]:  * [DYN] Depth Texture Confidence: 100
+[zed_wrapper-4] [INFO] [1709545525.344748132] [zedx.right.zed_node]:  * [DYN] Remove saturated areas: TRUE
+[zed_wrapper-4] [INFO] [1709545525.344771716] [zedx.right.zed_node]:  * Depth QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.344793668] [zedx.right.zed_node]:  * Depth QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.344818660] [zedx.right.zed_node]:  * Depth QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.344842308] [zedx.right.zed_node]:  * Depth QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.344860068] [zedx.right.zed_node]: *** GNSS FUSION parameters ***
+[zed_wrapper-4] [INFO] [1709545525.344888388] [zedx.right.zed_node]:  * GNSS fusion enabled: FALSE
+[zed_wrapper-4] [INFO] [1709545525.344907653] [zedx.right.zed_node]: *** POSITIONAL TRACKING parameters ***
+[zed_wrapper-4] [INFO] [1709545525.344941509] [zedx.right.zed_node]:  * Positional tracking enabled: TRUE
+[zed_wrapper-4] [INFO] [1709545525.344979973] [zedx.right.zed_node]:  * Positional tracking mode: POSITIONAL TRACKING MODE STANDARD
+[zed_wrapper-4] [INFO] [1709545525.345014981] [zedx.right.zed_node]:  * Map frame id: map
+[zed_wrapper-4] [INFO] [1709545525.345049349] [zedx.right.zed_node]:  * Odometry frame id: odom
+[zed_wrapper-4] [INFO] [1709545525.345079910] [zedx.right.zed_node]:  * Broadcast Odometry TF: FALSE
+[zed_wrapper-4] [INFO] [1709545525.345097990] [zedx.right.zed_node]:  * Broadcast Pose TF: FALSE
+[zed_wrapper-4] [INFO] [1709545525.345125382] [zedx.right.zed_node]:  * [DYN] Depth minimum range: 0
+[zed_wrapper-4] [INFO] [1709545525.345158726] [zedx.right.zed_node]:  * [DYN] TF timestamp offset: 0
+[zed_wrapper-4] [INFO] [1709545525.345185830] [zedx.right.zed_node]:  * [DYN] Path publishing rate: 2
+[zed_wrapper-4] [INFO] [1709545525.345211750] [zedx.right.zed_node]:  * Path history lenght: -1
+[zed_wrapper-4] [INFO] [1709545525.345241830] [zedx.right.zed_node]:  * Initial pose: [0,0,0,0,0,0,]
+[zed_wrapper-4] [INFO] [1709545525.345279431] [zedx.right.zed_node]:  * Area Memory: TRUE
+[zed_wrapper-4] [INFO] [1709545525.345305831] [zedx.right.zed_node]:  * Area Memory DB: 
+[zed_wrapper-4] [INFO] [1709545525.345331975] [zedx.right.zed_node]:  * Camera is static: FALSE
+[zed_wrapper-4] [INFO] [1709545525.345369063] [zedx.right.zed_node]:  * Gravity as origin [not for ZED]: TRUE
+[zed_wrapper-4] [INFO] [1709545525.345394343] [zedx.right.zed_node]:  * IMU Fusion [not for ZED]: TRUE
+[zed_wrapper-4] [INFO] [1709545525.345418119] [zedx.right.zed_node]:  * Floor Alignment: FALSE
+[zed_wrapper-4] [INFO] [1709545525.345445032] [zedx.right.zed_node]:  * Init Odometry with first valid pose data: TRUE
+[zed_wrapper-4] [INFO] [1709545525.345469576] [zedx.right.zed_node]:  * 2D mode: FALSE
+[zed_wrapper-4] [INFO] [1709545525.345492968] [zedx.right.zed_node]:  * Pose/Odometry QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.345519336] [zedx.right.zed_node]:  * Pose/Odometry QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.345804010] [zedx.right.zed_node]:  * Pose/Odometry QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.345892458] [zedx.right.zed_node]:  * Pose/Odometry QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.345918410] [zedx.right.zed_node]: *** SENSORS STACK parameters ***
+[zed_wrapper-4] [INFO] [1709545525.346023307] [zedx.right.zed_node]:  * Broadcast IMU TF [not for ZED]: TRUE
+[zed_wrapper-4] [INFO] [1709545525.346103915] [zedx.right.zed_node]:  * Sensors Camera Sync: FALSE
+[zed_wrapper-4] [INFO] [1709545525.346220652] [zedx.right.zed_node]:  * Sensors publishing rate: 200 Hz
+[zed_wrapper-4] [INFO] [1709545525.346310828] [zedx.right.zed_node]:  * Sensors QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.346378925] [zedx.right.zed_node]:  * Sensors QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.346445645] [zedx.right.zed_node]:  * Sensors QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.346523086] [zedx.right.zed_node]:  * Sensors QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.346549646] [zedx.right.zed_node]: *** Spatial Mapping parameters ***
+[zed_wrapper-4] [INFO] [1709545525.346620846] [zedx.right.zed_node]:  * Spatial Mapping Enabled: FALSE
+[zed_wrapper-4] [INFO] [1709545525.346704431] [zedx.right.zed_node]:  * Spatial Mapping resolution [m]: 0.05
+[zed_wrapper-4] [INFO] [1709545525.346788655] [zedx.right.zed_node]:  * 3D Max Mapping range [m]: 5
+[zed_wrapper-4] [INFO] [1709545525.346860751] [zedx.right.zed_node]:  * Map publishing rate [Hz]: 1
+[zed_wrapper-4] [INFO] [1709545525.346934928] [zedx.right.zed_node]:  * Clicked point topic: /clicked_point
+[zed_wrapper-4] [INFO] [1709545525.346999984] [zedx.right.zed_node]:  * Sensors QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.347085041] [zedx.right.zed_node]:  * Sensors QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.347147505] [zedx.right.zed_node]:  * Sensors QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.347209201] [zedx.right.zed_node]:  * Sensors QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.347234098] [zedx.right.zed_node]: *** Object Det. parameters ***
+[zed_wrapper-4] [INFO] [1709545525.347306002] [zedx.right.zed_node]:  * Object Det. enabled: FALSE
+[zed_wrapper-4] [INFO] [1709545525.347389586] [zedx.right.zed_node]:  * Object Det. model: MULTI CLASS BOX MEDIUM
+[zed_wrapper-4] [INFO] [1709545525.347467059] [zedx.right.zed_node]:  * Object Det. allow reduced precision: TRUE
+[zed_wrapper-4] [INFO] [1709545525.347549491] [zedx.right.zed_node]:  * Object Det. maximum range [m]: 20
+[zed_wrapper-4] [INFO] [1709545525.347643956] [zedx.right.zed_node]:  * Object Det. min. confidence: 50
+[zed_wrapper-4] [INFO] [1709545525.347720628] [zedx.right.zed_node]:  * Object Det. prediction timeout [sec]: 0.5
+[zed_wrapper-4] [INFO] [1709545525.347789653] [zedx.right.zed_node]:  * Object Det. tracking: TRUE
+[zed_wrapper-4] [INFO] [1709545525.347874357] [zedx.right.zed_node]:  * Object Filtering mode: 1 - NMS 3D
+[zed_wrapper-4] [INFO] [1709545525.347949814] [zedx.right.zed_node]:  * MultiClassBox people: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348027126] [zedx.right.zed_node]:  * MultiClassBox vehicles: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348106966] [zedx.right.zed_node]:  * MultiClassBox bags: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348173559] [zedx.right.zed_node]:  * MultiClassBox animals: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348250711] [zedx.right.zed_node]:  * MultiClassBox electronics: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348318200] [zedx.right.zed_node]:  * MultiClassBox fruits and vegetables: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348390456] [zedx.right.zed_node]:  * MultiClassBox sport-related objects: TRUE
+[zed_wrapper-4] [INFO] [1709545525.348466552] [zedx.right.zed_node]:  * Obj. Det. QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.348532537] [zedx.right.zed_node]:  * Obj. Det. QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.348596217] [zedx.right.zed_node]:  * Obj. Det. QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.348661274] [zedx.right.zed_node]:  * Obj. Det. QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.348785338] [zedx.right.zed_node]: *** Body Track. parameters ***
+[zed_wrapper-4] [INFO] [1709545525.348876315] [zedx.right.zed_node]:  * Body Track. enabled: FALSE
+[zed_wrapper-4] [INFO] [1709545525.348954715] [zedx.right.zed_node]:  * Body Track. model: HUMAN BODY MEDIUM
+[zed_wrapper-4] [INFO] [1709545525.349040540] [zedx.right.zed_node]:  * Body Track. format: BODY_38
+[zed_wrapper-4] [INFO] [1709545525.349122172] [zedx.right.zed_node]:  * Body Track. allow reduced precision: TRUE
+[zed_wrapper-4] [INFO] [1709545525.349208669] [zedx.right.zed_node]:  * Body Track. maximum range [m]: 20
+[zed_wrapper-4] [INFO] [1709545525.349327805] [zedx.right.zed_node]:  * Body Track. KP selection: FULL
+[zed_wrapper-4] [INFO] [1709545525.349417054] [zedx.right.zed_node]:  * Body fitting: FALSE
+[zed_wrapper-4] [INFO] [1709545525.349507902] [zedx.right.zed_node]:  * Body joints tracking: TRUE
+[zed_wrapper-4] [INFO] [1709545525.349584447] [zedx.right.zed_node]:  * Body Track. prediction timeout [sec]: 0.5
+[zed_wrapper-4] [INFO] [1709545525.349657855] [zedx.right.zed_node]:  * Body Track. confidence thresh.: 50
+[zed_wrapper-4] [INFO] [1709545525.349736064] [zedx.right.zed_node]:  * Body Track. min. KP thresh.: 5
+[zed_wrapper-4] [INFO] [1709545525.349801856] [zedx.right.zed_node]:  * Body Track. QoS History: KEEP_LAST
+[zed_wrapper-4] [INFO] [1709545525.349870048] [zedx.right.zed_node]:  * Body Track. QoS History depth: 1
+[zed_wrapper-4] [INFO] [1709545525.349935873] [zedx.right.zed_node]:  * Body Track. QoS Reliability: RELIABLE
+[zed_wrapper-4] [INFO] [1709545525.350001473] [zedx.right.zed_node]:  * Body Track. QoS Durability: VOLATILE
+[zed_wrapper-4] [INFO] [1709545525.350025057] [zedx.right.zed_node]: *** Advanced parameters ***
+[zed_wrapper-4] [INFO] [1709545525.350098562] [zedx.right.zed_node]:  * Thread sched. policy: SCHED_BATCH
+[zed_wrapper-4] [INFO] [1709545525.350210786] [zedx.right.zed_node]: *** SERVICES ***
+[zed_wrapper-2] [INFO] [1709545525.350766981] [zedx.left.zed_node]: ********************************
+[zed_wrapper-2] [INFO] [1709545525.351028615] [zedx.left.zed_node]:       ZED Camera Component 
+[zed_wrapper-2] [INFO] [1709545525.351053575] [zedx.left.zed_node]: ********************************
+[zed_wrapper-2] [INFO] [1709545525.351069863] [zedx.left.zed_node]:  * namespace: /zedx/left
+[zed_wrapper-2] [INFO] [1709545525.351084551] [zedx.left.zed_node]:  * node name: zed_node
+[zed_wrapper-2] [INFO] [1709545525.351095911] [zedx.left.zed_node]: ********************************
+[zed_wrapper-2] [INFO] [1709545525.351124871] [zedx.left.zed_node]: *** DEBUG parameters ***
+[zed_wrapper-2] [INFO] [1709545525.351255592] [zedx.left.zed_node]:  * Debug Common: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351364425] [zedx.left.zed_node]:  * Debug Simulation: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351458729] [zedx.left.zed_node]:  * Debug Video/Depth: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351549034] [zedx.left.zed_node]:  * Debug Control settings: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351637578] [zedx.left.zed_node]:  * Debug Point Cloud: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351715371] [zedx.left.zed_node]:  * Debug GNSS: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351803595] [zedx.left.zed_node]:  * Debug Positional Tracking: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351887500] [zedx.left.zed_node]:  * Debug sensors: FALSE
+[zed_wrapper-2] [INFO] [1709545525.351970476] [zedx.left.zed_node]:  * Debug Mapping: FALSE
+[zed_wrapper-4] [INFO] [1709545525.351676458] [zedx.right.zed_node]:  * '/zedx/right/zed_node/reset_odometry'
+[zed_wrapper-2] [INFO] [1709545525.352056845] [zedx.left.zed_node]:  * Debug Object Detection: FALSE
+[zed_wrapper-2] [INFO] [1709545525.352152621] [zedx.left.zed_node]:  * Debug Body Tracking: FALSE
+[zed_wrapper-2] [INFO] [1709545525.352232205] [zedx.left.zed_node]:  * Debug Advanced: FALSE
+[zed_wrapper-2] [INFO] [1709545525.352364750] [zedx.left.zed_node]: *** GENERAL parameters ***
+[zed_wrapper-2] [INFO] [1709545525.352489839] [zedx.left.zed_node]:  * SVO: ''
+[zed_wrapper-4] [INFO] [1709545525.352483375] [zedx.right.zed_node]:  * '/zedx/right/zed_node/reset_pos_tracking'
+[zed_wrapper-2] [INFO] [1709545525.352602320] [zedx.left.zed_node]:  * Camera model: zedx - ZED X
+[zed_wrapper-2] [INFO] [1709545525.352736784] [zedx.left.zed_node]:  * SDK Verbose: 1
+[zed_wrapper-2] [INFO] [1709545525.352834065] [zedx.left.zed_node]:  * Camera name: zedx/left
+[zed_wrapper-2] [INFO] [1709545525.352925105] [zedx.left.zed_node]:  * Camera SN: 45656860
+[zed_wrapper-2] [INFO] [1709545525.353025714] [zedx.left.zed_node]:  * Camera timeout [sec]: 5
+[zed_wrapper-2] [INFO] [1709545525.353115122] [zedx.left.zed_node]:  * Camera reconnection temptatives: 5
+[zed_wrapper-2] [INFO] [1709545525.353212403] [zedx.left.zed_node]:  * Camera framerate: 30
+[zed_wrapper-2] [INFO] [1709545525.353304275] [zedx.left.zed_node]:  * GPU ID: -1
+[zed_wrapper-2] [INFO] [1709545525.353411412] [zedx.left.zed_node]:  * Camera resolution: HD1200
+[zed_wrapper-2] [INFO] [1709545525.353505397] [zedx.left.zed_node]:  * Publishing resolution: CUSTOM
+[zed_wrapper-2] [INFO] [1709545525.353624853] [zedx.left.zed_node]:  * Publishing downscale factor: 2
+[zed_wrapper-2] [INFO] [1709545525.353729078] [zedx.left.zed_node]:  * Region of interest: []
+[zed_wrapper-2] [INFO] [1709545525.353811926] [zedx.left.zed_node]:  * Camera self calibration: TRUE
+[zed_wrapper-2] [INFO] [1709545525.353909943] [zedx.left.zed_node]:  * Camera flip: FALSE
+[zed_wrapper-2] [INFO] [1709545525.353999959] [zedx.left.zed_node]:  * [DYN] Publish framerate [Hz]:  15
+[zed_wrapper-2] [INFO] [1709545525.354024504] [zedx.left.zed_node]: *** VIDEO parameters ***
+[zed_wrapper-2] [INFO] [1709545525.354121144] [zedx.left.zed_node]:  * [DYN] Saturation: 4
+[zed_wrapper-2] [INFO] [1709545525.354216761] [zedx.left.zed_node]:  * [DYN] Sharpness: 4
+[zed_wrapper-2] [INFO] [1709545525.354304313] [zedx.left.zed_node]:  * [DYN] Gamma: 8
+[zed_wrapper-2] [INFO] [1709545525.354402234] [zedx.left.zed_node]:  * [DYN] Auto Exposure/Gain: TRUE
+[zed_wrapper-2] [INFO] [1709545525.354507002] [zedx.left.zed_node]:  * [DYN] Exposure: 80
+[zed_wrapper-2] [INFO] [1709545525.354612123] [zedx.left.zed_node]:  * [DYN] Gain: 80
+[zed_wrapper-2] [INFO] [1709545525.354700699] [zedx.left.zed_node]:  * [DYN] Auto White Balance: TRUE
+[zed_wrapper-2] [INFO] [1709545525.354797340] [zedx.left.zed_node]:  * [DYN] White Balance Temperature: 42
+[zed_wrapper-2] [INFO] [1709545525.354885212] [zedx.left.zed_node]:  * [DYN] ZED X Exposure time: 16000
+[zed_wrapper-2] [INFO] [1709545525.354974621] [zedx.left.zed_node]:  * [DYN] ZED X Auto Exp. time range min: 28
+[zed_wrapper-2] [INFO] [1709545525.355064669] [zedx.left.zed_node]:  * [DYN] ZED X Auto Exp. time range max: 30000
+[zed_wrapper-2] [INFO] [1709545525.355151134] [zedx.left.zed_node]:  * [DYN] ZED X Exposure comp.: 50
+[zed_wrapper-2] [INFO] [1709545525.355245598] [zedx.left.zed_node]:  * [DYN] ZED X Analog Gain: 1255
+[zed_wrapper-2] [INFO] [1709545525.355361023] [zedx.left.zed_node]:  * [DYN] ZED X Auto Analog Gain range min: 1000
+[zed_wrapper-2] [INFO] [1709545525.355534848] [zedx.left.zed_node]:  * [DYN] ZED X Auto Analog Gain range max: 16000
+[zed_wrapper-4] [INFO] [1709545525.354690299] [zedx.right.zed_node]:  * '/zedx/right/zed_node/set_pose'
+[zed_wrapper-4] [INFO] [1709545525.355447103] [zedx.right.zed_node]:  * '/zedx/right/zed_node/enable_obj_det'
+[zed_wrapper-2] [INFO] [1709545525.355632033] [zedx.left.zed_node]:  * [DYN] ZED X Digital Gain: 1
+[zed_wrapper-2] [INFO] [1709545525.355716609] [zedx.left.zed_node]:  * [DYN] ZED X Auto Digital Gain range min: 1
+[zed_wrapper-2] [INFO] [1709545525.355829090] [zedx.left.zed_node]:  * [DYN] ZED X Auto Digital Gain range max: 256
+[zed_wrapper-2] [INFO] [1709545525.355927074] [zedx.left.zed_node]:  * [DYN] ZED X Auto Digital Gain range max: 50
+[zed_wrapper-2] [INFO] [1709545525.356032835] [zedx.left.zed_node]:  * Video QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.356127843] [zedx.left.zed_node]:  * Video QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.356226820] [zedx.left.zed_node]:  * Video QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.356313252] [zedx.left.zed_node]:  * Video QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.356338820] [zedx.left.zed_node]: *** DEPTH parameters ***
+[zed_wrapper-2] [INFO] [1709545525.356439749] [zedx.left.zed_node]:  * Depth mode: ULTRA [3]
+[zed_wrapper-2] [INFO] [1709545525.356543398] [zedx.left.zed_node]:  * Min depth [m]: 0.3
+[zed_wrapper-2] [INFO] [1709545525.356636006] [zedx.left.zed_node]:  * Max depth [m]: 10
+[zed_wrapper-2] [INFO] [1709545525.356929160] [zedx.left.zed_node]:  * Depth Stabilization: 1
+[zed_wrapper-2] [INFO] [1709545525.357045768] [zedx.left.zed_node]:  * OpenNI mode (16bit point cloud): FALSE
+[zed_wrapper-2] [INFO] [1709545525.357137097] [zedx.left.zed_node]:  * [DYN] Point cloud rate [Hz]: 10
+[zed_wrapper-2] [INFO] [1709545525.357241642] [zedx.left.zed_node]:  * [DYN] Depth Confidence: 50
+[zed_wrapper-2] [INFO] [1709545525.357337226] [zedx.left.zed_node]:  * [DYN] Depth Texture Confidence: 100
+[zed_wrapper-2] [INFO] [1709545525.357433035] [zedx.left.zed_node]:  * [DYN] Remove saturated areas: TRUE
+[zed_wrapper-4] [INFO] [1709545525.356307780] [zedx.right.zed_node]:  * '/zedx/right/zed_node/enable_body_trk'
+[zed_wrapper-4] [INFO] [1709545525.356871207] [zedx.right.zed_node]:  * '/zedx/right/zed_node/enable_mapping'
+[zed_wrapper-2] [INFO] [1709545525.357517995] [zedx.left.zed_node]:  * Depth QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.357616588] [zedx.left.zed_node]:  * Depth QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.357706604] [zedx.left.zed_node]:  * Depth QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.357809965] [zedx.left.zed_node]:  * Depth QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.357839149] [zedx.left.zed_node]: *** GNSS FUSION parameters ***
+[zed_wrapper-2] [INFO] [1709545525.357941357] [zedx.left.zed_node]:  * GNSS fusion enabled: FALSE
+[zed_wrapper-2] [INFO] [1709545525.357969070] [zedx.left.zed_node]: *** POSITIONAL TRACKING parameters ***
+[zed_wrapper-4] [INFO] [1709545525.357795629] [zedx.right.zed_node]:  * '/zedx/right/zed_node/start_svo_rec'
+[zed_wrapper-2] [INFO] [1709545525.358059790] [zedx.left.zed_node]:  * Positional tracking enabled: TRUE
+[zed_wrapper-2] [INFO] [1709545525.358169679] [zedx.left.zed_node]:  * Positional tracking mode: POSITIONAL TRACKING MODE STANDARD
+[zed_wrapper-2] [INFO] [1709545525.358268079] [zedx.left.zed_node]:  * Map frame id: map
+[zed_wrapper-2] [INFO] [1709545525.358386480] [zedx.left.zed_node]:  * Odometry frame id: odom
+[zed_wrapper-2] [INFO] [1709545525.358478416] [zedx.left.zed_node]:  * Broadcast Odometry TF: FALSE
+[zed_wrapper-2] [INFO] [1709545525.358504305] [zedx.left.zed_node]:  * Broadcast Pose TF: FALSE
+[zed_wrapper-4] [INFO] [1709545525.358402768] [zedx.right.zed_node]:  * '/zedx/right/zed_node/stop_svo_rec'
+[zed_wrapper-2] [INFO] [1709545525.358606385] [zedx.left.zed_node]:  * [DYN] Depth minimum range: 0
+[zed_wrapper-2] [INFO] [1709545525.358706706] [zedx.left.zed_node]:  * [DYN] TF timestamp offset: 0
+[zed_wrapper-2] [INFO] [1709545525.358803602] [zedx.left.zed_node]:  * [DYN] Path publishing rate: 2
+[zed_wrapper-2] [INFO] [1709545525.358898323] [zedx.left.zed_node]:  * Path history lenght: -1
+[zed_wrapper-2] [INFO] [1709545525.359004275] [zedx.left.zed_node]:  * Initial pose: [0,0,0,0,0,0,]
+[zed_wrapper-2] [INFO] [1709545525.359119796] [zedx.left.zed_node]:  * Area Memory: TRUE
+[zed_wrapper-2] [INFO] [1709545525.359214549] [zedx.left.zed_node]:  * Area Memory DB: 
+[zed_wrapper-4] [INFO] [1709545525.359260757] [zedx.right.zed_node]:  * '/zedx/right/zed_node/set_roi'
+[zed_wrapper-2] [INFO] [1709545525.359308373] [zedx.left.zed_node]:  * Camera is static: FALSE
+[zed_wrapper-2] [INFO] [1709545525.359396662] [zedx.left.zed_node]:  * Gravity as origin [not for ZED]: TRUE
+[zed_wrapper-2] [INFO] [1709545525.359482838] [zedx.left.zed_node]:  * IMU Fusion [not for ZED]: TRUE
+[zed_wrapper-2] [INFO] [1709545525.359574583] [zedx.left.zed_node]:  * Floor Alignment: FALSE
+[zed_wrapper-2] [INFO] [1709545525.359664087] [zedx.left.zed_node]:  * Init Odometry with first valid pose data: TRUE
+[zed_wrapper-2] [INFO] [1709545525.359769976] [zedx.left.zed_node]:  * 2D mode: FALSE
+[zed_wrapper-2] [INFO] [1709545525.359868568] [zedx.left.zed_node]:  * Pose/Odometry QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.359953113] [zedx.left.zed_node]:  * Pose/Odometry QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.360034873] [zedx.left.zed_node]:  * Pose/Odometry QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.360185146] [zedx.left.zed_node]:  * Pose/Odometry QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.360212922] [zedx.left.zed_node]: *** SENSORS STACK parameters ***
+[zed_wrapper-2] [INFO] [1709545525.360316539] [zedx.left.zed_node]:  * Broadcast IMU TF [not for ZED]: TRUE
+[zed_wrapper-2] [INFO] [1709545525.360429691] [zedx.left.zed_node]:  * Sensors Camera Sync: FALSE
+[zed_wrapper-2] [INFO] [1709545525.360533340] [zedx.left.zed_node]:  * Sensors publishing rate: 200 Hz
+[zed_wrapper-2] [INFO] [1709545525.360632924] [zedx.left.zed_node]:  * Sensors QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.360731677] [zedx.left.zed_node]:  * Sensors QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.360829086] [zedx.left.zed_node]:  * Sensors QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.360957566] [zedx.left.zed_node]:  * Sensors QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.360985662] [zedx.left.zed_node]: *** Spatial Mapping parameters ***
+[zed_wrapper-2] [INFO] [1709545525.361120959] [zedx.left.zed_node]:  * Spatial Mapping Enabled: FALSE
+[zed_wrapper-2] [INFO] [1709545525.361264256] [zedx.left.zed_node]:  * Spatial Mapping resolution [m]: 0.05
+[zed_wrapper-2] [INFO] [1709545525.361397121] [zedx.left.zed_node]:  * 3D Max Mapping range [m]: 5
+[zed_wrapper-2] [INFO] [1709545525.361511969] [zedx.left.zed_node]:  * Map publishing rate [Hz]: 1
+[zed_wrapper-4] [INFO] [1709545525.360294363] [zedx.right.zed_node]:  * '/zedx/right/zed_node/reset_roi'
+[zed_wrapper-4] [INFO] [1709545525.360345627] [zedx.right.zed_node]: ***** STARTING CAMERA *****
+[zed_wrapper-4] [INFO] [1709545525.360365243] [zedx.right.zed_node]: ZED SDK Version: 4.0.5 - Build 74912_40b07c1e
+[zed_wrapper-2] [INFO] [1709545525.361626434] [zedx.left.zed_node]:  * Clicked point topic: /clicked_point
+[zed_wrapper-2] [INFO] [1709545525.361722403] [zedx.left.zed_node]:  * Sensors QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.361824419] [zedx.left.zed_node]:  * Sensors QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.361928132] [zedx.left.zed_node]:  * Sensors QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.362037252] [zedx.left.zed_node]:  * Sensors QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.362063492] [zedx.left.zed_node]: *** Object Det. parameters ***
+[zed_wrapper-2] [INFO] [1709545525.362178085] [zedx.left.zed_node]:  * Object Det. enabled: FALSE
+[zed_wrapper-2] [INFO] [1709545525.362307206] [zedx.left.zed_node]:  * Object Det. model: MULTI CLASS BOX MEDIUM
+[zed_wrapper-2] [INFO] [1709545525.362424678] [zedx.left.zed_node]:  * Object Det. allow reduced precision: TRUE
+[zed_wrapper-2] [INFO] [1709545525.362538151] [zedx.left.zed_node]:  * Object Det. maximum range [m]: 20
+[zed_wrapper-2] [INFO] [1709545525.362818665] [zedx.left.zed_node]:  * Object Det. min. confidence: 50
+[zed_wrapper-2] [INFO] [1709545525.362944201] [zedx.left.zed_node]:  * Object Det. prediction timeout [sec]: 0.5
+[zed_wrapper-2] [INFO] [1709545525.363059274] [zedx.left.zed_node]:  * Object Det. tracking: TRUE
+[zed_wrapper-2] [INFO] [1709545525.363179499] [zedx.left.zed_node]:  * Object Filtering mode: 1 - NMS 3D
+[zed_wrapper-2] [INFO] [1709545525.363299595] [zedx.left.zed_node]:  * MultiClassBox people: TRUE
+[zed_wrapper-2] [INFO] [1709545525.363419084] [zedx.left.zed_node]:  * MultiClassBox vehicles: TRUE
+[zed_wrapper-2] [INFO] [1709545525.363542989] [zedx.left.zed_node]:  * MultiClassBox bags: TRUE
+[zed_wrapper-2] [INFO] [1709545525.363667405] [zedx.left.zed_node]:  * MultiClassBox animals: TRUE
+[zed_wrapper-2] [INFO] [1709545525.363789070] [zedx.left.zed_node]:  * MultiClassBox electronics: TRUE
+[zed_wrapper-2] [INFO] [1709545525.363911247] [zedx.left.zed_node]:  * MultiClassBox fruits and vegetables: TRUE
+[zed_wrapper-2] [INFO] [1709545525.364028911] [zedx.left.zed_node]:  * MultiClassBox sport-related objects: TRUE
+[zed_wrapper-2] [INFO] [1709545525.364156272] [zedx.left.zed_node]:  * Obj. Det. QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.364261169] [zedx.left.zed_node]:  * Obj. Det. QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.364372273] [zedx.left.zed_node]:  * Obj. Det. QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.364481042] [zedx.left.zed_node]:  * Obj. Det. QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.364508786] [zedx.left.zed_node]: *** Body Track. parameters ***
+[zed_wrapper-2] [INFO] [1709545525.364613651] [zedx.left.zed_node]:  * Body Track. enabled: FALSE
+[zed_wrapper-2] [INFO] [1709545525.364931956] [zedx.left.zed_node]:  * Body Track. model: HUMAN BODY MEDIUM
+[zed_wrapper-2] [INFO] [1709545525.365070101] [zedx.left.zed_node]:  * Body Track. format: BODY_38
+[zed_wrapper-2] [INFO] [1709545525.365192950] [zedx.left.zed_node]:  * Body Track. allow reduced precision: TRUE
+[zed_wrapper-2] [INFO] [1709545525.365311671] [zedx.left.zed_node]:  * Body Track. maximum range [m]: 20
+[zed_wrapper-2] [INFO] [1709545525.365429207] [zedx.left.zed_node]:  * Body Track. KP selection: FULL
+[zed_wrapper-2] [INFO] [1709545525.365557976] [zedx.left.zed_node]:  * Body fitting: FALSE
+[zed_wrapper-2] [INFO] [1709545525.365724281] [zedx.left.zed_node]:  * Body joints tracking: TRUE
+[zed_wrapper-2] [INFO] [1709545525.365847546] [zedx.left.zed_node]:  * Body Track. prediction timeout [sec]: 0.5
+[zed_wrapper-2] [INFO] [1709545525.365973082] [zedx.left.zed_node]:  * Body Track. confidence thresh.: 50
+[zed_wrapper-2] [INFO] [1709545525.366101979] [zedx.left.zed_node]:  * Body Track. min. KP thresh.: 5
+[zed_wrapper-2] [INFO] [1709545525.366238396] [zedx.left.zed_node]:  * Body Track. QoS History: KEEP_LAST
+[zed_wrapper-2] [INFO] [1709545525.366356444] [zedx.left.zed_node]:  * Body Track. QoS History depth: 1
+[zed_wrapper-2] [INFO] [1709545525.366474013] [zedx.left.zed_node]:  * Body Track. QoS Reliability: RELIABLE
+[zed_wrapper-2] [INFO] [1709545525.366581982] [zedx.left.zed_node]:  * Body Track. QoS Durability: VOLATILE
+[zed_wrapper-2] [INFO] [1709545525.366608350] [zedx.left.zed_node]: *** Advanced parameters ***
+[zed_wrapper-2] [INFO] [1709545525.366716094] [zedx.left.zed_node]:  * Thread sched. policy: SCHED_BATCH
+[zed_wrapper-2] [INFO] [1709545525.366823071] [zedx.left.zed_node]: *** SERVICES ***
+[zed_wrapper-4] [INFO] [1709545525.368623529] [zedx.right.zed_node]: *** CAMERA OPENING ***
+[zed_wrapper-2] [INFO] [1709545525.368825130] [zedx.left.zed_node]:  * '/zedx/left/zed_node/reset_odometry'
+[zed_wrapper-2] [INFO] [1709545525.369967377] [zedx.left.zed_node]:  * '/zedx/left/zed_node/reset_pos_tracking'
+[zed_wrapper-2] [INFO] [1709545525.372436414] [zedx.left.zed_node]:  * '/zedx/left/zed_node/set_pose'
+[zed_wrapper-2] [INFO] [1709545525.373608933] [zedx.left.zed_node]:  * '/zedx/left/zed_node/enable_obj_det'
+[zed_wrapper-2] [INFO] [1709545525.374623211] [zedx.left.zed_node]:  * '/zedx/left/zed_node/enable_body_trk'
+[zed_wrapper-2] [INFO] [1709545525.375632592] [zedx.left.zed_node]:  * '/zedx/left/zed_node/enable_mapping'
+[zed_wrapper-2] [INFO] [1709545525.376794871] [zedx.left.zed_node]:  * '/zedx/left/zed_node/start_svo_rec'
+[zed_wrapper-2] [INFO] [1709545525.377672956] [zedx.left.zed_node]:  * '/zedx/left/zed_node/stop_svo_rec'
+[zed_wrapper-2] [INFO] [1709545525.378542849] [zedx.left.zed_node]:  * '/zedx/left/zed_node/set_roi'
+[zed_wrapper-2] [INFO] [1709545525.379267845] [zedx.left.zed_node]:  * '/zedx/left/zed_node/reset_roi'
+[zed_wrapper-2] [INFO] [1709545525.379312773] [zedx.left.zed_node]: ***** STARTING CAMERA *****
+[zed_wrapper-2] [INFO] [1709545525.379330661] [zedx.left.zed_node]: ZED SDK Version: 4.0.5 - Build 74912_40b07c1e
+[zed_wrapper-2] [INFO] [1709545525.388406776] [zedx.left.zed_node]: *** CAMERA OPENING ***
+[zed_wrapper-4] [ZED][INFO] Logging level INFO
+[zed_wrapper-2] [ZED][INFO] Logging level INFO
+[zed_wrapper-2] [WARN] [1709545526.748970958] [zedx.left.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-2] [INFO] [1709545526.749157775] [zedx.left.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [WARN] [1709545526.813099444] [zedx.right.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-4] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [INFO] [1709545526.813328693] [zedx.right.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][INFO] Logging level INFO
+[zed_wrapper-4] [ZED][INFO] Logging level INFO
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [WARN] [1709545532.613291237] [zedx.left.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-2] [INFO] [1709545532.613430310] [zedx.left.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [WARN] [1709545532.634055481] [zedx.right.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-4] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [INFO] [1709545532.634228730] [zedx.right.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][INFO] Logging level INFO
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][INFO] Logging level INFO
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [WARN] [1709545538.288056696] [zedx.left.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-2] [INFO] [1709545538.288224217] [zedx.left.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [WARN] [1709545538.303187532] [zedx.right.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-4] [INFO] [1709545538.303359245] [zedx.right.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][INFO] Logging level INFO
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][INFO] Logging level INFO
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [WARN] [1709545544.116037502] [zedx.right.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-4] [INFO] [1709545544.116197311] [zedx.right.zed_node]: Please verify the camera connection
+[zed_wrapper-4] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-2] [WARN] [1709545544.175038631] [zedx.left.zed_node]: Error opening camera: CAMERA STREAM FAILED TO START
+[zed_wrapper-2] [INFO] [1709545544.175210696] [zedx.left.zed_node]: Please verify the camera connection
+[zed_wrapper-2] [ZED][WARNING] CAMERA STREAM FAILED TO START in sl::ERROR_CODE sl::Camera::open(sl::InitParameters)
+[zed_wrapper-4] [ZED][INFO] Logging level INFO
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [ZED][INFO] Logging level INFO
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-2] [ZED][ERROR] [ZED] sl::Camera::Open has not been called, no Camera instance running.
+[zed_wrapper-4] [ZED][INFO] [Init]  Depth mode: ULTRA
+[zed_wrapper-4] [ZED-X][Warning] Failed to open zed_x service
+[zed_wrapper-2] [ZED][INFO] [Init]  Depth mode: ULTRA
+[zed_wrapper-2] [ZED-X][Warning] Failed to open zed_x service
+[zed_wrapper-4] [ZED][INFO] [Init]  Camera FW version: 2001
+[zed_wrapper-4] [ZED][INFO] [Init]  Video mode: HD1200@30
+[zed_wrapper-4] [ZED][INFO] [Init]  Serial Number: S/N 40051193
+[zed_wrapper-2] [ZED][INFO] [Init]  Camera FW version: 2001
+[zed_wrapper-2] [ZED][INFO] [Init]  Video mode: HD1200@30
+[zed_wrapper-2] [ZED][INFO] [Init]  Serial Number: S/N 45656860
+[zed_wrapper-2] [INFO] [1709545558.630720371] [zedx.left.zed_node]: ZED SDK running on GPU #0
+[zed_wrapper-2] [INFO] [1709545558.630880147] [zedx.left.zed_node]:  * Camera Model  -> ZED X
+[zed_wrapper-2] [INFO] [1709545558.630906612] [zedx.left.zed_node]:  * Serial Number -> 45656860
+[zed_wrapper-2] [INFO] [1709545558.630940852] [zedx.left.zed_node]:  * Input	 -> GMSL input type
+[zed_wrapper-2] [INFO] [1709545558.630964724] [zedx.left.zed_node]:  * Camera FW Version  -> 2001
+[zed_wrapper-2] [INFO] [1709545558.630982900] [zedx.left.zed_node]:  * Sensors FW Version -> 1000
+[zed_wrapper-2] [INFO] [1709545558.631001236] [zedx.left.zed_node]:  * Camera grab frame size -> 1920x1200
+[zed_wrapper-2] [INFO] [1709545558.631017972] [zedx.left.zed_node]:  * Publishing frame size  -> 960x600
+[zed_wrapper-2] [INFO] [1709545558.631055156] [zedx.left.zed_node]: *** TF FRAMES ***
+[zed_wrapper-2] [INFO] [1709545558.631071764] [zedx.left.zed_node]:  * Map			-> map
+[zed_wrapper-2] [INFO] [1709545558.631083797] [zedx.left.zed_node]:  * Odometry		-> odom
+[zed_wrapper-2] [INFO] [1709545558.631094869] [zedx.left.zed_node]:  * Base			-> zedx/left_camera_link
+[zed_wrapper-2] [INFO] [1709545558.631105589] [zedx.left.zed_node]:  * Camera		-> zedx/left_camera_center
+[zed_wrapper-2] [INFO] [1709545558.631117365] [zedx.left.zed_node]:  * Left			-> zedx/left_left_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631128981] [zedx.left.zed_node]:  * Left Optical		-> zedx/left_left_camera_optical_frame
+[zed_wrapper-2] [INFO] [1709545558.631201525] [zedx.left.zed_node]:  * RGB			-> zedx/left_left_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631219317] [zedx.left.zed_node]:  * RGB Optical		-> zedx/left_left_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631231381] [zedx.left.zed_node]:  * Right		-> zedx/left_right_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631242677] [zedx.left.zed_node]:  * Right Optical	-> zedx/left_right_camera_optical_frame
+[zed_wrapper-2] [INFO] [1709545558.631253910] [zedx.left.zed_node]:  * Depth		-> zedx/left_left_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631264566] [zedx.left.zed_node]:  * Depth Optical	-> zedx/left_left_camera_optical_frame
+[zed_wrapper-2] [INFO] [1709545558.631275542] [zedx.left.zed_node]:  * Point Cloud		-> zedx/left_left_camera_optical_frame
+[zed_wrapper-2] [INFO] [1709545558.631286390] [zedx.left.zed_node]:  * Disparity		-> zedx/left_left_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631297366] [zedx.left.zed_node]:  * Disparity Optical	-> zedx/left_left_camera_optical_frame
+[zed_wrapper-2] [INFO] [1709545558.631308182] [zedx.left.zed_node]:  * Confidence		-> zedx/left_left_camera_frame
+[zed_wrapper-2] [INFO] [1709545558.631318806] [zedx.left.zed_node]:  * Confidence Optical	-> zedx/left_left_camera_optical_frame
+[zed_wrapper-2] [INFO] [1709545558.631333494] [zedx.left.zed_node]:  * IMU			-> zedx/left_imu_link
+[zed_wrapper-2] [INFO] [1709545558.631393718] [zedx.left.zed_node]: *** PUBLISHED TOPICS ***
+[zed_wrapper-4] [INFO] [1709545558.686058854] [zedx.right.zed_node]: ZED SDK running on GPU #0
+[zed_wrapper-4] [INFO] [1709545558.686229415] [zedx.right.zed_node]:  * Camera Model  -> ZED X
+[zed_wrapper-4] [INFO] [1709545558.686257543] [zedx.right.zed_node]:  * Serial Number -> 40051193
+[zed_wrapper-4] [INFO] [1709545558.686294663] [zedx.right.zed_node]:  * Input	 -> GMSL input type
+[zed_wrapper-4] [INFO] [1709545558.686323047] [zedx.right.zed_node]:  * Camera FW Version  -> 2001
+[zed_wrapper-4] [INFO] [1709545558.686344008] [zedx.right.zed_node]:  * Sensors FW Version -> 1000
+[zed_wrapper-4] [INFO] [1709545558.686363592] [zedx.right.zed_node]:  * Camera grab frame size -> 1920x1200
+[zed_wrapper-4] [INFO] [1709545558.686386856] [zedx.right.zed_node]:  * Publishing frame size  -> 960x600
+[zed_wrapper-4] [INFO] [1709545558.686419368] [zedx.right.zed_node]: *** TF FRAMES ***
+[zed_wrapper-4] [INFO] [1709545558.686441960] [zedx.right.zed_node]:  * Map			-> map
+[zed_wrapper-4] [INFO] [1709545558.686458536] [zedx.right.zed_node]:  * Odometry		-> odom
+[zed_wrapper-4] [INFO] [1709545558.686472072] [zedx.right.zed_node]:  * Base			-> zedx/right_camera_link
+[zed_wrapper-4] [INFO] [1709545558.686484296] [zedx.right.zed_node]:  * Camera		-> zedx/right_camera_center
+[zed_wrapper-4] [INFO] [1709545558.686561161] [zedx.right.zed_node]:  * Left			-> zedx/right_left_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686579177] [zedx.right.zed_node]:  * Left Optical		-> zedx/right_left_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545558.686597449] [zedx.right.zed_node]:  * RGB			-> zedx/right_left_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686609705] [zedx.right.zed_node]:  * RGB Optical		-> zedx/right_left_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686620873] [zedx.right.zed_node]:  * Right		-> zedx/right_right_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686631369] [zedx.right.zed_node]:  * Right Optical	-> zedx/right_right_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545558.686642153] [zedx.right.zed_node]:  * Depth		-> zedx/right_left_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686653065] [zedx.right.zed_node]:  * Depth Optical	-> zedx/right_left_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545558.686664137] [zedx.right.zed_node]:  * Point Cloud		-> zedx/right_left_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545558.686675017] [zedx.right.zed_node]:  * Disparity		-> zedx/right_left_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686685866] [zedx.right.zed_node]:  * Disparity Optical	-> zedx/right_left_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545558.686696554] [zedx.right.zed_node]:  * Confidence		-> zedx/right_left_camera_frame
+[zed_wrapper-4] [INFO] [1709545558.686706794] [zedx.right.zed_node]:  * Confidence Optical	-> zedx/right_left_camera_optical_frame
+[zed_wrapper-4] [INFO] [1709545558.686717482] [zedx.right.zed_node]:  * IMU			-> zedx/right_imu_link
+[zed_wrapper-4] [INFO] [1709545558.686777290] [zedx.right.zed_node]: *** PUBLISHED TOPICS ***
+[zed_wrapper-2] [INFO] [1709545558.982239284] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb/image_rect_color
+[zed_wrapper-2] [INFO] [1709545558.982334740] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb/camera_info
+[zed_wrapper-2] [INFO] [1709545559.001628096] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb_gray/image_rect_gray
+[zed_wrapper-2] [INFO] [1709545559.001722240] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.019585251] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb_raw/image_raw_color
+[zed_wrapper-2] [INFO] [1709545559.019674788] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb_raw/camera_info
+[zed_wrapper-2] [INFO] [1709545559.033990163] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb_raw_gray/image_raw_gray
+[zed_wrapper-2] [INFO] [1709545559.034092532] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/rgb_raw_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.048510884] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left/image_rect_color
+[zed_wrapper-2] [INFO] [1709545559.048592580] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left/camera_info
+[zed_wrapper-2] [INFO] [1709545559.060286149] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_gray/image_rect_gray
+[zed_wrapper-2] [INFO] [1709545559.060365222] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.072443657] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_raw/image_raw_color
+[zed_wrapper-2] [INFO] [1709545559.072531497] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_raw/camera_info
+[zed_wrapper-2] [INFO] [1709545559.086209557] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_raw_gray/image_raw_gray
+[zed_wrapper-2] [INFO] [1709545559.086290742] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_raw_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.098646426] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right/image_rect_color
+[zed_wrapper-2] [INFO] [1709545559.098733403] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right/camera_info
+[zed_wrapper-2] [INFO] [1709545559.111765731] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right_gray/image_rect_gray
+[zed_wrapper-2] [INFO] [1709545559.111843716] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.124037448] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right_raw/image_raw_color
+[zed_wrapper-2] [INFO] [1709545559.124124552] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right_raw/camera_info
+[zed_wrapper-2] [INFO] [1709545559.137428082] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right_raw_gray/image_raw_gray
+[zed_wrapper-2] [INFO] [1709545559.137512658] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/right_raw_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.149171955] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/depth/depth_registered
+[zed_wrapper-2] [INFO] [1709545559.149252724] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/depth/camera_info
+[zed_wrapper-2] [INFO] [1709545559.158929321] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/depth/depth_info
+[zed_wrapper-4] [INFO] [1709545559.167551897] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb/image_rect_color
+[zed_wrapper-4] [INFO] [1709545559.168017468] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb/camera_info
+[zed_wrapper-2] [INFO] [1709545559.169731973] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/stereo/image_rect_color
+[zed_wrapper-2] [INFO] [1709545559.181002884] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/stereo_raw/image_raw_color
+[zed_wrapper-2] [INFO] [1709545559.183496114] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/confidence/confidence_map
+[zed_wrapper-4] [INFO] [1709545559.189773973] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb_gray/image_rect_gray
+[zed_wrapper-4] [INFO] [1709545559.190163447] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.192412387] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/disparity/disparity_image
+[zed_wrapper-2] [INFO] [1709545559.197404767] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/point_cloud/cloud_registered
+[zed_wrapper-2] [INFO] [1709545559.202491579] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/pose
+[zed_wrapper-2] [INFO] [1709545559.205611181] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/pose/status
+[zed_wrapper-4] [INFO] [1709545559.207354262] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb_raw/image_raw_color
+[zed_wrapper-4] [INFO] [1709545559.207565400] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb_raw/camera_info
+[zed_wrapper-2] [INFO] [1709545559.209137792] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/pose_with_covariance
+[zed_wrapper-2] [INFO] [1709545559.217700080] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/odom
+[zed_wrapper-4] [INFO] [1709545559.219383705] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb_raw_gray/image_raw_gray
+[zed_wrapper-4] [INFO] [1709545559.219625915] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/rgb_raw_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.220232446] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/odom/status
+[zed_wrapper-2] [INFO] [1709545559.224296277] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/path_map
+[zed_wrapper-2] [INFO] [1709545559.226867715] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/path_odom
+[zed_wrapper-4] [INFO] [1709545559.235225489] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left/image_rect_color
+[zed_wrapper-4] [INFO] [1709545559.235449811] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left/camera_info
+[zed_wrapper-2] [INFO] [1709545559.238389827] [zedx.left.zed_node]: Advertised on topic: /zedx/left/plane_marker
+[zed_wrapper-2] [INFO] [1709545559.243562752] [zedx.left.zed_node]: Advertised on topic: /zedx/left/plane
+[zed_wrapper-2] [INFO] [1709545559.247309684] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/imu/data
+[zed_wrapper-4] [INFO] [1709545559.248125369] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_gray/image_rect_gray
+[zed_wrapper-4] [INFO] [1709545559.248293658] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.249967971] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/imu/data_raw
+[zed_wrapper-2] [INFO] [1709545559.255128928] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/temperature/imu
+[zed_wrapper-2] [INFO] [1709545559.260569246] [zedx.left.zed_node]: Advertised on topic: /zedx/left/zed_node/left_cam_imu_transform
+[zed_wrapper-2] [INFO] [1709545559.260690303] [zedx.left.zed_node]: Camera-IMU Translation: 
+[zed_wrapper-2]  -0.002 -0.023 0.00022
+[zed_wrapper-2] [INFO] [1709545559.260770463] [zedx.left.zed_node]: Camera-IMU Rotation:
+[zed_wrapper-2] FFFFEB7CE050
+[zed_wrapper-2] 0.999994 -0.003047 0.001386
+[zed_wrapper-2] 0.003052 0.999990 -0.003345
+[zed_wrapper-2] -0.001376 0.003350 0.999993
+[zed_wrapper-2] 
+[zed_wrapper-2] [INFO] [1709545559.260802911] [zedx.left.zed_node]: *** Subscribers ***
+[zed_wrapper-4] [INFO] [1709545559.268344105] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_raw/image_raw_color
+[zed_wrapper-4] [INFO] [1709545559.268512874] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_raw/camera_info
+[zed_wrapper-2] [INFO] [1709545559.269083277] [zedx.left.zed_node]:  * Plane detection: '/clicked_point'
+[zed_wrapper-4] [INFO] [1709545559.291257705] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_raw_gray/image_raw_gray
+[zed_wrapper-4] [INFO] [1709545559.291854060] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_raw_gray/camera_info
+[zed_wrapper-4] [INFO] [1709545559.306782751] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right/image_rect_color
+[zed_wrapper-4] [INFO] [1709545559.306907392] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right/camera_info
+[zed_wrapper-4] [INFO] [1709545559.327809556] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right_gray/image_rect_gray
+[zed_wrapper-4] [INFO] [1709545559.328015701] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right_gray/camera_info
+[zed_wrapper-2] [INFO] [1709545559.328102101] [zedx.left.zed_node]: *** Starting Positional Tracking ***
+[zed_wrapper-2] [INFO] [1709545559.328185302] [zedx.left.zed_node]:  * Waiting for valid static transformations...
+[zed_wrapper-2] [INFO] [1709545559.328377719] [zedx.left.zed_node]:  Static transform Sensor to Base [zedx/left_left_camera_frame -> zedx/left_camera_link]
+[zed_wrapper-2] [INFO] [1709545559.328406679] [zedx.left.zed_node]:   * Translation: {0.010,-0.060,-0.016}
+[zed_wrapper-2] [INFO] [1709545559.328427543] [zedx.left.zed_node]:   * Rotation: {0.000,-0.000,0.000}
+[zed_wrapper-2] [INFO] [1709545559.328472023] [zedx.left.zed_node]:  Static transform Sensor to Camera Center [zedx/left_left_camera_frame -> zedx/left_camera_center]
+[zed_wrapper-2] [INFO] [1709545559.328492151] [zedx.left.zed_node]:   * Translation: {0.010,-0.060,0.000}
+[zed_wrapper-2] [INFO] [1709545559.328507671] [zedx.left.zed_node]:   * Rotation: {0.000,-0.000,0.000}
+[zed_wrapper-2] [INFO] [1709545559.328534936] [zedx.left.zed_node]:  Static transform Camera Center to Base [zedx/left_camera_center -> zedx/left_camera_link]
+[zed_wrapper-2] [INFO] [1709545559.328550168] [zedx.left.zed_node]:   * Translation: {0.000,0.000,-0.016}
+[zed_wrapper-2] [INFO] [1709545559.328563736] [zedx.left.zed_node]:   * Rotation: {0.000,-0.000,0.000}
+[zed_wrapper-2] [INFO] [1709545559.329658878] [zedx.left.zed_node]: Initial ZED left camera pose (ZED pos. tracking): 
+[zed_wrapper-2] [INFO] [1709545559.329688350] [zedx.left.zed_node]:  * T: [-0.01,0.06,0.016]
+[zed_wrapper-2] [INFO] [1709545559.329779903] [zedx.left.zed_node]:  * Q: [0,0,0,1]
+[zed_wrapper-4] [INFO] [1709545559.343140201] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right_raw/image_raw_color
+[zed_wrapper-4] [INFO] [1709545559.343308554] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right_raw/camera_info
+[zed_wrapper-4] [INFO] [1709545559.358130268] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right_raw_gray/image_raw_gray
+[zed_wrapper-4] [INFO] [1709545559.358260381] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/right_raw_gray/camera_info
+[zed_wrapper-4] [INFO] [1709545559.364863105] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/depth/depth_registered
+[zed_wrapper-4] [INFO] [1709545559.364984098] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/depth/camera_info
+[zed_wrapper-2] [WARN] [1709545559.367841618] [zedx.left.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-2] [WARN] [1709545559.372870894] [zedx.left.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [INFO] [1709545559.373271280] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/depth/depth_info
+[zed_wrapper-2] [WARN] [1709545559.377963178] [zedx.left.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [INFO] [1709545559.381763935] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/stereo/image_rect_color
+[zed_wrapper-2] [WARN] [1709545559.383181255] [zedx.left.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-2] [WARN] [1709545559.388265475] [zedx.left.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [INFO] [1709545559.397981337] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/stereo_raw/image_raw_color
+[zed_wrapper-4] [INFO] [1709545559.399283137] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/confidence/confidence_map
+[zed_wrapper-4] [INFO] [1709545559.404332189] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/disparity/disparity_image
+[zed_wrapper-4] [INFO] [1709545559.406594537] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/point_cloud/cloud_registered
+[zed_wrapper-4] [INFO] [1709545559.410352830] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/pose
+[zed_wrapper-4] [INFO] [1709545559.412374345] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/pose/status
+[zed_wrapper-4] [INFO] [1709545559.414459029] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/pose_with_covariance
+[zed_wrapper-4] [INFO] [1709545559.420340630] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/odom
+[zed_wrapper-4] [INFO] [1709545559.421977279] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/odom/status
+[zed_wrapper-4] [INFO] [1709545559.423185797] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/path_map
+[zed_wrapper-4] [INFO] [1709545559.425124624] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/path_odom
+[zed_wrapper-4] [INFO] [1709545559.431937206] [zedx.right.zed_node]: Advertised on topic: /zedx/right/plane_marker
+[zed_wrapper-4] [INFO] [1709545559.435094440] [zedx.right.zed_node]: Advertised on topic: /zedx/right/plane
+[zed_wrapper-4] [INFO] [1709545559.437095955] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/imu/data
+[zed_wrapper-4] [INFO] [1709545559.438168089] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/imu/data_raw
+[zed_wrapper-4] [INFO] [1709545559.442810195] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/temperature/imu
+[zed_wrapper-4] [INFO] [1709545559.444351387] [zedx.right.zed_node]: Advertised on topic: /zedx/right/zed_node/left_cam_imu_transform
+[zed_wrapper-4] [INFO] [1709545559.444473788] [zedx.right.zed_node]: Camera-IMU Translation: 
+[zed_wrapper-4]  -0.002 -0.023 0.00022
+[zed_wrapper-4] [INFO] [1709545559.444573788] [zedx.right.zed_node]: Camera-IMU Rotation:
+[zed_wrapper-4] FFFFC4A44580
+[zed_wrapper-4] 1.000000 0.000000 -0.000000
+[zed_wrapper-4] -0.000000 0.999977 -0.006805
+[zed_wrapper-4] 0.000000 0.006805 0.999977
+[zed_wrapper-4] 
+[zed_wrapper-4] [INFO] [1709545559.445183008] [zedx.right.zed_node]: *** Subscribers ***
+[zed_wrapper-4] [INFO] [1709545559.459801809] [zedx.right.zed_node]:  * Plane detection: '/clicked_point'
+[zed_wrapper-4] [INFO] [1709545559.535337493] [zedx.right.zed_node]: *** Starting Positional Tracking ***
+[zed_wrapper-4] [INFO] [1709545559.535535094] [zedx.right.zed_node]:  * Waiting for valid static transformations...
+[zed_wrapper-4] [INFO] [1709545559.535934040] [zedx.right.zed_node]:  Static transform Sensor to Base [zedx/right_left_camera_frame -> zedx/right_camera_link]
+[zed_wrapper-4] [INFO] [1709545559.536004056] [zedx.right.zed_node]:   * Translation: {0.010,-0.060,-0.016}
+[zed_wrapper-4] [INFO] [1709545559.536069273] [zedx.right.zed_node]:   * Rotation: {0.000,-0.000,0.000}
+[zed_wrapper-4] [INFO] [1709545559.536222937] [zedx.right.zed_node]:  Static transform Sensor to Camera Center [zedx/right_left_camera_frame -> zedx/right_camera_center]
+[zed_wrapper-4] [INFO] [1709545559.536292410] [zedx.right.zed_node]:   * Translation: {0.010,-0.060,0.000}
+[zed_wrapper-4] [INFO] [1709545559.536363098] [zedx.right.zed_node]:   * Rotation: {0.000,-0.000,0.000}
+[zed_wrapper-4] [INFO] [1709545559.536448891] [zedx.right.zed_node]:  Static transform Camera Center to Base [zedx/right_camera_center -> zedx/right_camera_link]
+[zed_wrapper-4] [INFO] [1709545559.536543419] [zedx.right.zed_node]:   * Translation: {0.000,0.000,-0.016}
+[zed_wrapper-4] [INFO] [1709545559.536742524] [zedx.right.zed_node]:   * Rotation: {0.000,-0.000,0.000}
+[zed_wrapper-4] [INFO] [1709545559.538706919] [zedx.right.zed_node]: Initial ZED left camera pose (ZED pos. tracking): 
+[zed_wrapper-4] [INFO] [1709545559.538831944] [zedx.right.zed_node]:  * T: [-0.01,0.06,0.016]
+[zed_wrapper-4] [INFO] [1709545559.538891496] [zedx.right.zed_node]:  * Q: [0,0,0,1]
+[zed_wrapper-4] [WARN] [1709545559.559802012] [zedx.right.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [WARN] [1709545559.564829624] [zedx.right.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [WARN] [1709545559.569924725] [zedx.right.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [WARN] [1709545559.575002353] [zedx.right.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [WARN] [1709545559.580202126] [zedx.right.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-4] [WARN] [1709545559.585273258] [zedx.right.zed_node]: sl::getSensorsData error: CAMERA NOT DETECTED
+[zed_wrapper-2] [INFO] [1709545559.605031032] [zedx.left.zed_node]: Odometry aligned to last tracking pose
+[zed_wrapper-2] [INFO] [1709545559.605163128] [zedx.left.zed_node]:  * Initial odometry [odom -> zedx/left_camera_link] - {-0.000,0.000,-0.001} {0.379,1.573,-0.009}
+[zed_wrapper-4] [INFO] [1709545559.772455706] [zedx.right.zed_node]: Odometry aligned to last tracking pose
+[zed_wrapper-4] [INFO] [1709545559.772539322] [zedx.right.zed_node]:  * Initial odometry [odom -> zedx/right_camera_link] - {-0.012,-0.001,0.001} {-4.052,44.757,-0.387}
+[zed_wrapper-4] [ERROR] [1709545592.254314418] [zedx.right.zed_node]: Critical camera error: CAMERA NOT INITIALIZED. Node stopped.
+[zed_wrapper-4] [ZED][WARNING] CAMERA NOT INITIALIZED in sl::ERROR_CODE sl::Camera::grab(sl::RuntimeParameters)
+[zed_wrapper-4] Camera is frozen0 --> send reboot 
+[zed_wrapper-2] Camera is frozen1 --> send reboot 

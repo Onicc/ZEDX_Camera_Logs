@@ -1,0 +1,2154 @@
+$ sudo dmesg
+[13792.880098] zedx 31-0010: zedx_write_table: Channel 1
+[13792.880522] zedx 31-0010: zedx_write_table: Channel 1
+[13792.881090] zedx 31-0010: zedx_write_table: Channel 1
+[13792.881559] zedx 31-0010: zedx_write_table: Channel 1
+[13792.882004] zedx 31-0010: zedx_write_table: Channel 1
+[13792.882439] zedx 31-0010: zedx_write_table: Channel 1
+[13792.882871] zedx 31-0010: zedx_write_table: Channel 1
+[13792.883306] zedx 31-0010: zedx_write_table: Channel 1
+[13792.883739] zedx 31-0010: zedx_write_table: Channel 1
+[13792.884173] zedx 31-0010: zedx_write_table: Channel 1
+[13792.884608] zedx 31-0010: zedx_write_table: Channel 1
+[13792.885067] zedx 31-0010: zedx_write_table: Channel 1
+[13792.885506] zedx 31-0010: zedx_write_table: Channel 1
+[13792.885939] zedx 31-0010: zedx_write_table: Channel 1
+[13792.886376] zedx 31-0010: zedx_write_table: Channel 1
+[13792.886809] zedx 31-0010: zedx_write_table: Channel 1
+[13792.887244] zedx 31-0010: zedx_write_table: Channel 1
+[13792.887676] zedx 31-0010: zedx_write_table: Channel 1
+[13792.888108] zedx 31-0010: zedx_write_table: Channel 1
+[13792.888541] zedx 31-0010: zedx_write_table: Channel 1
+[13792.888976] zedx 31-0010: zedx_write_table: Channel 1
+[13792.889411] zedx 31-0010: zedx_write_table: Channel 1
+[13792.889843] zedx 31-0010: zedx_write_table: Channel 1
+[13792.890276] zedx 31-0010: zedx_write_table: Channel 1
+[13792.890708] zedx 31-0010: zedx_write_table: Channel 1
+[13792.891139] zedx 31-0010: zedx_write_table: Channel 1
+[13792.891572] zedx 31-0010: zedx_write_table: Channel 1
+[13792.892004] zedx 31-0010: zedx_write_table: Channel 1
+[13792.892435] zedx 31-0010: zedx_write_table: Channel 1
+[13792.892867] zedx 31-0010: zedx_write_table: Channel 1
+[13792.893371] zedx 31-0010: zedx_write_table: Channel 1
+[13792.893817] zedx 31-0010: zedx_write_table: Channel 1
+[13792.894255] zedx 31-0010: zedx_write_table: Channel 1
+[13792.965976] mttcan c310000.mttcan can0: entered error warning state
+[13792.972629] mttcan c310000.mttcan can0: entered error passive state
+[13793.068123] mttcan c310000.mttcan can0: entered error passive state
+[13793.108930] zedx 31-0010: zedx_write_table: Channel 1
+[13793.109427] zedx 31-0010: zedx_write_table: Channel 1
+[13793.109875] zedx 31-0010: zedx_write_table: Channel 1
+[13793.110315] zedx 31-0010: zedx_write_table: Channel 1
+[13793.110750] zedx 31-0010: zedx_write_table: Channel 1
+[13793.111185] zedx 31-0010: zedx_write_table: Channel 1
+[13793.111621] zedx 31-0010: zedx_write_table: Channel 1
+[13793.112058] zedx 31-0010: zedx_write_table: Channel 1
+[13793.112491] zedx 31-0010: zedx_write_table: Channel 1
+[13793.112937] zedx 31-0010: zedx_write_table: Channel 1
+[13793.113385] zedx 31-0010: zedx_write_table: Channel 1
+[13793.113821] zedx 31-0010: zedx_write_table: Channel 1
+[13793.114261] zedx 31-0010: zedx_write_table: Channel 1
+[13793.114696] zedx 31-0010: zedx_write_table: Channel 1
+[13793.115133] zedx 31-0010: zedx_write_table: Channel 1
+[13793.115568] zedx 31-0010: zedx_write_table: Channel 1
+[13793.116001] zedx 31-0010: zedx_write_table: Channel 1
+[13793.116437] zedx 31-0010: zedx_write_table: Channel 1
+[13793.116873] zedx 31-0010: zedx_write_table: Channel 1
+[13793.117325] zedx 31-0010: zedx_write_table: Channel 1
+[13793.117765] zedx 31-0010: zedx_write_table: Channel 1
+[13793.118201] zedx 31-0010: zedx_write_table: Channel 1
+[13793.118636] zedx 31-0010: zedx_write_table: Channel 1
+[13793.119072] zedx 31-0010: zedx_write_table: Channel 1
+[13793.119509] zedx 31-0010: zedx_write_table: Channel 1
+[13793.119944] zedx 31-0010: zedx_write_table: Channel 1
+[13793.120381] zedx 31-0010: zedx_write_table: Channel 1
+[13793.120815] zedx 31-0010: zedx_write_table: Channel 1
+[13793.121277] zedx 31-0010: zedx_write_table: Channel 1
+[13793.121833] zedx 31-0010: zedx_write_table: Channel 1
+[13793.122314] zedx 31-0010: zedx_write_table: Channel 1
+[13793.122768] zedx 31-0010: zedx_write_table: Channel 1
+[13793.123225] zedx 31-0010: zedx_write_table: Channel 1
+[13793.123652] zedx 31-0010: zedx_write_table: Channel 1
+[13793.167944] mttcan c310000.mttcan can0: entered error warning state
+[13793.228918] zedx 31-0010: zedx_write_table: Channel 1
+[13793.229406] zedx 31-0010: zedx_write_table: Channel 1
+[13793.229850] zedx 31-0010: zedx_write_table: Channel 1
+[13793.230287] zedx 31-0010: zedx_write_table: Channel 1
+[13793.230725] zedx 31-0010: zedx_write_table: Channel 1
+[13793.268750] mttcan c310000.mttcan can0: entered error warning state
+[13793.275426] mttcan c310000.mttcan can0: entered error passive state
+[13793.336928] zedx 31-0010: zedx_write_table: Channel 1
+[13793.337456] zedx 31-0010: zedx_write_table: Channel 1
+[13793.337907] zedx 31-0010: zedx_write_table: Channel 1
+[13793.338339] zedx 31-0010: zedx_write_table: Channel 1
+[13793.338763] zedx 31-0010: zedx_write_table: Channel 1
+[13793.339185] zedx 31-0010: zedx_write_table: Channel 1
+[13793.339605] zedx 31-0010: zedx_write_table: Channel 1
+[13793.340022] zedx 31-0010: zedx_write_table: Channel 1
+[13793.340438] zedx 31-0010: zedx_write_table: Channel 1
+[13793.340853] zedx 31-0010: zedx_write_table: Channel 1
+[13793.341318] zedx 31-0010: zedx_write_table: Channel 1
+[13793.341784] zedx 31-0010: zedx_write_table: Channel 1
+[13793.342226] zedx 31-0010: zedx_write_table: Channel 1
+[13793.342696] zedx 31-0010: zedx_write_table: Channel 1
+[13793.343149] zedx 31-0010: zedx_write_table: Channel 1
+[13793.343577] zedx 31-0010: zedx_write_table: Channel 1
+[13793.343996] zedx 31-0010: zedx_write_table: Channel 1
+[13793.344413] zedx 31-0010: zedx_write_table: Channel 1
+[13793.344832] zedx 31-0010: zedx_write_table: Channel 1
+[13793.345257] zedx 31-0010: zedx_write_table: Channel 1
+[13793.345676] zedx 31-0010: zedx_write_table: Channel 1
+[13793.370202] mttcan c310000.mttcan can0: entered error warning state
+[13793.376974] mttcan c310000.mttcan can0: entered error passive state
+[13793.473324] mttcan c310000.mttcan can0: entered error passive state
+[13793.573085] mttcan c310000.mttcan can0: entered error warning state
+[13793.579744] mttcan c310000.mttcan can0: entered error passive state
+[13793.669430] zedx 31-0010: zedx_write_table: Channel 1
+[13793.669882] zedx 31-0010: zedx_write_table: Channel 1
+[13793.674445] mttcan c310000.mttcan can0: entered error warning state
+[13793.681146] mttcan c310000.mttcan can0: entered error passive state
+[13793.775674] mttcan c310000.mttcan can0: entered error warning state
+[13793.777139] bwmgr API not supported
+[13793.782474] mttcan c310000.mttcan can0: entered error passive state
+[13793.812305] bwmgr API not supported
+[13793.813233] bwmgr API not supported
+[13793.817002] bwmgr API not supported
+[13793.846661] bwmgr API not supported
+[13793.877743] mttcan c310000.mttcan can0: entered error passive state
+[13793.979314] mttcan c310000.mttcan can0: entered error passive state
+[13794.079982] mttcan c310000.mttcan can0: entered error passive state
+[13794.181544] mttcan c310000.mttcan can0: entered error warning state
+[13794.282865] mttcan c310000.mttcan can0: entered error warning state
+[13794.289629] mttcan c310000.mttcan can0: entered error passive state
+[13794.383378] mttcan c310000.mttcan can0: entered error warning state
+[13794.389944] mttcan c310000.mttcan can0: entered error passive state
+[13794.486780] mttcan c310000.mttcan can0: entered error passive state
+[13794.586041] mttcan c310000.mttcan can0: entered error warning state
+[13794.686998] mttcan c310000.mttcan can0: entered error warning state
+[13794.787939] mttcan c310000.mttcan can0: entered error warning state
+[13794.794801] mttcan c310000.mttcan can0: entered error passive state
+[13794.892739] mttcan c310000.mttcan can0: entered error passive state
+[13794.967059] bwmgr API not supported
+[13794.992106] mttcan c310000.mttcan can0: entered error passive state
+[13795.091422] mttcan c310000.mttcan can0: entered error warning state
+[13795.098049] mttcan c310000.mttcan can0: entered error passive state
+[13795.192404] mttcan c310000.mttcan can0: entered error warning state
+[13795.199005] mttcan c310000.mttcan can0: entered error passive state
+[13795.294820] mttcan c310000.mttcan can0: entered error passive state
+[13795.395395] mttcan c310000.mttcan can0: entered error warning state
+[13795.497005] mttcan c310000.mttcan can0: entered error passive state
+[13795.597316] mttcan c310000.mttcan can0: entered error warning state
+[13795.603931] mttcan c310000.mttcan can0: entered error passive state
+[13795.635120] bwmgr API not supported
+[13795.635393] bwmgr API not supported
+[13795.639479] bwmgr API not supported
+[13795.699136] mttcan c310000.mttcan can0: entered error passive state
+[13795.798743] mttcan c310000.mttcan can0: entered error warning state
+[13795.900242] mttcan c310000.mttcan can0: entered error warning state
+[13795.906989] mttcan c310000.mttcan can0: entered error passive state
+[13796.001254] mttcan c310000.mttcan can0: entered error warning state
+[13796.007880] mttcan c310000.mttcan can0: entered error passive state
+[13796.103026] mttcan c310000.mttcan can0: entered error warning state
+[13796.203986] mttcan c310000.mttcan can0: entered error warning state
+[13796.410066] mttcan c310000.mttcan can0: entered error warning state
+[13796.416710] mttcan c310000.mttcan can0: entered error passive state
+[13796.511247] mttcan c310000.mttcan can0: entered error passive state
+[13796.611878] mttcan c310000.mttcan can0: entered error warning state
+[13796.618602] mttcan c310000.mttcan can0: entered error passive state
+[13796.714331] mttcan c310000.mttcan can0: entered error passive state
+[13796.815446] mttcan c310000.mttcan can0: entered error warning state
+[13796.822169] mttcan c310000.mttcan can0: entered error passive state
+[13797.019130] mttcan c310000.mttcan can0: entered error warning state
+[13797.119310] mttcan c310000.mttcan can0: entered error warning state
+[13797.221753] mttcan c310000.mttcan can0: entered error warning state
+[13797.324002] mttcan c310000.mttcan can0: entered error warning state
+[13797.330655] mttcan c310000.mttcan can0: entered error passive state
+[13797.424961] mttcan c310000.mttcan can0: entered error warning state
+[13797.431586] mttcan c310000.mttcan can0: entered error passive state
+[13797.529603] mttcan c310000.mttcan can0: entered error passive state
+[13797.626508] mttcan c310000.mttcan can0: entered error warning state
+[13797.727463] mttcan c310000.mttcan can0: entered error warning state
+[13797.829895] mttcan c310000.mttcan can0: entered error passive state
+[13797.931203] mttcan c310000.mttcan can0: entered error passive state
+[13798.032336] mttcan c310000.mttcan can0: entered error warning state
+[13798.039140] mttcan c310000.mttcan can0: entered error passive state
+[13798.134492] mttcan c310000.mttcan can0: entered error passive state
+[13798.234235] mttcan c310000.mttcan can0: entered error warning state
+[13798.240955] mttcan c310000.mttcan can0: entered error passive state
+[13798.335173] mttcan c310000.mttcan can0: entered error warning state
+[13798.341935] mttcan c310000.mttcan can0: entered error passive state
+[13798.438755] mttcan c310000.mttcan can0: entered error passive state
+[13798.539828] mttcan c310000.mttcan can0: entered error passive state
+[13798.641459] mttcan c310000.mttcan can0: entered error passive state
+[13798.945422] mttcan c310000.mttcan can0: entered error warning state
+[13798.952161] mttcan c310000.mttcan can0: entered error passive state
+[13799.044809] mttcan c310000.mttcan can0: entered error warning state
+[13799.051446] mttcan c310000.mttcan can0: entered error passive state
+[13799.146476] mttcan c310000.mttcan can0: entered error warning state
+[13799.153235] mttcan c310000.mttcan can0: entered error passive state
+[13799.248547] mttcan c310000.mttcan can0: entered error passive state
+[13799.348366] mttcan c310000.mttcan can0: entered error warning state
+[13799.449450] mttcan c310000.mttcan can0: entered error warning state
+[13799.456068] mttcan c310000.mttcan can0: entered error passive state
+[13799.551736] mttcan c310000.mttcan can0: entered error warning state
+[13799.652651] mttcan c310000.mttcan can0: entered error warning state
+[13799.659449] mttcan c310000.mttcan can0: entered error passive state
+[13799.754326] mttcan c310000.mttcan can0: entered error warning state
+[13799.761090] mttcan c310000.mttcan can0: entered error passive state
+[13799.856979] mttcan c310000.mttcan can0: entered error passive state
+[13799.957891] mttcan c310000.mttcan can0: entered error passive state
+[13800.059232] mttcan c310000.mttcan can0: entered error passive state
+[13800.160579] mttcan c310000.mttcan can0: entered error passive state
+[13800.261041] mttcan c310000.mttcan can0: entered error warning state
+[13800.267723] mttcan c310000.mttcan can0: entered error passive state
+[13800.361838] mttcan c310000.mttcan can0: entered error warning state
+[13800.368620] mttcan c310000.mttcan can0: entered error passive state
+[13800.465004] mttcan c310000.mttcan can0: entered error passive state
+[13800.564637] mttcan c310000.mttcan can0: entered error warning state
+[13800.665958] mttcan c310000.mttcan can0: entered error warning state
+[13800.672806] mttcan c310000.mttcan can0: entered error passive state
+[13800.766699] mttcan c310000.mttcan can0: entered error warning state
+[13800.869193] mttcan c310000.mttcan can0: entered error passive state
+[13800.968963] mttcan c310000.mttcan can0: entered error warning state
+[13800.975705] mttcan c310000.mttcan can0: entered error passive state
+[13801.072351] mttcan c310000.mttcan can0: entered error passive state
+[13801.172428] mttcan c310000.mttcan can0: entered error warning state
+[13801.179242] mttcan c310000.mttcan can0: entered error passive state
+[13801.376906] mttcan c310000.mttcan can0: entered error warning state
+[13801.383560] mttcan c310000.mttcan can0: entered error passive state
+[13801.478070] mttcan c310000.mttcan can0: entered error passive state
+[13801.577902] mttcan c310000.mttcan can0: entered error warning state
+[13801.678947] mttcan c310000.mttcan can0: entered error warning state
+[13801.780907] mttcan c310000.mttcan can0: entered error warning state
+[13801.881431] mttcan c310000.mttcan can0: entered error warning state
+[13801.983633] mttcan c310000.mttcan can0: entered error warning state
+[13801.990384] mttcan c310000.mttcan can0: entered error passive state
+[13802.087027] mttcan c310000.mttcan can0: entered error passive state
+[13802.186560] mttcan c310000.mttcan can0: entered error warning state
+[13802.193250] mttcan c310000.mttcan can0: entered error passive state
+[13802.289049] mttcan c310000.mttcan can0: entered error passive state
+[13802.388492] mttcan c310000.mttcan can0: entered error warning state
+[13802.489716] mttcan c310000.mttcan can0: entered error warning state
+[13802.591077] mttcan c310000.mttcan can0: entered error warning state
+[13802.691992] mttcan c310000.mttcan can0: entered error warning state
+[13802.698719] mttcan c310000.mttcan can0: entered error passive state
+[13802.793362] mttcan c310000.mttcan can0: entered error passive state
+[13802.893942] mttcan c310000.mttcan can0: entered error passive state
+[13802.994120] mttcan c310000.mttcan can0: entered error warning state
+[13803.095206] mttcan c310000.mttcan can0: entered error warning state
+[13803.101884] mttcan c310000.mttcan can0: entered error passive state
+[13803.196070] mttcan c310000.mttcan can0: entered error warning state
+[13803.202982] mttcan c310000.mttcan can0: entered error passive state
+[13803.298229] mttcan c310000.mttcan can0: entered error warning state
+[13803.305044] mttcan c310000.mttcan can0: entered error passive state
+[13803.400954] mttcan c310000.mttcan can0: entered error warning state
+[13803.501501] mttcan c310000.mttcan can0: entered error warning state
+[13803.508307] mttcan c310000.mttcan can0: entered error warning state
+[13803.514812] mttcan c310000.mttcan can0: entered error passive state
+[13803.603324] mttcan c310000.mttcan can0: entered error warning state
+[13803.704276] mttcan c310000.mttcan can0: entered error warning state
+[13803.805743] mttcan c310000.mttcan can0: entered error warning state
+[13803.908929] mttcan c310000.mttcan can0: entered error warning state
+[13804.008817] mttcan c310000.mttcan can0: entered error warning state
+[13804.015500] mttcan c310000.mttcan can0: entered error passive state
+[13804.109800] mttcan c310000.mttcan can0: entered error warning state
+[13804.210695] mttcan c310000.mttcan can0: entered error warning state
+[13804.217395] mttcan c310000.mttcan can0: entered error passive state
+[13804.311941] mttcan c310000.mttcan can0: entered error warning state
+[13804.318633] mttcan c310000.mttcan can0: entered error passive state
+[13804.414620] mttcan c310000.mttcan can0: entered error passive state
+[13804.514769] mttcan c310000.mttcan can0: entered error warning state
+[13804.615472] mttcan c310000.mttcan can0: entered error warning state
+[13804.719269] mttcan c310000.mttcan can0: entered error warning state
+[13804.819302] mttcan c310000.mttcan can0: entered error warning state
+[13804.920221] mttcan c310000.mttcan can0: entered error warning state
+[13804.927129] mttcan c310000.mttcan can0: entered error passive state
+[13805.023312] mttcan c310000.mttcan can0: entered error passive state
+[13805.122928] mttcan c310000.mttcan can0: entered error warning state
+[13805.225054] mttcan c310000.mttcan can0: entered error warning state
+[13805.325946] mttcan c310000.mttcan can0: entered error passive state
+[13805.425897] mttcan c310000.mttcan can0: entered error warning state
+[13805.527615] mttcan c310000.mttcan can0: entered error warning state
+[13805.628155] mttcan c310000.mttcan can0: entered error warning state
+[13805.635748] mttcan c310000.mttcan can0: entered error passive state
+[13805.729954] mttcan c310000.mttcan can0: entered error passive state
+[13805.829738] mttcan c310000.mttcan can0: entered error warning state
+[13805.931916] mttcan c310000.mttcan can0: entered error warning state
+[13806.035679] mttcan c310000.mttcan can0: entered error warning state
+[13806.042424] mttcan c310000.mttcan can0: entered error passive state
+[13806.136459] mttcan c310000.mttcan can0: entered error passive state
+[13806.236160] mttcan c310000.mttcan can0: entered error warning state
+[13806.337104] mttcan c310000.mttcan can0: entered error warning state
+[13806.343772] mttcan c310000.mttcan can0: entered error passive state
+[13806.440087] mttcan c310000.mttcan can0: entered error passive state
+[13806.540088] mttcan c310000.mttcan can0: entered error warning state
+[13806.642404] mttcan c310000.mttcan can0: entered error passive state
+[13806.743654] mttcan c310000.mttcan can0: entered error warning state
+[13806.750382] mttcan c310000.mttcan can0: entered error passive state
+[13806.845817] mttcan c310000.mttcan can0: entered error passive state
+[13806.852625] mttcan c310000.mttcan can0: entered error passive state
+[13806.945555] mttcan c310000.mttcan can0: entered error warning state
+[13806.952297] mttcan c310000.mttcan can0: entered error passive state
+[13807.048523] mttcan c310000.mttcan can0: entered error passive state
+[13807.148647] mttcan c310000.mttcan can0: entered error warning state
+[13807.250038] mttcan c310000.mttcan can0: entered error warning state
+[13807.256820] mttcan c310000.mttcan can0: entered error passive state
+[13807.351437] mttcan c310000.mttcan can0: entered error passive state
+[13807.358097] mttcan c310000.mttcan can0: entered error passive state
+[13807.453557] mttcan c310000.mttcan can0: entered error passive state
+[13807.552200] mttcan c310000.mttcan can0: entered error warning state
+[13807.558934] mttcan c310000.mttcan can0: entered error passive state
+[13807.565773] mttcan c310000.mttcan can0: entered error passive state
+[13807.654389] mttcan c310000.mttcan can0: entered error passive state
+[13807.757031] mttcan c310000.mttcan can0: entered error passive state
+[13807.856495] mttcan c310000.mttcan can0: entered error warning state
+[13807.863355] mttcan c310000.mttcan can0: entered error passive state
+[13807.957755] mttcan c310000.mttcan can0: entered error warning state
+[13808.061167] mttcan c310000.mttcan can0: entered error passive state
+[13808.159444] mttcan c310000.mttcan can0: entered error warning state
+[13808.260766] mttcan c310000.mttcan can0: entered error warning state
+[13808.267767] mttcan c310000.mttcan can0: entered error passive state
+[13808.361294] mttcan c310000.mttcan can0: entered error warning state
+[13808.464198] mttcan c310000.mttcan can0: entered error passive state
+[13808.564263] mttcan c310000.mttcan can0: entered error warning state
+[13808.666207] mttcan c310000.mttcan can0: entered error passive state
+[13808.766515] mttcan c310000.mttcan can0: entered error warning state
+[13808.773418] mttcan c310000.mttcan can0: entered error passive state
+[13808.868693] mttcan c310000.mttcan can0: entered error passive state
+[13808.968421] mttcan c310000.mttcan can0: entered error warning state
+[13809.069477] mttcan c310000.mttcan can0: entered error warning state
+[13809.076276] mttcan c310000.mttcan can0: entered error passive state
+[13809.171157] mttcan c310000.mttcan can0: entered error warning state
+[13809.177885] mttcan c310000.mttcan can0: entered error passive state
+[13809.273326] mttcan c310000.mttcan can0: entered error warning state
+[13809.280010] mttcan c310000.mttcan can0: entered error passive state
+[13809.374260] mttcan c310000.mttcan can0: entered error warning state
+[13809.380904] mttcan c310000.mttcan can0: entered error passive state
+[13809.476440] mttcan c310000.mttcan can0: entered error passive state
+[13809.577413] mttcan c310000.mttcan can0: entered error warning state
+[13809.780444] mttcan c310000.mttcan can0: entered error warning state
+[13809.787265] mttcan c310000.mttcan can0: entered error passive state
+[13809.882831] mttcan c310000.mttcan can0: entered error passive state
+[13809.982669] mttcan c310000.mttcan can0: entered error warning state
+[13810.083613] mttcan c310000.mttcan can0: entered error warning state
+[13810.090447] mttcan c310000.mttcan can0: entered error passive state
+[13810.184688] mttcan c310000.mttcan can0: entered error warning state
+[13810.191406] mttcan c310000.mttcan can0: entered error passive state
+[13810.285610] mttcan c310000.mttcan can0: entered error warning state
+[13810.386539] mttcan c310000.mttcan can0: entered error warning state
+[13810.489681] mttcan c310000.mttcan can0: entered error passive state
+[13810.589524] mttcan c310000.mttcan can0: entered error passive state
+[13810.689346] mttcan c310000.mttcan can0: entered error warning state
+[13810.696141] mttcan c310000.mttcan can0: entered error passive state
+[13810.790296] mttcan c310000.mttcan can0: entered error warning state
+[13810.797175] mttcan c310000.mttcan can0: entered error passive state
+[13810.891699] mttcan c310000.mttcan can0: entered error warning state
+[13810.992274] mttcan c310000.mttcan can0: entered error warning state
+[13811.095235] mttcan c310000.mttcan can0: entered error passive state
+[13811.194048] mttcan c310000.mttcan can0: entered error warning state
+[13811.294988] mttcan c310000.mttcan can0: entered error warning state
+[13811.301702] mttcan c310000.mttcan can0: entered error passive state
+[13811.396763] mttcan c310000.mttcan can0: entered error warning state
+[13811.499403] mttcan c310000.mttcan can0: entered error passive state
+[13811.600214] mttcan c310000.mttcan can0: entered error passive state
+[13811.701329] mttcan c310000.mttcan can0: entered error passive state
+[13811.708093] mttcan c310000.mttcan can0: entered error passive state
+[13811.801100] mttcan c310000.mttcan can0: entered error warning state
+[13811.807742] mttcan c310000.mttcan can0: entered error passive state
+[13811.902041] mttcan c310000.mttcan can0: entered error warning state
+[13811.908898] mttcan c310000.mttcan can0: entered error passive state
+[13812.002938] mttcan c310000.mttcan can0: entered error warning state
+[13812.009681] mttcan c310000.mttcan can0: entered error passive state
+[13812.105706] mttcan c310000.mttcan can0: entered error passive state
+[13812.205551] mttcan c310000.mttcan can0: entered error warning state
+[13812.306492] mttcan c310000.mttcan can0: entered error warning state
+[13812.408713] mttcan c310000.mttcan can0: entered error warning state
+[13812.415477] mttcan c310000.mttcan can0: entered error passive state
+[13812.512043] mttcan c310000.mttcan can0: entered error passive state
+[13812.611317] mttcan c310000.mttcan can0: entered error warning state
+[13812.712685] mttcan c310000.mttcan can0: entered error warning state
+[13812.719375] mttcan c310000.mttcan can0: entered error passive state
+[13812.813994] mttcan c310000.mttcan can0: entered error warning state
+[13812.820676] mttcan c310000.mttcan can0: entered error passive state
+[13812.916053] mttcan c310000.mttcan can0: entered error passive state
+[13813.015884] mttcan c310000.mttcan can0: entered error warning state
+[13813.118565] mttcan c310000.mttcan can0: entered error warning state
+[13813.219038] mttcan c310000.mttcan can0: entered error warning state
+[13813.225727] mttcan c310000.mttcan can0: entered error passive state
+[13813.319995] mttcan c310000.mttcan can0: entered error warning state
+[13813.326766] mttcan c310000.mttcan can0: entered error passive state
+[13813.421538] mttcan c310000.mttcan can0: entered error warning state
+[13813.428246] mttcan c310000.mttcan can0: entered error passive state
+[13813.523600] mttcan c310000.mttcan can0: entered error passive state
+[13813.625569] mttcan c310000.mttcan can0: entered error warning state
+[13813.632324] mttcan c310000.mttcan can0: entered error passive state
+[13813.727585] mttcan c310000.mttcan can0: entered error passive state
+[13813.827129] mttcan c310000.mttcan can0: entered error warning state
+[13813.833932] mttcan c310000.mttcan can0: entered error passive state
+[13813.930489] mttcan c310000.mttcan can0: entered error passive state
+[13814.030253] mttcan c310000.mttcan can0: entered error warning state
+[13814.133220] mttcan c310000.mttcan can0: entered error passive state
+[13814.233020] mttcan c310000.mttcan can0: entered error warning state
+[13814.239826] mttcan c310000.mttcan can0: entered error passive state
+[13814.333825] mttcan c310000.mttcan can0: entered error warning state
+[13814.435421] mttcan c310000.mttcan can0: entered error warning state
+[13814.537432] mttcan c310000.mttcan can0: entered error passive state
+[13814.637609] mttcan c310000.mttcan can0: entered error warning state
+[13814.739597] mttcan c310000.mttcan can0: entered error passive state
+[13814.840731] mttcan c310000.mttcan can0: entered error passive state
+[13814.940890] mttcan c310000.mttcan can0: entered error warning state
+[13814.947592] mttcan c310000.mttcan can0: entered error passive state
+[13815.042803] mttcan c310000.mttcan can0: entered error passive state
+[13815.142753] mttcan c310000.mttcan can0: entered error warning state
+[13815.149460] mttcan c310000.mttcan can0: entered error passive state
+[13815.246251] mttcan c310000.mttcan can0: entered error passive state
+[13815.450066] mttcan c310000.mttcan can0: entered error warning state
+[13815.549752] mttcan c310000.mttcan can0: entered error warning state
+[13815.556585] mttcan c310000.mttcan can0: entered error passive state
+[13815.563225] mttcan c310000.mttcan can0: entered error passive state
+[13815.652162] mttcan c310000.mttcan can0: entered error passive state
+[13815.752372] mttcan c310000.mttcan can0: entered error warning state
+[13815.759046] mttcan c310000.mttcan can0: entered error passive state
+[13815.854408] mttcan c310000.mttcan can0: entered error passive state
+[13815.954382] mttcan c310000.mttcan can0: entered error warning state
+[13815.961182] mttcan c310000.mttcan can0: entered error passive state
+[13816.057479] mttcan c310000.mttcan can0: entered error passive state
+[13816.064271] mttcan c310000.mttcan can0: entered error passive state
+[13816.157566] mttcan c310000.mttcan can0: entered error warning state
+[13816.259723] mttcan c310000.mttcan can0: entered error passive state
+[13816.266565] mttcan c310000.mttcan can0: entered error passive state
+[13816.361403] mttcan c310000.mttcan can0: entered error passive state
+[13816.461607] mttcan c310000.mttcan can0: entered error passive state
+[13816.561435] mttcan c310000.mttcan can0: entered error warning state
+[13816.568312] mttcan c310000.mttcan can0: entered error passive state
+[13816.662511] mttcan c310000.mttcan can0: entered error warning state
+[13816.669395] mttcan c310000.mttcan can0: entered error passive state
+[13816.764749] mttcan c310000.mttcan can0: entered error warning state
+[13816.771634] mttcan c310000.mttcan can0: entered error passive state
+[13816.866884] mttcan c310000.mttcan can0: entered error passive state
+[13816.967379] mttcan c310000.mttcan can0: entered error warning state
+[13816.974152] mttcan c310000.mttcan can0: entered error passive state
+[13817.069589] mttcan c310000.mttcan can0: entered error passive state
+[13817.169690] mttcan c310000.mttcan can0: entered error warning state
+[13817.270307] mttcan c310000.mttcan can0: entered error warning state
+[13817.277042] mttcan c310000.mttcan can0: entered error passive state
+[13817.373480] mttcan c310000.mttcan can0: entered error passive state
+[13817.476102] mttcan c310000.mttcan can0: entered error passive state
+[13817.574965] mttcan c310000.mttcan can0: entered error warning state
+[13817.675924] mttcan c310000.mttcan can0: entered error warning state
+[13817.777236] mttcan c310000.mttcan can0: entered error warning state
+[13817.784011] mttcan c310000.mttcan can0: entered error passive state
+[13817.878566] mttcan c310000.mttcan can0: entered error warning state
+[13817.885180] mttcan c310000.mttcan can0: entered error passive state
+[13817.979475] mttcan c310000.mttcan can0: entered error warning state
+[13817.986148] mttcan c310000.mttcan can0: entered error passive state
+[13818.081911] mttcan c310000.mttcan can0: entered error passive state
+[13818.181482] mttcan c310000.mttcan can0: entered error warning state
+[13818.287601] mttcan c310000.mttcan can0: entered error passive state
+[13818.294303] mttcan c310000.mttcan can0: entered error passive state
+[13818.385184] mttcan c310000.mttcan can0: entered error passive state
+[13818.484846] mttcan c310000.mttcan can0: entered error warning state
+[13818.491655] mttcan c310000.mttcan can0: entered error passive state
+[13818.586710] mttcan c310000.mttcan can0: entered error warning state
+[13818.593468] mttcan c310000.mttcan can0: entered error passive state
+[13818.689607] mttcan c310000.mttcan can0: entered error passive state
+[13818.789795] mttcan c310000.mttcan can0: entered error warning state
+[13818.893855] mttcan c310000.mttcan can0: entered error warning state
+[13818.994533] mttcan c310000.mttcan can0: entered error warning state
+[13819.001308] mttcan c310000.mttcan can0: entered error passive state
+[13819.095278] mttcan c310000.mttcan can0: entered error warning state
+[13819.196231] mttcan c310000.mttcan can0: entered error warning state
+[13819.203389] mttcan c310000.mttcan can0: entered error passive state
+[13819.298038] mttcan c310000.mttcan can0: entered error passive state
+[13819.399576] mttcan c310000.mttcan can0: entered error warning state
+[13819.500498] mttcan c310000.mttcan can0: entered error warning state
+[13819.507294] mttcan c310000.mttcan can0: entered error passive state
+[13819.602924] mttcan c310000.mttcan can0: entered error warning state
+[13819.609656] mttcan c310000.mttcan can0: entered error passive state
+[13819.809104] mttcan c310000.mttcan can0: entered error warning state
+[13819.815787] mttcan c310000.mttcan can0: entered error passive state
+[13819.908327] mttcan c310000.mttcan can0: entered error warning state
+[13820.009672] mttcan c310000.mttcan can0: entered error warning state
+[13820.016480] mttcan c310000.mttcan can0: entered error passive state
+[13820.112243] mttcan c310000.mttcan can0: entered error passive state
+[13820.212436] mttcan c310000.mttcan can0: entered error warning state
+[13820.219169] mttcan c310000.mttcan can0: entered error passive state
+[13820.314778] mttcan c310000.mttcan can0: entered error passive state
+[13820.415957] mttcan c310000.mttcan can0: entered error warning state
+[13820.422592] mttcan c310000.mttcan can0: entered error passive state
+[13820.518898] mttcan c310000.mttcan can0: entered error passive state
+[13820.617875] mttcan c310000.mttcan can0: entered error warning state
+[13820.624649] mttcan c310000.mttcan can0: entered error passive state
+[13820.721299] mttcan c310000.mttcan can0: entered error passive state
+[13820.822000] mttcan c310000.mttcan can0: entered error warning state
+[13820.922905] mttcan c310000.mttcan can0: entered error warning state
+[13821.023968] mttcan c310000.mttcan can0: entered error warning state
+[13821.124915] mttcan c310000.mttcan can0: entered error warning state
+[13821.226071] mttcan c310000.mttcan can0: entered error warning state
+[13821.232944] mttcan c310000.mttcan can0: entered error warning state
+[13821.239431] mttcan c310000.mttcan can0: entered error passive state
+[13821.328610] mttcan c310000.mttcan can0: entered error passive state
+[13821.430144] mttcan c310000.mttcan can0: entered error warning state
+[13821.436981] mttcan c310000.mttcan can0: entered error passive state
+[13821.531257] mttcan c310000.mttcan can0: entered error passive state
+[13821.631100] mttcan c310000.mttcan can0: entered error warning state
+[13821.733143] mttcan c310000.mttcan can0: entered error passive state
+[13821.832990] mttcan c310000.mttcan can0: entered error warning state
+[13821.936352] mttcan c310000.mttcan can0: entered error passive state
+[13822.036527] mttcan c310000.mttcan can0: entered error warning state
+[13822.043388] mttcan c310000.mttcan can0: entered error passive state
+[13822.137739] mttcan c310000.mttcan can0: entered error warning state
+[13822.239664] mttcan c310000.mttcan can0: entered error warning state
+[13822.246533] mttcan c310000.mttcan can0: entered error passive state
+[13822.342670] mttcan c310000.mttcan can0: entered error passive state
+[13822.443632] mttcan c310000.mttcan can0: entered error passive state
+[13822.543601] mttcan c310000.mttcan can0: entered error warning state
+[13822.550309] mttcan c310000.mttcan can0: entered error passive state
+[13822.645734] mttcan c310000.mttcan can0: entered error passive state
+[13822.652434] mttcan c310000.mttcan can0: entered error passive state
+[13822.745414] mttcan c310000.mttcan can0: entered error warning state
+[13822.752090] mttcan c310000.mttcan can0: entered error passive state
+[13822.846222] mttcan c310000.mttcan can0: entered error warning state
+[13822.948074] mttcan c310000.mttcan can0: entered error warning state
+[13823.050142] mttcan c310000.mttcan can0: entered error warning state
+[13823.150301] mttcan c310000.mttcan can0: entered error warning state
+[13823.253570] mttcan c310000.mttcan can0: entered error passive state
+[13823.352523] mttcan c310000.mttcan can0: entered error warning state
+[13823.359306] mttcan c310000.mttcan can0: entered error passive state
+[13823.453459] mttcan c310000.mttcan can0: entered error warning state
+[13823.656832] mttcan c310000.mttcan can0: entered error warning state
+[13823.663570] mttcan c310000.mttcan can0: entered error passive state
+[13823.757012] mttcan c310000.mttcan can0: entered error warning state
+[13823.859291] mttcan c310000.mttcan can0: entered error warning state
+[13823.960236] mttcan c310000.mttcan can0: entered error warning state
+[13824.061459] mttcan c310000.mttcan can0: entered error warning state
+[13824.068257] mttcan c310000.mttcan can0: entered error passive state
+[13824.163729] mttcan c310000.mttcan can0: entered error warning state
+[13824.170620] mttcan c310000.mttcan can0: entered error passive state
+[13824.265933] mttcan c310000.mttcan can0: entered error passive state
+[13824.367755] mttcan c310000.mttcan can0: entered error warning state
+[13824.374515] mttcan c310000.mttcan can0: entered error passive state
+[13824.471647] mttcan c310000.mttcan can0: entered error passive state
+[13824.570111] mttcan c310000.mttcan can0: entered error warning state
+[13824.671045] mttcan c310000.mttcan can0: entered error warning state
+[13824.772103] mttcan c310000.mttcan can0: entered error warning state
+[13824.874695] mttcan c310000.mttcan can0: entered error passive state
+[13824.974043] mttcan c310000.mttcan can0: entered error warning state
+[13824.980795] mttcan c310000.mttcan can0: entered error passive state
+[13825.074799] mttcan c310000.mttcan can0: entered error warning state
+[13825.081497] mttcan c310000.mttcan can0: entered error passive state
+[13825.176984] mttcan c310000.mttcan can0: entered error passive state
+[13825.277942] mttcan c310000.mttcan can0: entered error passive state
+[13825.378595] mttcan c310000.mttcan can0: entered error warning state
+[13825.478834] mttcan c310000.mttcan can0: entered error warning state
+[13825.485520] mttcan c310000.mttcan can0: entered error passive state
+[13825.579741] mttcan c310000.mttcan can0: entered error warning state
+[13825.680648] mttcan c310000.mttcan can0: entered error warning state
+[13825.687357] mttcan c310000.mttcan can0: entered error passive state
+[13825.756743] [RCE] ERROR: camera-ip/vi5/vi5.c:745 [vi5_handle_eof] "General error queue is out of sync with frame queue. ts=13850486036192 sof_ts=13850486871616 gerror_code=2 gerror_data=400060 notify_bits=20000"
+[13825.782464] mttcan c310000.mttcan can0: entered error warning state
+[13825.789279] mttcan c310000.mttcan can0: entered error passive state
+[13825.883620] mttcan c310000.mttcan can0: entered error warning state
+[13825.890382] mttcan c310000.mttcan can0: entered error passive state
+[13825.984324] mttcan c310000.mttcan can0: entered error warning state
+[13826.085472] mttcan c310000.mttcan can0: entered error warning state
+[13826.186891] mttcan c310000.mttcan can0: entered error warning state
+[13826.193718] mttcan c310000.mttcan can0: entered error passive state
+[13826.200627] bwmgr API not supported
+[13826.289197] mttcan c310000.mttcan can0: entered error warning state
+[13826.390138] mttcan c310000.mttcan can0: entered error warning state
+[13826.396860] mttcan c310000.mttcan can0: entered error passive state
+[13826.491078] mttcan c310000.mttcan can0: entered error warning state
+[13826.497823] mttcan c310000.mttcan can0: entered error passive state
+[13826.592054] mttcan c310000.mttcan can0: entered error warning state
+[13826.598731] mttcan c310000.mttcan can0: entered error passive state
+[13826.694104] mttcan c310000.mttcan can0: entered error warning state
+[13826.794634] mttcan c310000.mttcan can0: entered error warning state
+[13826.896849] mttcan c310000.mttcan can0: entered error passive state
+[13826.903675] mttcan c310000.mttcan can0: entered error passive state
+[13826.996660] mttcan c310000.mttcan can0: entered error warning state
+[13827.003360] mttcan c310000.mttcan can0: entered error passive state
+[13827.099835] mttcan c310000.mttcan can0: entered error passive state
+[13827.106637] mttcan c310000.mttcan can0: entered error passive state
+[13827.201095] mttcan c310000.mttcan can0: entered error passive state
+[13827.302044] mttcan c310000.mttcan can0: entered error passive state
+[13827.401851] mttcan c310000.mttcan can0: entered error warning state
+[13827.502915] mttcan c310000.mttcan can0: entered error warning state
+[13827.509860] mttcan c310000.mttcan can0: entered error passive state
+[13827.603860] mttcan c310000.mttcan can0: entered error warning state
+[13827.706518] mttcan c310000.mttcan can0: entered error passive state
+[13827.806955] mttcan c310000.mttcan can0: entered error warning state
+[13827.813600] mttcan c310000.mttcan can0: entered error passive state
+[13827.911604] mttcan c310000.mttcan can0: entered error passive state
+[13828.009871] mttcan c310000.mttcan can0: entered error warning state
+[13828.016509] mttcan c310000.mttcan can0: entered error passive state
+[13828.112110] mttcan c310000.mttcan can0: entered error passive state
+[13828.212666] mttcan c310000.mttcan can0: entered error warning state
+[13828.313375] mttcan c310000.mttcan can0: entered error warning state
+[13828.320037] mttcan c310000.mttcan can0: entered error passive state
+[13828.414317] mttcan c310000.mttcan can0: entered error warning state
+[13828.517384] mttcan c310000.mttcan can0: entered error passive state
+[13828.616022] mttcan c310000.mttcan can0: entered error warning state
+[13828.622754] mttcan c310000.mttcan can0: entered error passive state
+[13828.719903] mttcan c310000.mttcan can0: entered error passive state
+[13828.726601] mttcan c310000.mttcan can0: entered error passive state
+[13828.818790] mttcan c310000.mttcan can0: entered error warning state
+[13828.919586] mttcan c310000.mttcan can0: entered error warning state
+[13829.021138] mttcan c310000.mttcan can0: entered error warning state
+[13829.122140] mttcan c310000.mttcan can0: entered error warning state
+[13829.128909] mttcan c310000.mttcan can0: entered error passive state
+[13829.224421] mttcan c310000.mttcan can0: entered error warning state
+[13829.326585] mttcan c310000.mttcan can0: entered error passive state
+[13829.426338] mttcan c310000.mttcan can0: entered error warning state
+[13829.433435] mttcan c310000.mttcan can0: entered error passive state
+[13829.629132] mttcan c310000.mttcan can0: entered error warning state
+[13829.731515] mttcan c310000.mttcan can0: entered error passive state
+[13829.831082] mttcan c310000.mttcan can0: entered error warning state
+[13829.933372] mttcan c310000.mttcan can0: entered error warning state
+[13830.036063] mttcan c310000.mttcan can0: entered error passive state
+[13830.135860] mttcan c310000.mttcan can0: entered error warning state
+[13830.236806] mttcan c310000.mttcan can0: entered error warning state
+[13830.243670] mttcan c310000.mttcan can0: entered error passive state
+[13830.439564] mttcan c310000.mttcan can0: entered error warning state
+[13830.540577] mttcan c310000.mttcan can0: entered error warning state
+[13830.641563] mttcan c310000.mttcan can0: entered error warning state
+[13830.648426] mttcan c310000.mttcan can0: entered error passive state
+[13830.743721] mttcan c310000.mttcan can0: entered error warning state
+[13830.846660] mttcan c310000.mttcan can0: entered error passive state
+[13830.946613] mttcan c310000.mttcan can0: entered error warning state
+[13830.953313] mttcan c310000.mttcan can0: entered error passive state
+[13830.959988] mttcan c310000.mttcan can0: entered error passive state
+[13831.048701] mttcan c310000.mttcan can0: entered error passive state
+[13831.148898] mttcan c310000.mttcan can0: entered error warning state
+[13831.250945] mttcan c310000.mttcan can0: entered error passive state
+[13831.350894] mttcan c310000.mttcan can0: entered error warning state
+[13831.357588] mttcan c310000.mttcan can0: entered error passive state
+[13831.453055] mttcan c310000.mttcan can0: entered error passive state
+[13831.552766] mttcan c310000.mttcan can0: entered error warning state
+[13831.653692] mttcan c310000.mttcan can0: entered error warning state
+[13831.660334] mttcan c310000.mttcan can0: entered error passive state
+[13831.755503] mttcan c310000.mttcan can0: entered error warning state
+[13831.762241] mttcan c310000.mttcan can0: entered error passive state
+[13831.859042] mttcan c310000.mttcan can0: entered error passive state
+[13831.960402] mttcan c310000.mttcan can0: entered error passive state
+[13832.061489] mttcan c310000.mttcan can0: entered error passive state
+[13832.161137] mttcan c310000.mttcan can0: entered error warning state
+[13832.262903] mttcan c310000.mttcan can0: entered error warning state
+[13832.363050] mttcan c310000.mttcan can0: entered error warning state
+[13832.369797] mttcan c310000.mttcan can0: entered error passive state
+[13832.464864] mttcan c310000.mttcan can0: entered error warning state
+[13832.566166] mttcan c310000.mttcan can0: entered error warning state
+[13832.668374] mttcan c310000.mttcan can0: entered error passive state
+[13832.767779] mttcan c310000.mttcan can0: entered error warning state
+[13832.774479] mttcan c310000.mttcan can0: entered error passive state
+[13832.972813] mttcan c310000.mttcan can0: entered error warning state
+[13833.073854] mttcan c310000.mttcan can0: entered error passive state
+[13833.174847] mttcan c310000.mttcan can0: entered error warning state
+[13833.181539] mttcan c310000.mttcan can0: entered error passive state
+[13833.277752] mttcan c310000.mttcan can0: entered error passive state
+[13833.377822] mttcan c310000.mttcan can0: entered error warning state
+[13833.478368] mttcan c310000.mttcan can0: entered error warning state
+[13833.579469] mttcan c310000.mttcan can0: entered error warning state
+[13833.682983] mttcan c310000.mttcan can0: entered error passive state
+[13833.782731] mttcan c310000.mttcan can0: entered error warning state
+[13833.789449] mttcan c310000.mttcan can0: entered error passive state
+[13833.887469] mttcan c310000.mttcan can0: entered error passive state
+[13833.894345] mttcan c310000.mttcan can0: entered error passive state
+[13833.987480] mttcan c310000.mttcan can0: entered error passive state
+[13834.088720] mttcan c310000.mttcan can0: entered error passive state
+[13834.188158] mttcan c310000.mttcan can0: entered error warning state
+[13834.289335] mttcan c310000.mttcan can0: entered error warning state
+[13834.391527] mttcan c310000.mttcan can0: entered error warning state
+[13834.398348] mttcan c310000.mttcan can0: entered error passive state
+[13834.493638] mttcan c310000.mttcan can0: entered error passive state
+[13834.593257] mttcan c310000.mttcan can0: entered error warning state
+[13834.600108] mttcan c310000.mttcan can0: entered error passive state
+[13834.696248] mttcan c310000.mttcan can0: entered error passive state
+[13834.796055] mttcan c310000.mttcan can0: entered error warning state
+[13834.898452] mttcan c310000.mttcan can0: entered error passive state
+[13835.000227] mttcan c310000.mttcan can0: entered error warning state
+[13835.104350] mttcan c310000.mttcan can0: entered error passive state
+[13835.203191] mttcan c310000.mttcan can0: entered error warning state
+[13835.209953] mttcan c310000.mttcan can0: entered error passive state
+[13835.305215] mttcan c310000.mttcan can0: entered error passive state
+[13835.405049] mttcan c310000.mttcan can0: entered error warning state
+[13835.411848] mttcan c310000.mttcan can0: entered error passive state
+[13835.507900] mttcan c310000.mttcan can0: entered error passive state
+[13835.608099] mttcan c310000.mttcan can0: entered error warning state
+[13835.708776] mttcan c310000.mttcan can0: entered error warning state
+[13835.715539] mttcan c310000.mttcan can0: entered error passive state
+[13835.810919] mttcan c310000.mttcan can0: entered error warning state
+[13835.913260] mttcan c310000.mttcan can0: entered error passive state
+[13836.013224] mttcan c310000.mttcan can0: entered error warning state
+[13836.019972] mttcan c310000.mttcan can0: entered error passive state
+[13836.116152] mttcan c310000.mttcan can0: entered error passive state
+[13836.217347] mttcan c310000.mttcan can0: entered error warning state
+[13836.224136] mttcan c310000.mttcan can0: entered error passive state
+[13836.319353] mttcan c310000.mttcan can0: entered error passive state
+[13836.419198] mttcan c310000.mttcan can0: entered error warning state
+[13836.425947] mttcan c310000.mttcan can0: entered error passive state
+[13836.520058] mttcan c310000.mttcan can0: entered error warning state
+[13836.621075] mttcan c310000.mttcan can0: entered error warning state
+[13836.723214] mttcan c310000.mttcan can0: entered error passive state
+[13836.824164] mttcan c310000.mttcan can0: entered error passive state
+[13836.926385] mttcan c310000.mttcan can0: entered error passive state
+[13837.026209] mttcan c310000.mttcan can0: entered error warning state
+[13837.032960] mttcan c310000.mttcan can0: entered error passive state
+[13837.127043] mttcan c310000.mttcan can0: entered error warning state
+[13837.228457] mttcan c310000.mttcan can0: entered error warning state
+[13837.330379] mttcan c310000.mttcan can0: entered error warning state
+[13837.535612] mttcan c310000.mttcan can0: entered error warning state
+[13837.542376] mttcan c310000.mttcan can0: entered error passive state
+[13837.636413] mttcan c310000.mttcan can0: entered error passive state
+[13837.737365] mttcan c310000.mttcan can0: entered error passive state
+[13837.838882] mttcan c310000.mttcan can0: entered error passive state
+[13837.940115] mttcan c310000.mttcan can0: entered error passive state
+[13838.042698] mttcan c310000.mttcan can0: entered error passive state
+[13838.143591] mttcan c310000.mttcan can0: entered error warning state
+[13838.244344] mttcan c310000.mttcan can0: entered error warning state
+[13838.251055] mttcan c310000.mttcan can0: entered error passive state
+[13838.345292] mttcan c310000.mttcan can0: entered error warning state
+[13838.351988] mttcan c310000.mttcan can0: entered error passive state
+[13838.448243] mttcan c310000.mttcan can0: entered error passive state
+[13838.548072] mttcan c310000.mttcan can0: entered error warning state
+[13838.650475] mttcan c310000.mttcan can0: entered error passive state
+[13838.657229] mttcan c310000.mttcan can0: entered error passive state
+[13838.750035] mttcan c310000.mttcan can0: entered error warning state
+[13838.852806] mttcan c310000.mttcan can0: entered error passive state
+[13838.952531] mttcan c310000.mttcan can0: entered error warning state
+[13838.959232] mttcan c310000.mttcan can0: entered error passive state
+[13839.055429] mttcan c310000.mttcan can0: entered error passive state
+[13839.155265] mttcan c310000.mttcan can0: entered error warning state
+[13839.161939] mttcan c310000.mttcan can0: entered error passive state
+[13839.256546] mttcan c310000.mttcan can0: entered error warning state
+[13839.263258] mttcan c310000.mttcan can0: entered error passive state
+[13839.357248] mttcan c310000.mttcan can0: entered error warning state
+[13839.458416] mttcan c310000.mttcan can0: entered error warning state
+[13839.465083] mttcan c310000.mttcan can0: entered error passive state
+[13839.560210] mttcan c310000.mttcan can0: entered error passive state
+[13839.659954] mttcan c310000.mttcan can0: entered error warning state
+[13839.666665] mttcan c310000.mttcan can0: entered error passive state
+[13839.762109] mttcan c310000.mttcan can0: entered error passive state
+[13839.863888] mttcan c310000.mttcan can0: entered error passive state
+[13839.964415] mttcan c310000.mttcan can0: entered error warning state
+[13839.971078] mttcan c310000.mttcan can0: entered error passive state
+[13840.065105] mttcan c310000.mttcan can0: entered error warning state
+[13840.166073] mttcan c310000.mttcan can0: entered error warning state
+[13840.268247] mttcan c310000.mttcan can0: entered error passive state
+[13840.367974] mttcan c310000.mttcan can0: entered error warning state
+[13840.468883] mttcan c310000.mttcan can0: entered error warning state
+[13840.570590] mttcan c310000.mttcan can0: entered error warning state
+[13840.577281] mttcan c310000.mttcan can0: entered error passive state
+[13840.671542] mttcan c310000.mttcan can0: entered error warning state
+[13840.678481] mttcan c310000.mttcan can0: entered error passive state
+[13840.774158] mttcan c310000.mttcan can0: entered error passive state
+[13840.875209] mttcan c310000.mttcan can0: entered error passive state
+[13840.974883] mttcan c310000.mttcan can0: entered error warning state
+[13841.075847] mttcan c310000.mttcan can0: entered error warning state
+[13841.082494] mttcan c310000.mttcan can0: entered error passive state
+[13841.176784] mttcan c310000.mttcan can0: entered error warning state
+[13841.183426] mttcan c310000.mttcan can0: entered error passive state
+[13841.279930] mttcan c310000.mttcan can0: entered error passive state
+[13841.379569] mttcan c310000.mttcan can0: entered error warning state
+[13841.386239] mttcan c310000.mttcan can0: entered error passive state
+[13841.480518] mttcan c310000.mttcan can0: entered error warning state
+[13841.487181] mttcan c310000.mttcan can0: entered error passive state
+[13841.581509] mttcan c310000.mttcan can0: entered error warning state
+[13841.588253] mttcan c310000.mttcan can0: entered error passive state
+[13841.685666] mttcan c310000.mttcan can0: entered error passive state
+[13841.785983] mttcan c310000.mttcan can0: entered error passive state
+[13841.887239] mttcan c310000.mttcan can0: entered error passive state
+[13841.987008] mttcan c310000.mttcan can0: entered error warning state
+[13841.993738] mttcan c310000.mttcan can0: entered error passive state
+[13842.089801] mttcan c310000.mttcan can0: entered error passive state
+[13842.189967] mttcan c310000.mttcan can0: entered error warning state
+[13842.291896] mttcan c310000.mttcan can0: entered error passive state
+[13842.391463] mttcan c310000.mttcan can0: entered error warning state
+[13842.398108] mttcan c310000.mttcan can0: entered error passive state
+[13842.492416] mttcan c310000.mttcan can0: entered error warning state
+[13842.594221] mttcan c310000.mttcan can0: entered error warning state
+[13842.600957] mttcan c310000.mttcan can0: entered error passive state
+[13842.797602] mttcan c310000.mttcan can0: entered error warning state
+[13842.804279] mttcan c310000.mttcan can0: entered error passive state
+[13842.899107] mttcan c310000.mttcan can0: entered error passive state
+[13842.998604] mttcan c310000.mttcan can0: entered error warning state
+[13843.100196] mttcan c310000.mttcan can0: entered error warning state
+[13843.106869] mttcan c310000.mttcan can0: entered error passive state
+[13843.200483] mttcan c310000.mttcan can0: entered error warning state
+[13843.301789] mttcan c310000.mttcan can0: entered error warning state
+[13843.402350] mttcan c310000.mttcan can0: entered error warning state
+[13843.409499] mttcan c310000.mttcan can0: entered error passive state
+[13843.505657] mttcan c310000.mttcan can0: entered error passive state
+[13843.709125] mttcan c310000.mttcan can0: entered error warning state
+[13843.810727] mttcan c310000.mttcan can0: entered error warning state
+[13843.911337] mttcan c310000.mttcan can0: entered error warning state
+[13844.012165] mttcan c310000.mttcan can0: entered error warning state
+[13844.115237] mttcan c310000.mttcan can0: entered error warning state
+[13844.122040] mttcan c310000.mttcan can0: entered error passive state
+[13844.216274] mttcan c310000.mttcan can0: entered error warning state
+[13844.317415] mttcan c310000.mttcan can0: entered error warning state
+[13844.324122] mttcan c310000.mttcan can0: entered error passive state
+[13844.418133] mttcan c310000.mttcan can0: entered error warning state
+[13844.424861] mttcan c310000.mttcan can0: entered error passive state
+[13844.520208] mttcan c310000.mttcan can0: entered error passive state
+[13844.623176] mttcan c310000.mttcan can0: entered error passive state
+[13844.629888] mttcan c310000.mttcan can0: entered error passive state
+[13844.722718] mttcan c310000.mttcan can0: entered error passive state
+[13844.822698] mttcan c310000.mttcan can0: entered error warning state
+[13844.829426] mttcan c310000.mttcan can0: entered error passive state
+[13844.924306] mttcan c310000.mttcan can0: entered error warning state
+[13844.931007] mttcan c310000.mttcan can0: entered error passive state
+[13845.025252] mttcan c310000.mttcan can0: entered error warning state
+[13845.031897] mttcan c310000.mttcan can0: entered error passive state
+[13845.128786] mttcan c310000.mttcan can0: entered error passive state
+[13845.229906] mttcan c310000.mttcan can0: entered error warning state
+[13845.236588] mttcan c310000.mttcan can0: entered error passive state
+[13845.332225] mttcan c310000.mttcan can0: entered error warning state
+[13845.433048] mttcan c310000.mttcan can0: entered error warning state
+[13845.533988] mttcan c310000.mttcan can0: entered error warning state
+[13845.540716] mttcan c310000.mttcan can0: entered error passive state
+[13845.635788] mttcan c310000.mttcan can0: entered error passive state
+[13845.735959] mttcan c310000.mttcan can0: entered error warning state
+[13845.837084] mttcan c310000.mttcan can0: entered error warning state
+[13845.843776] mttcan c310000.mttcan can0: entered error passive state
+[13845.937997] mttcan c310000.mttcan can0: entered error warning state
+[13845.944713] mttcan c310000.mttcan can0: entered error passive state
+[13846.142315] mttcan c310000.mttcan can0: entered error warning state
+[13846.243831] mttcan c310000.mttcan can0: entered error passive state
+[13846.344172] mttcan c310000.mttcan can0: entered error warning state
+[13846.447066] mttcan c310000.mttcan can0: entered error warning state
+[13846.548032] mttcan c310000.mttcan can0: entered error warning state
+[13846.651040] mttcan c310000.mttcan can0: entered error passive state
+[13846.752379] mttcan c310000.mttcan can0: entered error warning state
+[13846.853150] mttcan c310000.mttcan can0: entered error warning state
+[13846.954031] mttcan c310000.mttcan can0: entered error warning state
+[13847.055017] mttcan c310000.mttcan can0: entered error warning state
+[13847.061709] mttcan c310000.mttcan can0: entered error passive state
+[13847.157952] mttcan c310000.mttcan can0: entered error passive state
+[13847.258128] mttcan c310000.mttcan can0: entered error warning state
+[13847.358806] mttcan c310000.mttcan can0: entered error warning state
+[13847.459761] mttcan c310000.mttcan can0: entered error warning state
+[13847.562182] mttcan c310000.mttcan can0: entered error warning state
+[13847.568892] mttcan c310000.mttcan can0: entered error passive state
+[13847.664389] mttcan c310000.mttcan can0: entered error passive state
+[13847.764900] mttcan c310000.mttcan can0: entered error warning state
+[13847.866477] mttcan c310000.mttcan can0: entered error passive state
+[13847.966262] mttcan c310000.mttcan can0: entered error warning state
+[13848.067182] mttcan c310000.mttcan can0: entered error warning state
+[13848.073941] mttcan c310000.mttcan can0: entered error passive state
+[13848.168342] mttcan c310000.mttcan can0: entered error warning state
+[13848.175175] mttcan c310000.mttcan can0: entered error passive state
+[13848.272623] mttcan c310000.mttcan can0: entered error passive state
+[13848.279306] mttcan c310000.mttcan can0: entered error passive state
+[13848.371341] mttcan c310000.mttcan can0: entered error warning state
+[13848.378077] mttcan c310000.mttcan can0: entered error passive state
+[13848.475879] mttcan c310000.mttcan can0: entered error passive state
+[13848.482551] mttcan c310000.mttcan can0: entered error passive state
+[13848.574120] mttcan c310000.mttcan can0: entered error passive state
+[13848.675008] mttcan c310000.mttcan can0: entered error passive state
+[13848.775204] mttcan c310000.mttcan can0: entered error warning state
+[13848.877517] mttcan c310000.mttcan can0: entered error passive state
+[13848.884207] mttcan c310000.mttcan can0: entered error passive state
+[13848.979788] mttcan c310000.mttcan can0: entered error passive state
+[13849.079206] mttcan c310000.mttcan can0: entered error passive state
+[13849.086023] mttcan c310000.mttcan can0: entered error passive state
+[13849.179812] mttcan c310000.mttcan can0: entered error warning state
+[13849.283571] mttcan c310000.mttcan can0: entered error passive state
+[13849.383412] mttcan c310000.mttcan can0: entered error warning state
+[13849.390099] mttcan c310000.mttcan can0: entered error passive state
+[13849.485862] mttcan c310000.mttcan can0: entered error passive state
+[13849.686462] mttcan c310000.mttcan can0: entered error warning state
+[13849.693357] mttcan c310000.mttcan can0: entered error passive state
+[13849.787391] mttcan c310000.mttcan can0: entered error warning state
+[13849.890887] mttcan c310000.mttcan can0: entered error passive state
+[13849.897722] mttcan c310000.mttcan can0: entered error passive state
+[13849.990520] mttcan c310000.mttcan can0: entered error warning state
+[13849.997267] mttcan c310000.mttcan can0: entered error passive state
+[13850.090951] mttcan c310000.mttcan can0: entered error warning state
+[13850.097645] mttcan c310000.mttcan can0: entered error passive state
+[13850.192001] mttcan c310000.mttcan can0: entered error warning state
+[13850.198873] mttcan c310000.mttcan can0: entered error passive state
+[13850.294292] mttcan c310000.mttcan can0: entered error passive state
+[13850.393869] mttcan c310000.mttcan can0: entered error warning state
+[13850.497931] mttcan c310000.mttcan can0: entered error passive state
+[13850.597778] mttcan c310000.mttcan can0: entered error warning state
+[13850.698787] mttcan c310000.mttcan can0: entered error warning state
+[13850.799712] mttcan c310000.mttcan can0: entered error warning state
+[13850.902239] mttcan c310000.mttcan can0: entered error passive state
+[13850.908891] mttcan c310000.mttcan can0: entered error passive state
+[13851.002682] mttcan c310000.mttcan can0: entered error warning state
+[13851.009357] mttcan c310000.mttcan can0: entered error passive state
+[13851.103629] mttcan c310000.mttcan can0: entered error warning state
+[13851.205665] mttcan c310000.mttcan can0: entered error warning state
+[13851.212360] mttcan c310000.mttcan can0: entered error passive state
+[13851.305524] mttcan c310000.mttcan can0: entered error warning state
+[13851.312212] mttcan c310000.mttcan can0: entered error passive state
+[13851.407221] mttcan c310000.mttcan can0: entered error warning state
+[13851.509135] mttcan c310000.mttcan can0: entered error warning state
+[13851.611761] mttcan c310000.mttcan can0: entered error warning state
+[13851.712286] mttcan c310000.mttcan can0: entered error warning state
+[13851.718950] mttcan c310000.mttcan can0: entered error passive state
+[13851.814248] mttcan c310000.mttcan can0: entered error warning state
+[13851.820919] mttcan c310000.mttcan can0: entered error passive state
+[13851.917950] mttcan c310000.mttcan can0: entered error passive state
+[13851.924650] mttcan c310000.mttcan can0: entered error passive state
+[13852.015865] mttcan c310000.mttcan can0: entered error warning state
+[13852.022535] mttcan c310000.mttcan can0: entered error passive state
+[13852.117688] mttcan c310000.mttcan can0: entered error warning state
+[13852.218776] mttcan c310000.mttcan can0: entered error warning state
+[13852.225496] mttcan c310000.mttcan can0: entered error passive state
+[13852.319555] mttcan c310000.mttcan can0: entered error warning state
+[13852.326229] mttcan c310000.mttcan can0: entered error passive state
+[13852.421861] mttcan c310000.mttcan can0: entered error warning state
+[13852.524717] mttcan c310000.mttcan can0: entered error passive state
+[13852.624313] mttcan c310000.mttcan can0: entered error warning state
+[13852.725127] mttcan c310000.mttcan can0: entered error warning state
+[13852.731817] mttcan c310000.mttcan can0: entered error passive state
+[13852.826928] mttcan c310000.mttcan can0: entered error warning state
+[13852.927881] mttcan c310000.mttcan can0: entered error warning state
+[13853.029316] mttcan c310000.mttcan can0: entered error warning state
+[13853.036035] mttcan c310000.mttcan can0: entered error passive state
+[13853.129737] mttcan c310000.mttcan can0: entered error warning state
+[13853.136432] mttcan c310000.mttcan can0: entered error passive state
+[13853.230706] mttcan c310000.mttcan can0: entered error warning state
+[13853.331756] mttcan c310000.mttcan can0: entered error warning state
+[13853.338407] mttcan c310000.mttcan can0: entered error passive state
+[13853.434347] mttcan c310000.mttcan can0: entered error passive state
+[13853.534470] mttcan c310000.mttcan can0: entered error warning state
+[13853.541217] mttcan c310000.mttcan can0: entered error passive state
+[13853.636141] mttcan c310000.mttcan can0: entered error warning state
+[13853.738904] mttcan c310000.mttcan can0: entered error warning state
+[13853.745582] mttcan c310000.mttcan can0: entered error passive state
+[13853.840654] mttcan c310000.mttcan can0: entered error passive state
+[13853.940442] mttcan c310000.mttcan can0: entered error warning state
+[13854.043530] mttcan c310000.mttcan can0: entered error warning state
+[13854.145280] mttcan c310000.mttcan can0: entered error warning state
+[13854.152045] mttcan c310000.mttcan can0: entered error passive state
+[13854.247041] mttcan c310000.mttcan can0: entered error passive state
+[13854.253733] mttcan c310000.mttcan can0: entered error passive state
+[13854.346472] mttcan c310000.mttcan can0: entered error warning state
+[13854.449099] mttcan c310000.mttcan can0: entered error passive state
+[13854.548829] mttcan c310000.mttcan can0: entered error warning state
+[13854.555558] mttcan c310000.mttcan can0: entered error passive state
+[13854.649843] mttcan c310000.mttcan can0: entered error warning state
+[13854.656471] mttcan c310000.mttcan can0: entered error passive state
+[13854.750808] mttcan c310000.mttcan can0: entered error warning state
+[13854.851327] zedx 31-0010: zedx_write_table: Channel 1
+[13854.852117] mttcan c310000.mttcan can0: entered error warning state
+[13854.858868] mttcan c310000.mttcan can0: entered error passive state
+[13854.952701] mttcan c310000.mttcan can0: entered error warning state
+[13854.959295] mttcan c310000.mttcan can0: entered error passive state
+[13854.978694] bwmgr API not supported
+[13854.980634] zedx 31-0018: zedx_write_table: Channel 1
+[13855.055868] mttcan c310000.mttcan can0: entered error passive state
+[13855.098779] bwmgr API not supported
+[13855.100372] zedx 30-0010: zedx_write_table: Channel 0
+[13855.155290] mttcan c310000.mttcan can0: entered error warning state
+[13855.214200] bwmgr API not supported
+[13855.216105] zedx 30-0018: zedx_write_table: Channel 0
+[13855.256253] mttcan c310000.mttcan can0: entered error warning state
+[13855.262906] mttcan c310000.mttcan can0: entered error passive state
+[13855.331713] bwmgr API not supported
+[13855.563562] mttcan c310000.mttcan can0: entered error warning state
+[13855.573954] mttcan c310000.mttcan can0: entered error passive state
+[13855.663885] mttcan c310000.mttcan can0: entered error passive state
+[13855.762882] mttcan c310000.mttcan can0: entered error warning state
+[13855.769625] mttcan c310000.mttcan can0: entered error passive state
+[13855.864698] mttcan c310000.mttcan can0: entered error warning state
+[13855.965667] mttcan c310000.mttcan can0: entered error warning state
+[13855.972420] mttcan c310000.mttcan can0: entered error passive state
+[13856.067677] mttcan c310000.mttcan can0: entered error passive state
+[13856.167669] mttcan c310000.mttcan can0: entered error warning state
+[13856.174365] mttcan c310000.mttcan can0: entered error passive state
+[13856.269694] mttcan c310000.mttcan can0: entered error passive state
+[13856.372034] mttcan c310000.mttcan can0: entered error passive state
+[13856.472127] mttcan c310000.mttcan can0: entered error passive state
+[13856.571873] mttcan c310000.mttcan can0: entered error warning state
+[13856.578519] mttcan c310000.mttcan can0: entered error passive state
+[13856.674827] mttcan c310000.mttcan can0: entered error passive state
+[13856.774668] mttcan c310000.mttcan can0: entered error warning state
+[13856.781296] mttcan c310000.mttcan can0: entered error passive state
+[13856.976997] mttcan c310000.mttcan can0: entered error warning state
+[13856.983593] mttcan c310000.mttcan can0: entered error warning state
+[13856.990083] mttcan c310000.mttcan can0: entered error passive state
+[13857.179893] mttcan c310000.mttcan can0: entered error warning state
+[13857.266957] bwmgr API not supported
+[13857.276984] zedx 30-0018: zedx_write_table: Channel 0
+[13857.284008] mttcan c310000.mttcan can0: entered error passive state
+[13857.384717] mttcan c310000.mttcan can0: entered error passive state
+[13857.392570] zedx 30-0018: zedx_write_table: Channel 0
+[13857.485236] mttcan c310000.mttcan can0: entered error passive state
+[13857.584940] mttcan c310000.mttcan can0: entered error warning state
+[13857.591623] mttcan c310000.mttcan can0: entered error passive state
+[13857.612562] zedx 30-0018: zedx_write_table: Channel 0
+[13857.614203] zedx 30-0018: zedx_write_table: Channel 0
+[13857.615695] zedx 30-0018: zedx_write_table: Channel 0
+[13857.617025] zedx 30-0018: zedx_write_table: Channel 0
+[13857.618339] zedx 30-0018: zedx_write_table: Channel 0
+[13857.619673] zedx 30-0018: zedx_write_table: Channel 0
+[13857.621210] zedx 30-0018: zedx_write_table: Channel 0
+[13857.622536] zedx 30-0018: zedx_write_table: Channel 0
+[13857.623846] zedx 30-0018: zedx_write_table: Channel 0
+[13857.625364] zedx 30-0018: zedx_write_table: Channel 0
+[13857.626680] zedx 30-0018: zedx_write_table: Channel 0
+[13857.627999] zedx 30-0018: zedx_write_table: Channel 0
+[13857.630572] zedx 30-0018: zedx_write_table: Channel 0
+[13857.632085] zedx 30-0018: zedx_write_table: Channel 0
+[13857.633421] zedx 30-0018: zedx_write_table: Channel 0
+[13857.634741] zedx 30-0018: zedx_write_table: Channel 0
+[13857.636226] zedx 30-0018: zedx_write_table: Channel 0
+[13857.637508] zedx 30-0018: zedx_write_table: Channel 0
+[13857.638770] zedx 30-0018: zedx_write_table: Channel 0
+[13857.640252] zedx 30-0018: zedx_write_table: Channel 0
+[13857.641586] zedx 30-0018: zedx_write_table: Channel 0
+[13857.642898] zedx 30-0018: zedx_write_table: Channel 0
+[13857.645436] zedx 30-0018: zedx_write_table: Channel 0
+[13857.646914] zedx 30-0018: zedx_write_table: Channel 0
+[13857.648222] zedx 30-0018: zedx_write_table: Channel 0
+[13857.649570] zedx 30-0018: zedx_write_table: Channel 0
+[13857.651052] zedx 30-0018: zedx_write_table: Channel 0
+[13857.652360] zedx 30-0018: zedx_write_table: Channel 0
+[13857.653685] zedx 30-0018: zedx_write_table: Channel 0
+[13857.655152] zedx 30-0018: zedx_write_table: Channel 0
+[13857.656453] zedx 30-0018: zedx_write_table: Channel 0
+[13857.657811] zedx 30-0018: zedx_write_table: Channel 0
+[13857.660311] zedx 30-0018: zedx_write_table: Channel 0
+[13857.661800] zedx 30-0018: zedx_write_table: Channel 0
+[13857.663099] zedx 30-0018: zedx_write_table: Channel 0
+[13857.664400] zedx 30-0018: zedx_write_table: Channel 0
+[13857.665913] zedx 30-0018: zedx_write_table: Channel 0
+[13857.667232] zedx 30-0018: zedx_write_table: Channel 0
+[13857.668576] zedx 30-0018: zedx_write_table: Channel 0
+[13857.670157] zedx 30-0018: zedx_write_table: Channel 0
+[13857.671490] zedx 30-0018: zedx_write_table: Channel 0
+[13857.672867] zedx 30-0018: zedx_write_table: Channel 0
+[13857.675420] zedx 30-0018: zedx_write_table: Channel 0
+[13857.676939] zedx 30-0018: zedx_write_table: Channel 0
+[13857.678277] zedx 30-0018: zedx_write_table: Channel 0
+[13857.679768] zedx 30-0018: zedx_write_table: Channel 0
+[13857.681224] zedx 30-0018: zedx_write_table: Channel 0
+[13857.682555] zedx 30-0018: zedx_write_table: Channel 0
+[13857.683863] zedx 30-0018: zedx_write_table: Channel 0
+[13857.685410] zedx 30-0018: zedx_write_table: Channel 0
+[13857.685994] mttcan c310000.mttcan can0: entered error warning state
+[13857.693214] zedx 30-0018: zedx_write_table: Channel 0
+[13857.695909] zedx 30-0018: zedx_write_table: Channel 0
+[13857.697236] zedx 30-0018: zedx_write_table: Channel 0
+[13857.698542] zedx 30-0018: zedx_write_table: Channel 0
+[13857.700013] zedx 30-0018: zedx_write_table: Channel 0
+[13857.701366] zedx 30-0018: zedx_write_table: Channel 0
+[13857.702681] zedx 30-0018: zedx_write_table: Channel 0
+[13857.705196] zedx 30-0018: zedx_write_table: Channel 0
+[13857.706719] zedx 30-0018: zedx_write_table: Channel 0
+[13857.708022] zedx 30-0018: zedx_write_table: Channel 0
+[13857.709563] zedx 30-0018: zedx_write_table: Channel 0
+[13857.711046] zedx 30-0018: zedx_write_table: Channel 0
+[13857.712340] zedx 30-0018: zedx_write_table: Channel 0
+[13857.713652] zedx 30-0018: zedx_write_table: Channel 0
+[13857.715114] zedx 30-0018: zedx_write_table: Channel 0
+[13857.716408] zedx 30-0018: zedx_write_table: Channel 0
+[13857.717727] zedx 30-0018: zedx_write_table: Channel 0
+[13857.720426] zedx 30-0018: zedx_write_table: Channel 0
+[13857.721761] zedx 30-0018: zedx_write_table: Channel 0
+[13857.723057] zedx 30-0018: zedx_write_table: Channel 0
+[13857.724522] zedx 30-0018: zedx_write_table: Channel 0
+[13857.725834] zedx 30-0018: zedx_write_table: Channel 0
+[13857.727148] zedx 30-0018: zedx_write_table: Channel 0
+[13857.728443] zedx 30-0018: zedx_write_table: Channel 0
+[13857.729962] zedx 30-0018: zedx_write_table: Channel 0
+[13857.731342] zedx 30-0018: zedx_write_table: Channel 0
+[13857.732678] zedx 30-0018: zedx_write_table: Channel 0
+[13857.735376] zedx 30-0018: zedx_write_table: Channel 0
+[13857.736738] zedx 30-0018: zedx_write_table: Channel 0
+[13857.738107] zedx 30-0018: zedx_write_table: Channel 0
+[13857.739598] zedx 30-0018: zedx_write_table: Channel 0
+[13857.740935] zedx 30-0018: zedx_write_table: Channel 0
+[13857.742259] zedx 30-0018: zedx_write_table: Channel 0
+[13857.743559] zedx 30-0018: zedx_write_table: Channel 0
+[13857.745065] zedx 30-0018: zedx_write_table: Channel 0
+[13857.746442] zedx 30-0018: zedx_write_table: Channel 0
+[13857.747754] zedx 30-0018: zedx_write_table: Channel 0
+[13857.750439] zedx 30-0018: zedx_write_table: Channel 0
+[13857.751741] zedx 30-0018: zedx_write_table: Channel 0
+[13857.753052] zedx 30-0018: zedx_write_table: Channel 0
+[13857.754513] zedx 30-0018: zedx_write_table: Channel 0
+[13857.755804] zedx 30-0018: zedx_write_table: Channel 0
+[13857.757176] zedx 30-0018: zedx_write_table: Channel 0
+[13857.758499] zedx 30-0018: zedx_write_table: Channel 0
+[13857.759980] zedx 30-0018: zedx_write_table: Channel 0
+[13857.761284] zedx 30-0018: zedx_write_table: Channel 0
+[13857.762581] zedx 30-0018: zedx_write_table: Channel 0
+[13857.765251] zedx 30-0018: zedx_write_table: Channel 0
+[13857.766612] zedx 30-0018: zedx_write_table: Channel 0
+[13857.767945] zedx 30-0018: zedx_write_table: Channel 0
+[13857.769448] zedx 30-0018: zedx_write_table: Channel 0
+[13857.770761] zedx 30-0018: zedx_write_table: Channel 0
+[13857.772078] zedx 30-0018: zedx_write_table: Channel 0
+[13857.773584] zedx 30-0018: zedx_write_table: Channel 0
+[13857.774899] zedx 30-0018: zedx_write_table: Channel 0
+[13857.776218] zedx 30-0018: zedx_write_table: Channel 0
+[13857.777626] zedx 30-0018: zedx_write_table: Channel 0
+[13857.780312] zedx 30-0018: zedx_write_table: Channel 0
+[13857.781658] zedx 30-0018: zedx_write_table: Channel 0
+[13857.782985] zedx 30-0018: zedx_write_table: Channel 0
+[13857.784467] zedx 30-0018: zedx_write_table: Channel 0
+[13857.785799] zedx 30-0018: zedx_write_table: Channel 0
+[13857.786942] mttcan c310000.mttcan can0: entered error warning state
+[13857.793600] zedx 30-0018: zedx_write_table: Channel 0
+[13857.793632] mttcan c310000.mttcan can0: entered error passive state
+[13857.801563] zedx 30-0018: zedx_write_table: Channel 0
+[13857.804074] zedx 30-0018: zedx_write_table: Channel 0
+[13857.805783] zedx 30-0018: zedx_write_table: Channel 0
+[13857.807127] zedx 30-0018: zedx_write_table: Channel 0
+[13857.809882] zedx 30-0018: zedx_write_table: Channel 0
+[13857.811177] zedx 30-0018: zedx_write_table: Channel 0
+[13857.812521] zedx 30-0018: zedx_write_table: Channel 0
+[13857.814141] zedx 30-0018: zedx_write_table: Channel 0
+[13857.815477] zedx 30-0018: zedx_write_table: Channel 0
+[13857.816848] zedx 30-0018: zedx_write_table: Channel 0
+[13857.818420] zedx 30-0018: zedx_write_table: Channel 0
+[13857.819754] zedx 30-0018: zedx_write_table: Channel 0
+[13857.821104] zedx 30-0018: zedx_write_table: Channel 0
+[13857.822449] zedx 30-0018: zedx_write_table: Channel 0
+[13857.825179] zedx 30-0018: zedx_write_table: Channel 0
+[13857.826558] zedx 30-0018: zedx_write_table: Channel 0
+[13857.828103] zedx 30-0018: zedx_write_table: Channel 0
+[13857.829503] zedx 30-0018: zedx_write_table: Channel 0
+[13857.830864] zedx 30-0018: zedx_write_table: Channel 0
+[13857.832313] zedx 30-0018: zedx_write_table: Channel 0
+[13857.833840] zedx 30-0018: zedx_write_table: Channel 0
+[13857.835142] zedx 30-0018: zedx_write_table: Channel 0
+[13857.836447] zedx 30-0018: zedx_write_table: Channel 0
+[13857.839233] zedx 30-0018: zedx_write_table: Channel 0
+[13857.840575] zedx 30-0018: zedx_write_table: Channel 0
+[13857.841971] zedx 30-0018: zedx_write_table: Channel 0
+[13857.843552] zedx 30-0018: zedx_write_table: Channel 0
+[13857.844934] zedx 30-0018: zedx_write_table: Channel 0
+[13857.846264] zedx 30-0018: zedx_write_table: Channel 0
+[13857.847777] zedx 30-0018: zedx_write_table: Channel 0
+[13857.849143] zedx 30-0018: zedx_write_table: Channel 0
+[13857.850442] zedx 30-0018: zedx_write_table: Channel 0
+[13857.851743] zedx 30-0018: zedx_write_table: Channel 0
+[13857.854454] zedx 30-0018: zedx_write_table: Channel 0
+[13857.855895] zedx 30-0018: zedx_write_table: Channel 0
+[13857.857443] zedx 30-0018: zedx_write_table: Channel 0
+[13857.859046] zedx 30-0018: zedx_write_table: Channel 0
+[13857.860472] zedx 30-0018: zedx_write_table: Channel 0
+[13857.861840] zedx 30-0018: zedx_write_table: Channel 0
+[13857.863314] zedx 30-0018: zedx_write_table: Channel 0
+[13857.864631] zedx 30-0018: zedx_write_table: Channel 0
+[13857.865944] zedx 30-0018: zedx_write_table: Channel 0
+[13857.867418] zedx 30-0018: zedx_write_table: Channel 0
+[13857.869929] zedx 30-0018: zedx_write_table: Channel 0
+[13857.871362] zedx 30-0018: zedx_write_table: Channel 0
+[13857.872903] zedx 30-0018: zedx_write_table: Channel 0
+[13857.874274] zedx 30-0018: zedx_write_table: Channel 0
+[13857.875661] zedx 30-0018: zedx_write_table: Channel 0
+[13857.877010] zedx 30-0018: zedx_write_table: Channel 0
+[13857.878501] zedx 30-0018: zedx_write_table: Channel 0
+[13857.879817] zedx 30-0018: zedx_write_table: Channel 0
+[13857.881129] zedx 30-0018: zedx_write_table: Channel 0
+[13857.882603] zedx 30-0018: zedx_write_table: Channel 0
+[13857.885137] zedx 30-0018: zedx_write_table: Channel 0
+[13857.886443] zedx 30-0018: zedx_write_table: Channel 0
+[13857.887917] zedx 30-0018: zedx_write_table: Channel 0
+[13857.889105] mttcan c310000.mttcan can0: entered error passive state
+[13857.895591] zedx 30-0018: zedx_write_table: Channel 0
+[13857.897132] zedx 30-0018: zedx_write_table: Channel 0
+[13857.900033] zedx 30-0018: zedx_write_table: Channel 0
+[13857.901383] zedx 30-0018: zedx_write_table: Channel 0
+[13857.902894] zedx 30-0018: zedx_write_table: Channel 0
+[13857.904284] zedx 30-0018: zedx_write_table: Channel 0
+[13857.905631] zedx 30-0018: zedx_write_table: Channel 0
+[13857.907115] zedx 30-0018: zedx_write_table: Channel 0
+[13857.908452] zedx 30-0018: zedx_write_table: Channel 0
+[13857.909806] zedx 30-0018: zedx_write_table: Channel 0
+[13857.911122] zedx 30-0018: zedx_write_table: Channel 0
+[13857.912619] zedx 30-0018: zedx_write_table: Channel 0
+[13857.915137] zedx 30-0018: zedx_write_table: Channel 0
+[13857.916485] zedx 30-0018: zedx_write_table: Channel 0
+[13857.918005] zedx 30-0018: zedx_write_table: Channel 0
+[13857.919327] zedx 30-0018: zedx_write_table: Channel 0
+[13857.920681] zedx 30-0018: zedx_write_table: Channel 0
+[13857.922239] zedx 30-0018: zedx_write_table: Channel 0
+[13857.923610] zedx 30-0018: zedx_write_table: Channel 0
+[13857.924954] zedx 30-0018: zedx_write_table: Channel 0
+[13857.926345] zedx 30-0018: zedx_write_table: Channel 0
+[13857.929069] zedx 30-0018: zedx_write_table: Channel 0
+[13857.930463] zedx 30-0018: zedx_write_table: Channel 0
+[13857.931937] zedx 30-0018: zedx_write_table: Channel 0
+[13857.933260] zedx 30-0018: zedx_write_table: Channel 0
+[13857.934607] zedx 30-0018: zedx_write_table: Channel 0
+[13857.935949] zedx 30-0018: zedx_write_table: Channel 0
+[13857.937409] zedx 30-0018: zedx_write_table: Channel 0
+[13857.938828] zedx 30-0018: zedx_write_table: Channel 0
+[13857.940145] zedx 30-0018: zedx_write_table: Channel 0
+[13857.941592] zedx 30-0018: zedx_write_table: Channel 0
+[13857.944124] zedx 30-0018: zedx_write_table: Channel 0
+[13857.945502] zedx 30-0018: zedx_write_table: Channel 0
+[13857.946980] zedx 30-0018: zedx_write_table: Channel 0
+[13857.948260] zedx 30-0018: zedx_write_table: Channel 0
+[13857.949634] zedx 30-0018: zedx_write_table: Channel 0
+[13857.950956] zedx 30-0018: zedx_write_table: Channel 0
+[13857.952479] zedx 30-0018: zedx_write_table: Channel 0
+[13857.953839] zedx 30-0018: zedx_write_table: Channel 0
+[13857.955228] zedx 30-0018: zedx_write_table: Channel 0
+[13857.956778] zedx 30-0018: zedx_write_table: Channel 0
+[13857.959358] zedx 30-0018: zedx_write_table: Channel 0
+[13857.960710] zedx 30-0018: zedx_write_table: Channel 0
+[13857.962206] zedx 30-0018: zedx_write_table: Channel 0
+[13857.963511] zedx 30-0018: zedx_write_table: Channel 0
+[13857.964881] zedx 30-0018: zedx_write_table: Channel 0
+[13857.966416] zedx 30-0018: zedx_write_table: Channel 0
+[13857.967726] zedx 30-0018: zedx_write_table: Channel 0
+[13857.969047] zedx 30-0018: zedx_write_table: Channel 0
+[13857.970408] zedx 30-0018: zedx_write_table: Channel 0
+[13857.971893] zedx 30-0018: zedx_write_table: Channel 0
+[13857.974440] zedx 30-0018: zedx_write_table: Channel 0
+[13857.975768] zedx 30-0018: zedx_write_table: Channel 0
+[13857.977366] zedx 30-0018: zedx_write_table: Channel 0
+[13857.978712] zedx 30-0018: zedx_write_table: Channel 0
+[13857.980013] zedx 30-0018: zedx_write_table: Channel 0
+[13857.981512] zedx 30-0018: zedx_write_table: Channel 0
+[13857.982829] zedx 30-0018: zedx_write_table: Channel 0
+[13857.984235] zedx 30-0018: zedx_write_table: Channel 0
+[13857.985782] zedx 30-0018: zedx_write_table: Channel 0
+[13857.987303] zedx 30-0018: zedx_write_table: Channel 0
+[13857.988715] mttcan c310000.mttcan can0: entered error warning state
+[13857.996593] zedx 30-0018: zedx_write_table: Channel 0
+[13857.998149] zedx 30-0018: zedx_write_table: Channel 0
+[13857.999515] zedx 30-0018: zedx_write_table: Channel 0
+[13858.001029] zedx 30-0018: zedx_write_table: Channel 0
+[13858.002374] zedx 30-0018: zedx_write_table: Channel 0
+[13858.004989] zedx 30-0018: zedx_write_table: Channel 0
+[13858.006544] zedx 30-0018: zedx_write_table: Channel 0
+[13858.007865] zedx 30-0018: zedx_write_table: Channel 0
+[13858.009205] zedx 30-0018: zedx_write_table: Channel 0
+[13858.010716] zedx 30-0018: zedx_write_table: Channel 0
+[13858.012062] zedx 30-0018: zedx_write_table: Channel 0
+[13858.013392] zedx 30-0018: zedx_write_table: Channel 0
+[13858.014749] zedx 30-0018: zedx_write_table: Channel 0
+[13858.016256] zedx 30-0018: zedx_write_table: Channel 0
+[13858.017608] zedx 30-0018: zedx_write_table: Channel 0
+[13858.020113] zedx 30-0018: zedx_write_table: Channel 0
+[13858.021644] zedx 30-0018: zedx_write_table: Channel 0
+[13858.023025] zedx 30-0018: zedx_write_table: Channel 0
+[13858.024340] zedx 30-0018: zedx_write_table: Channel 0
+[13858.025861] zedx 30-0018: zedx_write_table: Channel 0
+[13858.027176] zedx 30-0018: zedx_write_table: Channel 0
+[13858.028483] zedx 30-0018: zedx_write_table: Channel 0
+[13858.029828] zedx 30-0018: zedx_write_table: Channel 0
+[13858.031377] zedx 30-0018: zedx_write_table: Channel 0
+[13858.033909] zedx 30-0018: zedx_write_table: Channel 0
+[13858.035398] zedx 30-0018: zedx_write_table: Channel 0
+[13858.036706] zedx 30-0018: zedx_write_table: Channel 0
+[13858.038013] zedx 30-0018: zedx_write_table: Channel 0
+[13858.039315] zedx 30-0018: zedx_write_table: Channel 0
+[13858.040797] zedx 30-0018: zedx_write_table: Channel 0
+[13858.042132] zedx 30-0018: zedx_write_table: Channel 0
+[13858.043434] zedx 30-0018: zedx_write_table: Channel 0
+[13858.044739] zedx 30-0018: zedx_write_table: Channel 0
+[13858.046289] zedx 30-0018: zedx_write_table: Channel 0
+[13858.048824] zedx 30-0018: zedx_write_table: Channel 0
+[13858.050355] zedx 30-0018: zedx_write_table: Channel 0
+[13858.051703] zedx 30-0018: zedx_write_table: Channel 0
+[13858.053027] zedx 30-0018: zedx_write_table: Channel 0
+[13858.054373] zedx 30-0018: zedx_write_table: Channel 0
+[13858.055865] zedx 30-0018: zedx_write_table: Channel 0
+[13858.057196] zedx 30-0018: zedx_write_table: Channel 0
+[13858.058563] zedx 30-0018: zedx_write_table: Channel 0
+[13858.059896] zedx 30-0018: zedx_write_table: Channel 0
+[13858.092201] mttcan c310000.mttcan can0: entered error passive state
+[13858.191463] mttcan c310000.mttcan can0: entered error warning state
+[13858.284552] zedx 30-0018: zedx_write_table: Channel 0
+[13858.285541] zedx 30-0018: zedx_write_table: Channel 0
+[13858.286829] zedx 30-0018: zedx_write_table: Channel 0
+[13858.288281] zedx 30-0018: zedx_write_table: Channel 0
+[13858.290887] zedx 30-0018: zedx_write_table: Channel 0
+[13858.292202] zedx 30-0018: zedx_write_table: Channel 0
+[13858.293748] mttcan c310000.mttcan can0: entered error warning state
+[13858.293752] zedx 30-0018: zedx_write_table: Channel 0
+[13858.300511] mttcan c310000.mttcan can0: entered error passive state
+[13858.308158] zedx 30-0018: zedx_write_table: Channel 0
+[13858.310919] zedx 30-0018: zedx_write_table: Channel 0
+[13858.312255] zedx 30-0018: zedx_write_table: Channel 0
+[13858.313804] zedx 30-0018: zedx_write_table: Channel 0
+[13858.315146] zedx 30-0018: zedx_write_table: Channel 0
+[13858.316456] zedx 30-0018: zedx_write_table: Channel 0
+[13858.318000] zedx 30-0018: zedx_write_table: Channel 0
+[13858.320550] zedx 30-0018: zedx_write_table: Channel 0
+[13858.321864] zedx 30-0018: zedx_write_table: Channel 0
+[13858.323342] zedx 30-0018: zedx_write_table: Channel 0
+[13858.324669] zedx 30-0018: zedx_write_table: Channel 0
+[13858.326006] zedx 30-0018: zedx_write_table: Channel 0
+[13858.327477] zedx 30-0018: zedx_write_table: Channel 0
+[13858.328781] zedx 30-0018: zedx_write_table: Channel 0
+[13858.330111] zedx 30-0018: zedx_write_table: Channel 0
+[13858.331406] zedx 30-0018: zedx_write_table: Channel 0
+[13858.332883] zedx 30-0018: zedx_write_table: Channel 0
+[13858.335373] zedx 30-0018: zedx_write_table: Channel 0
+[13858.336672] zedx 30-0018: zedx_write_table: Channel 0
+[13858.338163] zedx 30-0018: zedx_write_table: Channel 0
+[13858.339478] zedx 30-0018: zedx_write_table: Channel 0
+[13858.340797] zedx 30-0018: zedx_write_table: Channel 0
+[13858.342268] zedx 30-0018: zedx_write_table: Channel 0
+[13858.343566] zedx 30-0018: zedx_write_table: Channel 0
+[13858.344892] zedx 30-0018: zedx_write_table: Channel 0
+[13858.346190] zedx 30-0018: zedx_write_table: Channel 0
+[13858.347655] zedx 30-0018: zedx_write_table: Channel 0
+[13858.395056] mttcan c310000.mttcan can0: entered error passive state
+[13858.456551] zedx 30-0018: zedx_write_table: Channel 0
+[13858.457635] zedx 30-0018: zedx_write_table: Channel 0
+[13858.458978] zedx 30-0018: zedx_write_table: Channel 0
+[13858.460283] zedx 30-0018: zedx_write_table: Channel 0
+[13858.461752] zedx 30-0018: zedx_write_table: Channel 0
+[13858.496153] mttcan c310000.mttcan can0: entered error passive state
+[13858.572561] zedx 30-0018: zedx_write_table: Channel 0
+[13858.574814] zedx 30-0018: zedx_write_table: Channel 0
+[13858.576304] zedx 30-0018: zedx_write_table: Channel 0
+[13858.577637] zedx 30-0018: zedx_write_table: Channel 0
+[13858.578952] zedx 30-0018: zedx_write_table: Channel 0
+[13858.580435] zedx 30-0018: zedx_write_table: Channel 0
+[13858.581748] zedx 30-0018: zedx_write_table: Channel 0
+[13858.583060] zedx 30-0018: zedx_write_table: Channel 0
+[13858.584520] zedx 30-0018: zedx_write_table: Channel 0
+[13858.585904] zedx 30-0018: zedx_write_table: Channel 0
+[13858.587195] zedx 30-0018: zedx_write_table: Channel 0
+[13858.589690] zedx 30-0018: zedx_write_table: Channel 0
+[13858.591166] zedx 30-0018: zedx_write_table: Channel 0
+[13858.592483] zedx 30-0018: zedx_write_table: Channel 0
+[13858.593853] zedx 30-0018: zedx_write_table: Channel 0
+[13858.595356] zedx 30-0018: zedx_write_table: Channel 0
+[13858.596344] mttcan c310000.mttcan can0: entered error warning state
+[13858.602964] zedx 30-0018: zedx_write_table: Channel 0
+[13858.604398] zedx 30-0018: zedx_write_table: Channel 0
+[13858.607339] zedx 30-0018: zedx_write_table: Channel 0
+[13858.608690] zedx 30-0018: zedx_write_table: Channel 0
+[13858.610201] zedx 30-0018: zedx_write_table: Channel 0
+[13858.698452] mttcan c310000.mttcan can0: entered error passive state
+[13858.797721] mttcan c310000.mttcan can0: entered error warning state
+[13858.898626] mttcan c310000.mttcan can0: entered error warning state
+[13858.905346] mttcan c310000.mttcan can0: entered error passive state
+[13858.937520] zedx 30-0018: zedx_write_table: Channel 0
+[13858.938815] zedx 30-0018: zedx_write_table: Channel 0
+[13859.000432] mttcan c310000.mttcan can0: entered error warning state
+[13859.044816] bwmgr API not supported
+[13859.101546] mttcan c310000.mttcan can0: entered error warning state
+[13859.203914] mttcan c310000.mttcan can0: entered error warning state
+[13859.306873] mttcan c310000.mttcan can0: entered error passive state
+[13859.406214] mttcan c310000.mttcan can0: entered error warning state
+[13859.413028] bwmgr API not supported
+[13859.413196] zedx 30-0010: zedx_write_table: Channel 0
+[13859.507195] mttcan c310000.mttcan can0: entered error warning state
+[13859.524616] zedx 30-0010: zedx_write_table: Channel 0
+[13859.608011] mttcan c310000.mttcan can0: entered error warning state
+[13859.614729] mttcan c310000.mttcan can0: entered error passive state
+[13859.710928] mttcan c310000.mttcan can0: entered error passive state
+[13859.740562] zedx 30-0010: zedx_write_table: Channel 0
+[13859.741763] zedx 30-0010: zedx_write_table: Channel 0
+[13859.743066] zedx 30-0010: zedx_write_table: Channel 0
+[13859.744399] zedx 30-0010: zedx_write_table: Channel 0
+[13859.745887] zedx 30-0010: zedx_write_table: Channel 0
+[13859.748393] zedx 30-0010: zedx_write_table: Channel 0
+[13859.749894] zedx 30-0010: zedx_write_table: Channel 0
+[13859.751195] zedx 30-0010: zedx_write_table: Channel 0
+[13859.752488] zedx 30-0010: zedx_write_table: Channel 0
+[13859.753801] zedx 30-0010: zedx_write_table: Channel 0
+[13859.755280] zedx 30-0010: zedx_write_table: Channel 0
+[13859.756578] zedx 30-0010: zedx_write_table: Channel 0
+[13859.757920] zedx 30-0010: zedx_write_table: Channel 0
+[13859.759229] zedx 30-0010: zedx_write_table: Channel 0
+[13859.760709] zedx 30-0010: zedx_write_table: Channel 0
+[13859.763306] zedx 30-0010: zedx_write_table: Channel 0
+[13859.764797] zedx 30-0010: zedx_write_table: Channel 0
+[13859.766167] zedx 30-0010: zedx_write_table: Channel 0
+[13859.767471] zedx 30-0010: zedx_write_table: Channel 0
+[13859.768784] zedx 30-0010: zedx_write_table: Channel 0
+[13859.770286] zedx 30-0010: zedx_write_table: Channel 0
+[13859.771598] zedx 30-0010: zedx_write_table: Channel 0
+[13859.772904] zedx 30-0010: zedx_write_table: Channel 0
+[13859.774276] zedx 30-0010: zedx_write_table: Channel 0
+[13859.775757] zedx 30-0010: zedx_write_table: Channel 0
+[13859.778414] zedx 30-0010: zedx_write_table: Channel 0
+[13859.780040] zedx 30-0010: zedx_write_table: Channel 0
+[13859.781406] zedx 30-0010: zedx_write_table: Channel 0
+[13859.782748] zedx 30-0010: zedx_write_table: Channel 0
+[13859.784078] zedx 30-0010: zedx_write_table: Channel 0
+[13859.785602] zedx 30-0010: zedx_write_table: Channel 0
+[13859.786915] zedx 30-0010: zedx_write_table: Channel 0
+[13859.788222] zedx 30-0010: zedx_write_table: Channel 0
+[13859.789765] zedx 30-0010: zedx_write_table: Channel 0
+[13859.791081] zedx 30-0010: zedx_write_table: Channel 0
+[13859.793700] zedx 30-0010: zedx_write_table: Channel 0
+[13859.795226] zedx 30-0010: zedx_write_table: Channel 0
+[13859.796612] zedx 30-0010: zedx_write_table: Channel 0
+[13859.797912] zedx 30-0010: zedx_write_table: Channel 0
+[13859.799416] zedx 30-0010: zedx_write_table: Channel 0
+[13859.800781] zedx 30-0010: zedx_write_table: Channel 0
+[13859.802125] zedx 30-0010: zedx_write_table: Channel 0
+[13859.803442] zedx 30-0010: zedx_write_table: Channel 0
+[13859.804922] zedx 30-0010: zedx_write_table: Channel 0
+[13859.806306] zedx 30-0010: zedx_write_table: Channel 0
+[13859.808797] zedx 30-0010: zedx_write_table: Channel 0
+[13859.810282] zedx 30-0010: zedx_write_table: Channel 0
+[13859.810713] mttcan c310000.mttcan can0: entered error warning state
+[13859.817415] mttcan c310000.mttcan can0: entered error passive state
+[13859.824498] zedx 30-0010: zedx_write_table: Channel 0
+[13859.826207] zedx 30-0010: zedx_write_table: Channel 0
+[13859.828726] zedx 30-0010: zedx_write_table: Channel 0
+[13859.830211] zedx 30-0010: zedx_write_table: Channel 0
+[13859.831515] zedx 30-0010: zedx_write_table: Channel 0
+[13859.832817] zedx 30-0010: zedx_write_table: Channel 0
+[13859.834299] zedx 30-0010: zedx_write_table: Channel 0
+[13859.835601] zedx 30-0010: zedx_write_table: Channel 0
+[13859.838116] zedx 30-0010: zedx_write_table: Channel 0
+[13859.839596] zedx 30-0010: zedx_write_table: Channel 0
+[13859.840905] zedx 30-0010: zedx_write_table: Channel 0
+[13859.842225] zedx 30-0010: zedx_write_table: Channel 0
+[13859.843696] zedx 30-0010: zedx_write_table: Channel 0
+[13859.845010] zedx 30-0010: zedx_write_table: Channel 0
+[13859.846314] zedx 30-0010: zedx_write_table: Channel 0
+[13859.847614] zedx 30-0010: zedx_write_table: Channel 0
+[13859.849244] zedx 30-0010: zedx_write_table: Channel 0
+[13859.850573] zedx 30-0010: zedx_write_table: Channel 0
+[13859.853128] zedx 30-0010: zedx_write_table: Channel 0
+[13859.854614] zedx 30-0010: zedx_write_table: Channel 0
+[13859.855950] zedx 30-0010: zedx_write_table: Channel 0
+[13859.857292] zedx 30-0010: zedx_write_table: Channel 0
+[13859.858773] zedx 30-0010: zedx_write_table: Channel 0
+[13859.860075] zedx 30-0010: zedx_write_table: Channel 0
+[13859.861447] zedx 30-0010: zedx_write_table: Channel 0
+[13859.862761] zedx 30-0010: zedx_write_table: Channel 0
+[13859.864231] zedx 30-0010: zedx_write_table: Channel 0
+[13859.865577] zedx 30-0010: zedx_write_table: Channel 0
+[13859.868084] zedx 30-0010: zedx_write_table: Channel 0
+[13859.869596] zedx 30-0010: zedx_write_table: Channel 0
+[13859.870907] zedx 30-0010: zedx_write_table: Channel 0
+[13859.872215] zedx 30-0010: zedx_write_table: Channel 0
+[13859.873738] zedx 30-0010: zedx_write_table: Channel 0
+[13859.875043] zedx 30-0010: zedx_write_table: Channel 0
+[13859.876343] zedx 30-0010: zedx_write_table: Channel 0
+[13859.877711] zedx 30-0010: zedx_write_table: Channel 0
+[13859.879189] zedx 30-0010: zedx_write_table: Channel 0
+[13859.880497] zedx 30-0010: zedx_write_table: Channel 0
+[13859.882997] zedx 30-0010: zedx_write_table: Channel 0
+[13859.884468] zedx 30-0010: zedx_write_table: Channel 0
+[13859.885793] zedx 30-0010: zedx_write_table: Channel 0
+[13859.887095] zedx 30-0010: zedx_write_table: Channel 0
+[13859.888571] zedx 30-0010: zedx_write_table: Channel 0
+[13859.889889] zedx 30-0010: zedx_write_table: Channel 0
+[13859.891184] zedx 30-0010: zedx_write_table: Channel 0
+[13859.892481] zedx 30-0010: zedx_write_table: Channel 0
+[13859.893981] zedx 30-0010: zedx_write_table: Channel 0
+[13859.895281] zedx 30-0010: zedx_write_table: Channel 0
+[13859.897832] zedx 30-0010: zedx_write_table: Channel 0
+[13859.899571] zedx 30-0010: zedx_write_table: Channel 0
+[13859.902762] zedx 30-0010: zedx_write_table: Channel 0
+[13859.905854] zedx 30-0010: zedx_write_table: Channel 0
+[13859.909327] zedx 30-0010: zedx_write_table: Channel 0
+[13859.912764] zedx 30-0010: zedx_write_table: Channel 0
+[13859.913159] mttcan c310000.mttcan can0: entered error warning state
+[13859.919985] mttcan c310000.mttcan can0: entered error passive state
+[13859.927614] zedx 30-0010: zedx_write_table: Channel 0
+[13859.929165] zedx 30-0010: zedx_write_table: Channel 0
+[13859.931695] zedx 30-0010: zedx_write_table: Channel 0
+[13859.933223] zedx 30-0010: zedx_write_table: Channel 0
+[13859.934550] zedx 30-0010: zedx_write_table: Channel 0
+[13859.935878] zedx 30-0010: zedx_write_table: Channel 0
+[13859.937235] zedx 30-0010: zedx_write_table: Channel 0
+[13859.938767] zedx 30-0010: zedx_write_table: Channel 0
+[13859.940100] zedx 30-0010: zedx_write_table: Channel 0
+[13859.942642] zedx 30-0010: zedx_write_table: Channel 0
+[13859.944140] zedx 30-0010: zedx_write_table: Channel 0
+[13859.945469] zedx 30-0010: zedx_write_table: Channel 0
+[13859.946785] zedx 30-0010: zedx_write_table: Channel 0
+[13859.948282] zedx 30-0010: zedx_write_table: Channel 0
+[13859.949623] zedx 30-0010: zedx_write_table: Channel 0
+[13859.950951] zedx 30-0010: zedx_write_table: Channel 0
+[13859.952440] zedx 30-0010: zedx_write_table: Channel 0
+[13859.953776] zedx 30-0010: zedx_write_table: Channel 0
+[13859.955095] zedx 30-0010: zedx_write_table: Channel 0
+[13859.957699] zedx 30-0010: zedx_write_table: Channel 0
+[13859.959216] zedx 30-0010: zedx_write_table: Channel 0
+[13859.960563] zedx 30-0010: zedx_write_table: Channel 0
+[13859.961960] zedx 30-0010: zedx_write_table: Channel 0
+[13859.963497] zedx 30-0010: zedx_write_table: Channel 0
+[13859.964844] zedx 30-0010: zedx_write_table: Channel 0
+[13859.966237] zedx 30-0010: zedx_write_table: Channel 0
+[13859.967740] zedx 30-0010: zedx_write_table: Channel 0
+[13859.969097] zedx 30-0010: zedx_write_table: Channel 0
+[13859.970461] zedx 30-0010: zedx_write_table: Channel 0
+[13859.973021] zedx 30-0010: zedx_write_table: Channel 0
+[13859.974583] zedx 30-0010: zedx_write_table: Channel 0
+[13859.975924] zedx 30-0010: zedx_write_table: Channel 0
+[13859.977429] zedx 30-0010: zedx_write_table: Channel 0
+[13859.978753] zedx 30-0010: zedx_write_table: Channel 0
+[13859.980072] zedx 30-0010: zedx_write_table: Channel 0
+[13859.981433] zedx 30-0010: zedx_write_table: Channel 0
+[13859.982923] zedx 30-0010: zedx_write_table: Channel 0
+[13859.984258] zedx 30-0010: zedx_write_table: Channel 0
+[13859.985588] zedx 30-0010: zedx_write_table: Channel 0
+[13859.988279] zedx 30-0010: zedx_write_table: Channel 0
+[13859.989632] zedx 30-0010: zedx_write_table: Channel 0
+[13859.990953] zedx 30-0010: zedx_write_table: Channel 0
+[13859.992445] zedx 30-0010: zedx_write_table: Channel 0
+[13859.993857] zedx 30-0010: zedx_write_table: Channel 0
+[13859.995313] zedx 30-0010: zedx_write_table: Channel 0
+[13859.996684] zedx 30-0010: zedx_write_table: Channel 0
+[13859.998169] zedx 30-0010: zedx_write_table: Channel 0
+[13859.999476] zedx 30-0010: zedx_write_table: Channel 0
+[13860.000780] zedx 30-0010: zedx_write_table: Channel 0
+[13860.003454] zedx 30-0010: zedx_write_table: Channel 0
+[13860.004766] zedx 30-0010: zedx_write_table: Channel 0
+[13860.006073] zedx 30-0010: zedx_write_table: Channel 0
+[13860.007543] zedx 30-0010: zedx_write_table: Channel 0
+[13860.008896] zedx 30-0010: zedx_write_table: Channel 0
+[13860.010203] zedx 30-0010: zedx_write_table: Channel 0
+[13860.011677] zedx 30-0010: zedx_write_table: Channel 0
+[13860.013029] zedx 30-0010: zedx_write_table: Channel 0
+[13860.013836] mttcan c310000.mttcan can0: entered error warning state
+[13860.020513] mttcan c310000.mttcan can0: entered error passive state
+[13860.027788] zedx 30-0010: zedx_write_table: Channel 0
+[13860.029131] zedx 30-0010: zedx_write_table: Channel 0
+[13860.031826] zedx 30-0010: zedx_write_table: Channel 0
+[13860.033215] zedx 30-0010: zedx_write_table: Channel 0
+[13860.035738] zedx 30-0010: zedx_write_table: Channel 0
+[13860.037221] zedx 30-0010: zedx_write_table: Channel 0
+[13860.038527] zedx 30-0010: zedx_write_table: Channel 0
+[13860.039829] zedx 30-0010: zedx_write_table: Channel 0
+[13860.041311] zedx 30-0010: zedx_write_table: Channel 0
+[13860.042638] zedx 30-0010: zedx_write_table: Channel 0
+[13860.043968] zedx 30-0010: zedx_write_table: Channel 0
+[13860.045296] zedx 30-0010: zedx_write_table: Channel 0
+[13860.048131] zedx 30-0010: zedx_write_table: Channel 0
+[13860.049595] zedx 30-0010: zedx_write_table: Channel 0
+[13860.050902] zedx 30-0010: zedx_write_table: Channel 0
+[13860.052365] zedx 30-0010: zedx_write_table: Channel 0
+[13860.053716] zedx 30-0010: zedx_write_table: Channel 0
+[13860.055007] zedx 30-0010: zedx_write_table: Channel 0
+[13860.056462] zedx 30-0010: zedx_write_table: Channel 0
+[13860.057813] zedx 30-0010: zedx_write_table: Channel 0
+[13860.059125] zedx 30-0010: zedx_write_table: Channel 0
+[13860.060417] zedx 30-0010: zedx_write_table: Channel 0
+[13860.063097] zedx 30-0010: zedx_write_table: Channel 0
+[13860.064404] zedx 30-0010: zedx_write_table: Channel 0
+[13860.065717] zedx 30-0010: zedx_write_table: Channel 0
+[13860.067186] zedx 30-0010: zedx_write_table: Channel 0
+[13860.068476] zedx 30-0010: zedx_write_table: Channel 0
+[13860.069810] zedx 30-0010: zedx_write_table: Channel 0
+[13860.071266] zedx 30-0010: zedx_write_table: Channel 0
+[13860.072614] zedx 30-0010: zedx_write_table: Channel 0
+[13860.073962] zedx 30-0010: zedx_write_table: Channel 0
+[13860.075251] zedx 30-0010: zedx_write_table: Channel 0
+[13860.077945] zedx 30-0010: zedx_write_table: Channel 0
+[13860.079231] zedx 30-0010: zedx_write_table: Channel 0
+[13860.080557] zedx 30-0010: zedx_write_table: Channel 0
+[13860.082024] zedx 30-0010: zedx_write_table: Channel 0
+[13860.083352] zedx 30-0010: zedx_write_table: Channel 0
+[13860.084673] zedx 30-0010: zedx_write_table: Channel 0
+[13860.086213] zedx 30-0010: zedx_write_table: Channel 0
+[13860.087532] zedx 30-0010: zedx_write_table: Channel 0
+[13860.088824] zedx 30-0010: zedx_write_table: Channel 0
+[13860.090178] zedx 30-0010: zedx_write_table: Channel 0
+[13860.092840] zedx 30-0010: zedx_write_table: Channel 0
+[13860.094202] zedx 30-0010: zedx_write_table: Channel 0
+[13860.095706] zedx 30-0010: zedx_write_table: Channel 0
+[13860.097036] zedx 30-0010: zedx_write_table: Channel 0
+[13860.098396] zedx 30-0010: zedx_write_table: Channel 0
+[13860.099716] zedx 30-0010: zedx_write_table: Channel 0
+[13860.101211] zedx 30-0010: zedx_write_table: Channel 0
+[13860.102532] zedx 30-0010: zedx_write_table: Channel 0
+[13860.103829] zedx 30-0010: zedx_write_table: Channel 0
+[13860.105155] zedx 30-0010: zedx_write_table: Channel 0
+[13860.107876] zedx 30-0010: zedx_write_table: Channel 0
+[13860.109193] zedx 30-0010: zedx_write_table: Channel 0
+[13860.110709] zedx 30-0010: zedx_write_table: Channel 0
+[13860.112020] zedx 30-0010: zedx_write_table: Channel 0
+[13860.113393] zedx 30-0010: zedx_write_table: Channel 0
+[13860.114685] zedx 30-0010: zedx_write_table: Channel 0
+[13860.116092] mttcan c310000.mttcan can0: entered error passive state
+[13860.122673] zedx 30-0010: zedx_write_table: Channel 0
+[13860.123985] zedx 30-0010: zedx_write_table: Channel 0
+[13860.126652] zedx 30-0010: zedx_write_table: Channel 0
+[13860.127977] zedx 30-0010: zedx_write_table: Channel 0
+[13860.129274] zedx 30-0010: zedx_write_table: Channel 0
+[13860.130752] zedx 30-0010: zedx_write_table: Channel 0
+[13860.132113] zedx 30-0010: zedx_write_table: Channel 0
+[13860.133477] zedx 30-0010: zedx_write_table: Channel 0
+[13860.134770] zedx 30-0010: zedx_write_table: Channel 0
+[13860.137441] zedx 30-0010: zedx_write_table: Channel 0
+[13860.138754] zedx 30-0010: zedx_write_table: Channel 0
+[13860.140222] zedx 30-0010: zedx_write_table: Channel 0
+[13860.141536] zedx 30-0010: zedx_write_table: Channel 0
+[13860.142828] zedx 30-0010: zedx_write_table: Channel 0
+[13860.144123] zedx 30-0010: zedx_write_table: Channel 0
+[13860.145584] zedx 30-0010: zedx_write_table: Channel 0
+[13860.146877] zedx 30-0010: zedx_write_table: Channel 0
+[13860.148167] zedx 30-0010: zedx_write_table: Channel 0
+[13860.149466] zedx 30-0010: zedx_write_table: Channel 0
+[13860.150922] zedx 30-0010: zedx_write_table: Channel 0
+[13860.153427] zedx 30-0010: zedx_write_table: Channel 0
+[13860.154698] zedx 30-0010: zedx_write_table: Channel 0
+[13860.156179] zedx 30-0010: zedx_write_table: Channel 0
+[13860.157471] zedx 30-0010: zedx_write_table: Channel 0
+[13860.158757] zedx 30-0010: zedx_write_table: Channel 0
+[13860.160394] zedx 30-0010: zedx_write_table: Channel 0
+[13860.161781] zedx 30-0010: zedx_write_table: Channel 0
+[13860.163110] zedx 30-0010: zedx_write_table: Channel 0
+[13860.164459] zedx 30-0010: zedx_write_table: Channel 0
+[13860.165929] zedx 30-0010: zedx_write_table: Channel 0
+[13860.168415] zedx 30-0010: zedx_write_table: Channel 0
+[13860.169964] zedx 30-0010: zedx_write_table: Channel 0
+[13860.171284] zedx 30-0010: zedx_write_table: Channel 0
+[13860.172618] zedx 30-0010: zedx_write_table: Channel 0
+[13860.173971] zedx 30-0010: zedx_write_table: Channel 0
+[13860.175521] zedx 30-0010: zedx_write_table: Channel 0
+[13860.176836] zedx 30-0010: zedx_write_table: Channel 0
+[13860.178158] zedx 30-0010: zedx_write_table: Channel 0
+[13860.179638] zedx 30-0010: zedx_write_table: Channel 0
+[13860.180978] zedx 30-0010: zedx_write_table: Channel 0
+[13860.183492] zedx 30-0010: zedx_write_table: Channel 0
+[13860.185159] zedx 30-0010: zedx_write_table: Channel 0
+[13860.186461] zedx 30-0010: zedx_write_table: Channel 0
+[13860.187779] zedx 30-0010: zedx_write_table: Channel 0
+[13860.189167] zedx 30-0010: zedx_write_table: Channel 0
+[13860.190658] zedx 30-0010: zedx_write_table: Channel 0
+[13860.191959] zedx 30-0010: zedx_write_table: Channel 0
+[13860.193322] zedx 30-0010: zedx_write_table: Channel 0
+[13860.194790] zedx 30-0010: zedx_write_table: Channel 0
+[13860.197426] zedx 30-0010: zedx_write_table: Channel 0
+[13860.198728] zedx 30-0010: zedx_write_table: Channel 0
+[13860.200185] zedx 30-0010: zedx_write_table: Channel 0
+[13860.201635] zedx 30-0010: zedx_write_table: Channel 0
+[13860.203034] zedx 30-0010: zedx_write_table: Channel 0
+[13860.204599] zedx 30-0010: zedx_write_table: Channel 0
+[13860.206017] zedx 30-0010: zedx_write_table: Channel 0
+[13860.207325] zedx 30-0010: zedx_write_table: Channel 0
+[13860.218479] mttcan c310000.mttcan can0: entered error passive state
+[13860.319566] mttcan c310000.mttcan can0: entered error passive state
+[13860.419153] mttcan c310000.mttcan can0: entered error warning state
+[13860.424549] zedx 30-0010: zedx_write_table: Channel 0
+[13860.425865] mttcan c310000.mttcan can0: entered error passive state
+[13860.434374] zedx 30-0010: zedx_write_table: Channel 0
+[13860.435904] zedx 30-0010: zedx_write_table: Channel 0
+[13860.438438] zedx 30-0010: zedx_write_table: Channel 0
+[13860.439785] zedx 30-0010: zedx_write_table: Channel 0
+[13860.441107] zedx 30-0010: zedx_write_table: Channel 0
+[13860.442570] zedx 30-0010: zedx_write_table: Channel 0
+[13860.443902] zedx 30-0010: zedx_write_table: Channel 0
+[13860.445226] zedx 30-0010: zedx_write_table: Channel 0
+[13860.446520] zedx 30-0010: zedx_write_table: Channel 0
+[13860.447980] zedx 30-0010: zedx_write_table: Channel 0
+[13860.449492] zedx 30-0010: zedx_write_table: Channel 0
+[13860.451984] zedx 30-0010: zedx_write_table: Channel 0
+[13860.453480] zedx 30-0010: zedx_write_table: Channel 0
+[13860.454778] zedx 30-0010: zedx_write_table: Channel 0
+[13860.456066] zedx 30-0010: zedx_write_table: Channel 0
+[13860.457570] zedx 30-0010: zedx_write_table: Channel 0
+[13860.458880] zedx 30-0010: zedx_write_table: Channel 0
+[13860.460184] zedx 30-0010: zedx_write_table: Channel 0
+[13860.461503] zedx 30-0010: zedx_write_table: Channel 0
+[13860.462990] zedx 30-0010: zedx_write_table: Channel 0
+[13860.464289] zedx 30-0010: zedx_write_table: Channel 0
+[13860.466855] zedx 30-0010: zedx_write_table: Channel 0
+[13860.468327] zedx 30-0010: zedx_write_table: Channel 0
+[13860.469670] zedx 30-0010: zedx_write_table: Channel 0
+[13860.470991] zedx 30-0010: zedx_write_table: Channel 0
+[13860.472467] zedx 30-0010: zedx_write_table: Channel 0
+[13860.473820] zedx 30-0010: zedx_write_table: Channel 0
+[13860.475117] zedx 30-0010: zedx_write_table: Channel 0
+[13860.476601] zedx 30-0010: zedx_write_table: Channel 0
+[13860.477922] zedx 30-0010: zedx_write_table: Channel 0
+[13860.479234] zedx 30-0010: zedx_write_table: Channel 0
+[13860.481781] zedx 30-0010: zedx_write_table: Channel 0
+[13860.483286] zedx 30-0010: zedx_write_table: Channel 0
+[13860.520092] mttcan c310000.mttcan can0: entered error warning state
+[13860.592551] zedx 30-0010: zedx_write_table: Channel 0
+[13860.593562] zedx 30-0010: zedx_write_table: Channel 0
+[13860.595083] zedx 30-0010: zedx_write_table: Channel 0
+[13860.596390] zedx 30-0010: zedx_write_table: Channel 0
+[13860.597797] zedx 30-0010: zedx_write_table: Channel 0
+[13860.621306] mttcan c310000.mttcan can0: entered error warning state
+[13860.627999] mttcan c310000.mttcan can0: entered error passive state
+[13860.704563] zedx 30-0010: zedx_write_table: Channel 0
+[13860.706611] zedx 30-0010: zedx_write_table: Channel 0
+[13860.707922] zedx 30-0010: zedx_write_table: Channel 0
+[13860.709398] zedx 30-0010: zedx_write_table: Channel 0
+[13860.710691] zedx 30-0010: zedx_write_table: Channel 0
+[13860.711991] zedx 30-0010: zedx_write_table: Channel 0
+[13860.713485] zedx 30-0010: zedx_write_table: Channel 0
+[13860.714778] zedx 30-0010: zedx_write_table: Channel 0
+[13860.716072] zedx 30-0010: zedx_write_table: Channel 0
+[13860.717394] zedx 30-0010: zedx_write_table: Channel 0
+[13860.718860] zedx 30-0010: zedx_write_table: Channel 0
+[13860.721362] zedx 30-0010: zedx_write_table: Channel 0
+[13860.721970] mttcan c310000.mttcan can0: entered error warning state
+[13860.728685] mttcan c310000.mttcan can0: entered error passive state
+[13860.735490] zedx 30-0010: zedx_write_table: Channel 0
+[13860.736977] zedx 30-0010: zedx_write_table: Channel 0
+[13860.739482] zedx 30-0010: zedx_write_table: Channel 0
+[13860.740782] zedx 30-0010: zedx_write_table: Channel 0
+[13860.742134] zedx 30-0010: zedx_write_table: Channel 0
+[13860.743607] zedx 30-0010: zedx_write_table: Channel 0
+[13860.744912] zedx 30-0010: zedx_write_table: Channel 0
+[13860.746281] zedx 30-0010: zedx_write_table: Channel 0
+[13860.747611] zedx 30-0010: zedx_write_table: Channel 0
+[13860.824675] mttcan c310000.mttcan can0: entered error warning state
+[13860.831387] mttcan c310000.mttcan can0: entered error passive state
+[13860.925224] mttcan c310000.mttcan can0: entered error warning state
+[13861.027487] mttcan c310000.mttcan can0: entered error warning state
+[13861.034222] mttcan c310000.mttcan can0: entered error passive state
+[13861.077493] zedx 30-0010: zedx_write_table: Channel 0
+[13861.078788] zedx 30-0010: zedx_write_table: Channel 0
+[13861.130306] mttcan c310000.mttcan can0: entered error passive state
+[13861.188817] bwmgr API not supported
+[13861.209366] bwmgr API not supported
+[13861.231768] mttcan c310000.mttcan can0: entered error passive state
+[13861.251353] bwmgr API not supported
+[13861.433099] mttcan c310000.mttcan can0: entered error warning state
+[13861.537076] mttcan c310000.mttcan can0: entered error passive state
+[13861.635925] mttcan c310000.mttcan can0: entered error warning state
+[13861.642701] mttcan c310000.mttcan can0: entered error passive state
+[13861.740241] mttcan c310000.mttcan can0: entered error passive state
+[13861.838705] mttcan c310000.mttcan can0: entered error passive state
+[13861.939025] mttcan c310000.mttcan can0: entered error warning state
+[13861.945745] mttcan c310000.mttcan can0: entered error passive state
+[13862.040834] mttcan c310000.mttcan can0: entered error passive state
+[13862.244362] mttcan c310000.mttcan can0: entered error warning state
+[13862.318173] bwmgr API not supported
+[13862.318370] bwmgr API not supported
+[13862.322478] bwmgr API not supported
+[13862.345484] mttcan c310000.mttcan can0: entered error warning state
+[13862.446483] mttcan c310000.mttcan can0: entered error warning state
+[13862.547442] mttcan c310000.mttcan can0: entered error warning state
+[13862.554269] mttcan c310000.mttcan can0: entered error passive state
+[13862.650350] mttcan c310000.mttcan can0: entered error passive state
+[13862.750217] mttcan c310000.mttcan can0: entered error warning state
+[13862.756956] mttcan c310000.mttcan can0: entered error passive state
+[13862.851098] mttcan c310000.mttcan can0: entered error warning state
+[13862.952165] mttcan c310000.mttcan can0: entered error warning state
+[13862.958914] mttcan c310000.mttcan can0: entered error passive state
+[13863.054338] mttcan c310000.mttcan can0: entered error passive state
+[13863.157904] mttcan c310000.mttcan can0: entered error passive state
+[13863.164555] mttcan c310000.mttcan can0: entered error passive state
+[13863.257252] mttcan c310000.mttcan can0: entered error passive state
+[13863.357113] mttcan c310000.mttcan can0: entered error warning state
+[13863.458028] mttcan c310000.mttcan can0: entered error warning state
+[13863.558946] mttcan c310000.mttcan can0: entered error warning state
+[13863.660471] mttcan c310000.mttcan can0: entered error warning state
+[13863.667281] mttcan c310000.mttcan can0: entered error passive state
+[13863.762132] mttcan c310000.mttcan can0: entered error warning state
+[13863.864289] mttcan c310000.mttcan can0: entered error passive state
+[13863.963998] mttcan c310000.mttcan can0: entered error warning state
+[13864.067516] mttcan c310000.mttcan can0: entered error passive state
+[13864.167240] mttcan c310000.mttcan can0: entered error passive state
+[13864.268411] mttcan c310000.mttcan can0: entered error passive state
+[13864.367885] mttcan c310000.mttcan can0: entered error warning state
+[13864.470301] mttcan c310000.mttcan can0: entered error warning state
+[13864.477089] mttcan c310000.mttcan can0: entered error passive state
+[13864.571037] mttcan c310000.mttcan can0: entered error warning state
+[13864.673194] mttcan c310000.mttcan can0: entered error passive state
+[13864.772807] mttcan c310000.mttcan can0: entered error warning state
+[13864.874519] mttcan c310000.mttcan can0: entered error warning state
+[13864.881279] mttcan c310000.mttcan can0: entered error passive state
+[13864.975930] mttcan c310000.mttcan can0: entered error warning state
+[13864.983788] mttcan c310000.mttcan can0: entered error passive state
+[13865.078235] mttcan c310000.mttcan can0: entered error passive state
+[13865.179085] mttcan c310000.mttcan can0: entered error passive state
+[13865.280222] mttcan c310000.mttcan can0: entered error passive state
+[13865.381324] mttcan c310000.mttcan can0: entered error warning state
+[13865.482146] mttcan c310000.mttcan can0: entered error warning state
+[13865.488940] mttcan c310000.mttcan can0: entered error passive state
+[13865.583085] mttcan c310000.mttcan can0: entered error warning state
+[13865.686387] mttcan c310000.mttcan can0: entered error passive state
+[13865.785767] mttcan c310000.mttcan can0: entered error warning state
+[13865.792585] mttcan c310000.mttcan can0: entered error passive state
+[13865.888213] mttcan c310000.mttcan can0: entered error passive state
+[13865.988163] mttcan c310000.mttcan can0: entered error warning state
+[13865.995018] mttcan c310000.mttcan can0: entered error passive state
+[13866.090522] mttcan c310000.mttcan can0: entered error passive state
+[13866.190243] mttcan c310000.mttcan can0: entered error warning state
+[13866.292820] mttcan c310000.mttcan can0: entered error warning state
+[13866.299499] mttcan c310000.mttcan can0: entered error passive state
+[13866.393326] mttcan c310000.mttcan can0: entered error warning state
+[13866.400135] mttcan c310000.mttcan can0: entered error passive state
+[13866.495147] mttcan c310000.mttcan can0: entered error warning state
+[13866.502086] mttcan c310000.mttcan can0: entered error passive state
+[13866.596243] mttcan c310000.mttcan can0: entered error warning state
+[13866.603008] mttcan c310000.mttcan can0: entered error passive state
+[13866.697051] mttcan c310000.mttcan can0: entered error warning state
+[13866.703848] mttcan c310000.mttcan can0: entered error passive state
+[13866.799445] mttcan c310000.mttcan can0: entered error warning state
+[13866.900749] mttcan c310000.mttcan can0: entered error warning state
+[13867.002012] mttcan c310000.mttcan can0: entered error warning state
+[13867.008798] mttcan c310000.mttcan can0: entered error passive state
+[13867.104764] mttcan c310000.mttcan can0: entered error passive state
+[13867.205831] mttcan c310000.mttcan can0: entered error warning state
+[13867.306786] mttcan c310000.mttcan can0: entered error warning state
+[13867.408471] mttcan c310000.mttcan can0: entered error warning state
+[13867.510111] mttcan c310000.mttcan can0: entered error warning state
+[13867.611022] mttcan c310000.mttcan can0: entered error warning state
+[13867.711984] mttcan c310000.mttcan can0: entered error warning state
+[13867.812806] mttcan c310000.mttcan can0: entered error warning state
+[13867.819609] mttcan c310000.mttcan can0: entered error passive state
+[13867.914652] mttcan c310000.mttcan can0: entered error warning state
+[13867.921458] mttcan c310000.mttcan can0: entered error passive state
+[13868.017283] mttcan c310000.mttcan can0: entered error passive state
+[13868.118124] mttcan c310000.mttcan can0: entered error passive state
+[13868.218081] mttcan c310000.mttcan can0: entered error warning state
+[13868.420270] mttcan c310000.mttcan can0: entered error warning state
+[13868.426883] mttcan c310000.mttcan can0: entered error passive state
+[13868.522023] mttcan c310000.mttcan can0: entered error passive state
+[13868.528770] mttcan c310000.mttcan can0: entered error passive state
+[13868.622633] mttcan c310000.mttcan can0: entered error warning state
+[13868.629451] mttcan c310000.mttcan can0: entered error passive state
+[13868.724641] mttcan c310000.mttcan can0: entered error passive state
+[13868.825698] mttcan c310000.mttcan can0: entered error warning state
+[13868.832612] mttcan c310000.mttcan can0: entered error passive state
+[13868.929788] mttcan c310000.mttcan can0: entered error passive state
+[13869.028245] mttcan c310000.mttcan can0: entered error warning state
+[13869.129521] mttcan c310000.mttcan can0: entered error warning state
+[13869.230149] mttcan c310000.mttcan can0: entered error warning state
+[13869.236952] mttcan c310000.mttcan can0: entered error passive state
+[13869.334187] mttcan c310000.mttcan can0: entered error passive state
+[13869.340913] mttcan c310000.mttcan can0: entered error passive state
+[13869.434207] mttcan c310000.mttcan can0: entered error passive state
+[13869.534952] mttcan c310000.mttcan can0: entered error passive state
+[13869.634619] mttcan c310000.mttcan can0: entered error warning state
+[13869.735680] mttcan c310000.mttcan can0: entered error warning state
+[13869.742417] mttcan c310000.mttcan can0: entered error passive state
+[13869.837791] mttcan c310000.mttcan can0: entered error passive state
+[13869.940910] mttcan c310000.mttcan can0: entered error passive state
+[13869.947629] mttcan c310000.mttcan can0: entered error passive state
+[13870.040938] mttcan c310000.mttcan can0: entered error passive state
+[13870.141131] mttcan c310000.mttcan can0: entered error warning state
+[13870.242080] mttcan c310000.mttcan can0: entered error warning state
+[13870.248794] mttcan c310000.mttcan can0: entered error passive state
+[13870.343151] mttcan c310000.mttcan can0: entered error warning state
+[13870.445659] mttcan c310000.mttcan can0: entered error passive state
+[13870.544995] mttcan c310000.mttcan can0: entered error warning state
+[13870.645942] mttcan c310000.mttcan can0: entered error warning state
+[13870.748104] mttcan c310000.mttcan can0: entered error warning state
+[13870.754946] mttcan c310000.mttcan can0: entered error passive state
+[13870.849843] mttcan c310000.mttcan can0: entered error warning state
+[13870.856722] mttcan c310000.mttcan can0: entered error passive state
+[13870.951445] mttcan c310000.mttcan can0: entered error warning state
+[13871.053755] mttcan c310000.mttcan can0: entered error passive state
+[13871.153380] mttcan c310000.mttcan can0: entered error warning state
+[13871.255532] mttcan c310000.mttcan can0: entered error passive state
+[13871.356515] mttcan c310000.mttcan can0: entered error warning state
+[13871.560161] mttcan c310000.mttcan can0: entered error warning state
+[13871.661277] mttcan c310000.mttcan can0: entered error passive state
+[13871.760964] mttcan c310000.mttcan can0: entered error warning state
+[13871.767578] mttcan c310000.mttcan can0: entered error passive state
+[13871.863363] mttcan c310000.mttcan can0: entered error passive state
+[13871.966558] mttcan c310000.mttcan can0: entered error passive state
+[13872.068409] mttcan c310000.mttcan can0: entered error passive state
+[13872.167997] mttcan c310000.mttcan can0: entered error warning state
+[13872.272040] mttcan c310000.mttcan can0: entered error passive state
+[13872.370754] mttcan c310000.mttcan can0: entered error warning state
+[13872.472655] mttcan c310000.mttcan can0: entered error passive state
+[13872.572500] mttcan c310000.mttcan can0: entered error warning state
+[13872.579125] mttcan c310000.mttcan can0: entered error passive state
+[13872.674710] mttcan c310000.mttcan can0: entered error passive state
+[13872.774519] mttcan c310000.mttcan can0: entered error warning state
+[13872.876801] mttcan c310000.mttcan can0: entered error passive state
+[13872.976939] mttcan c310000.mttcan can0: entered error warning state
+[13872.983717] mttcan c310000.mttcan can0: entered error passive state
+[13873.079810] mttcan c310000.mttcan can0: entered error passive state
+[13873.179552] mttcan c310000.mttcan can0: entered error warning state
+[13873.186436] mttcan c310000.mttcan can0: entered error passive state
+[13873.281980] mttcan c310000.mttcan can0: entered error passive state
+[13873.381514] mttcan c310000.mttcan can0: entered error warning state
+[13873.482460] mttcan c310000.mttcan can0: entered error warning state
+[13873.489282] mttcan c310000.mttcan can0: entered error passive state
+[13873.583406] mttcan c310000.mttcan can0: entered error warning state
+[13873.590232] mttcan c310000.mttcan can0: entered error passive state
+[13873.684365] mttcan c310000.mttcan can0: entered error warning state
+[13873.786618] mttcan c310000.mttcan can0: entered error warning state
+[13873.793406] mttcan c310000.mttcan can0: entered error passive state
+[13873.888802] mttcan c310000.mttcan can0: entered error passive state
+[13873.988435] mttcan c310000.mttcan can0: entered error warning state
+[13874.089631] mttcan c310000.mttcan can0: entered error warning state
+[13874.190847] mttcan c310000.mttcan can0: entered error warning state
+[13874.291825] mttcan c310000.mttcan can0: entered error warning state
+[13874.298518] mttcan c310000.mttcan can0: entered error passive state
+[13874.393583] mttcan c310000.mttcan can0: entered error warning state
+[13874.400353] mttcan c310000.mttcan can0: entered error passive state
+[13874.494532] mttcan c310000.mttcan can0: entered error warning state
+[13874.501307] mttcan c310000.mttcan can0: entered error passive state
+[13874.595440] mttcan c310000.mttcan can0: entered error warning state
+[13874.602197] mttcan c310000.mttcan can0: entered error passive state
+[13874.697449] mttcan c310000.mttcan can0: entered error warning state
+[13874.799743] mttcan c310000.mttcan can0: entered error warning state
+[13874.901061] mttcan c310000.mttcan can0: entered error passive state
+[13875.000932] mttcan c310000.mttcan can0: entered error warning state
+[13875.101972] mttcan c310000.mttcan can0: entered error warning state
+[13875.202835] mttcan c310000.mttcan can0: entered error warning state
+[13875.209619] mttcan c310000.mttcan can0: entered error passive state
+[13875.303782] mttcan c310000.mttcan can0: entered error warning state
+[13875.310635] mttcan c310000.mttcan can0: entered error passive state
+[13875.404691] mttcan c310000.mttcan can0: entered error warning state
+[13875.507436] mttcan c310000.mttcan can0: entered error warning state
+[13875.514123] mttcan c310000.mttcan can0: entered error passive state
+[13875.607471] mttcan c310000.mttcan can0: entered error warning state
+[13875.709441] mttcan c310000.mttcan can0: entered error warning state
+[13875.811279] mttcan c310000.mttcan can0: entered error warning state
+[13875.818104] mttcan c310000.mttcan can0: entered error passive state
+[13875.913678] mttcan c310000.mttcan can0: entered error warning state
+[13875.920580] mttcan c310000.mttcan can0: entered error passive state
+[13876.015971] mttcan c310000.mttcan can0: entered error warning state
+[13876.022817] mttcan c310000.mttcan can0: entered error passive state
+[13876.118122] mttcan c310000.mttcan can0: entered error passive state
+[13876.217876] mttcan c310000.mttcan can0: entered error warning state
+[13876.224610] mttcan c310000.mttcan can0: entered error passive state
+[13876.320665] mttcan c310000.mttcan can0: entered error passive state
+[13876.420418] mttcan c310000.mttcan can0: entered error warning state
+[13876.521364] mttcan c310000.mttcan can0: entered error warning state
+[13876.622425] mttcan c310000.mttcan can0: entered error warning state
+[13876.724464] mttcan c310000.mttcan can0: entered error warning state
+[13876.731260] mttcan c310000.mttcan can0: entered error passive state
+[13876.824885] mttcan c310000.mttcan can0: entered error warning state
+[13876.831613] mttcan c310000.mttcan can0: entered error passive state
+[13876.927141] mttcan c310000.mttcan can0: entered error passive state
+[13877.028011] mttcan c310000.mttcan can0: entered error warning state
+[13877.034802] mttcan c310000.mttcan can0: entered error passive state
+[13877.129768] mttcan c310000.mttcan can0: entered error warning state
+[13877.231112] mttcan c310000.mttcan can0: entered error warning state
+[13877.332796] mttcan c310000.mttcan can0: entered error passive state
+[13877.432770] mttcan c310000.mttcan can0: entered error warning state
+[13877.533656] mttcan c310000.mttcan can0: entered error warning state
+[13877.634629] mttcan c310000.mttcan can0: entered error warning state
+[13877.641390] mttcan c310000.mttcan can0: entered error passive state
+[13877.737359] mttcan c310000.mttcan can0: entered error passive state
+[13877.839306] mttcan c310000.mttcan can0: entered error passive state
+[13877.846133] mttcan c310000.mttcan can0: entered error passive state
+[13877.939158] mttcan c310000.mttcan can0: entered error warning state
+[13878.040839] mttcan c310000.mttcan can0: entered error passive state
+[13878.141026] mttcan c310000.mttcan can0: entered error warning state
+[13878.147706] mttcan c310000.mttcan can0: entered error passive state
+[13878.241702] mttcan c310000.mttcan can0: entered error warning state
+[13878.344012] mttcan c310000.mttcan can0: entered error warning state
+[13878.350765] mttcan c310000.mttcan can0: entered error passive state
+[13878.446185] mttcan c310000.mttcan can0: entered error passive state
+[13878.545790] mttcan c310000.mttcan can0: entered error warning state
+[13878.553177] mttcan c310000.mttcan can0: entered error passive state
+[13878.647574] mttcan c310000.mttcan can0: entered error warning state
+[13878.749313] mttcan c310000.mttcan can0: entered error warning state
+[13878.850385] mttcan c310000.mttcan can0: entered error warning state
+[13878.857199] mttcan c310000.mttcan can0: entered error passive state
+[13878.951321] mttcan c310000.mttcan can0: entered error warning state
+[13878.958128] mttcan c310000.mttcan can0: entered error passive state
+[13879.053349] mttcan c310000.mttcan can0: entered error passive state
+[13879.153030] mttcan c310000.mttcan can0: entered error warning state
+[13879.159642] mttcan c310000.mttcan can0: entered error passive state
+[13879.255796] mttcan c310000.mttcan can0: entered error passive state
+[13879.262566] mttcan c310000.mttcan can0: entered error passive state
+[13879.355783] mttcan c310000.mttcan can0: entered error warning state
+[13879.457458] mttcan c310000.mttcan can0: entered error warning state
+[13879.464258] mttcan c310000.mttcan can0: entered error passive state
+[13879.557658] mttcan c310000.mttcan can0: entered error warning state
+[13879.659266] mttcan c310000.mttcan can0: entered error warning state
+[13879.761585] mttcan c310000.mttcan can0: entered error warning state
+[13879.862799] mttcan c310000.mttcan can0: entered error warning state
+[13879.869597] mttcan c310000.mttcan can0: entered error passive state
+[13879.963462] mttcan c310000.mttcan can0: entered error warning state
+[13880.067419] mttcan c310000.mttcan can0: entered error warning state
+[13880.074058] mttcan c310000.mttcan can0: entered error passive state
+[13880.167819] mttcan c310000.mttcan can0: entered error warning state
+[13880.269510] mttcan c310000.mttcan can0: entered error passive state
+[13880.369354] mttcan c310000.mttcan can0: entered error warning state
+[13880.470387] mttcan c310000.mttcan can0: entered error warning state
+[13880.477102] mttcan c310000.mttcan can0: entered error passive state
+[13880.572680] mttcan c310000.mttcan can0: entered error warning state
+[13880.579402] mttcan c310000.mttcan can0: entered error passive state
+[13880.674188] mttcan c310000.mttcan can0: entered error warning state
+[13880.775554] mttcan c310000.mttcan can0: entered error warning state
+[13880.782372] mttcan c310000.mttcan can0: entered error passive state
+[13880.878482] mttcan c310000.mttcan can0: entered error passive state
+[13880.979139] mttcan c310000.mttcan can0: entered error warning state
+[13881.080061] mttcan c310000.mttcan can0: entered error warning state
+[13881.181108] mttcan c310000.mttcan can0: entered error warning state
+[13881.283410] mttcan c310000.mttcan can0: entered error warning state
+[13881.290230] mttcan c310000.mttcan can0: entered error passive state
+[13881.384365] mttcan c310000.mttcan can0: entered error warning state
+[13881.391091] mttcan c310000.mttcan can0: entered error passive state
+[13881.485164] mttcan c310000.mttcan can0: entered error warning state
+[13881.491829] mttcan c310000.mttcan can0: entered error passive state
+[13881.586914] mttcan c310000.mttcan can0: entered error warning state
+[13881.593669] mttcan c310000.mttcan can0: entered error passive state
+[13881.689459] mttcan c310000.mttcan can0: entered error passive state
+[13881.790879] mttcan c310000.mttcan can0: entered error warning state
+[13881.891946] mttcan c310000.mttcan can0: entered error warning state
+[13881.992924] mttcan c310000.mttcan can0: entered error warning state
+[13882.094232] mttcan c310000.mttcan can0: entered error warning state
+[13882.101075] mttcan c310000.mttcan can0: entered error passive state
+[13882.194806] mttcan c310000.mttcan can0: entered error warning state
+[13882.298601] mttcan c310000.mttcan can0: entered error passive state
+[13882.397734] mttcan c310000.mttcan can0: entered error warning state
+[13882.498669] mttcan c310000.mttcan can0: entered error warning state
+[13882.600199] mttcan c310000.mttcan can0: entered error warning state
+[13882.702243] mttcan c310000.mttcan can0: entered error warning state
+[13882.802059] mttcan c310000.mttcan can0: entered error warning state
+[13882.902959] mttcan c310000.mttcan can0: entered error warning state
+[13883.004180] mttcan c310000.mttcan can0: entered error warning state
+[13883.010976] mttcan c310000.mttcan can0: entered error passive state
+[13883.107164] mttcan c310000.mttcan can0: entered error passive state
+[13883.206630] mttcan c310000.mttcan can0: entered error warning state
+[13883.307584] mttcan c310000.mttcan can0: entered error warning state
+[13883.408991] mttcan c310000.mttcan can0: entered error warning state
+[13883.415731] mttcan c310000.mttcan can0: entered error passive state
+[13883.510927] mttcan c310000.mttcan can0: entered error warning state
+[13883.517637] mttcan c310000.mttcan can0: entered error passive state
+[13883.612471] mttcan c310000.mttcan can0: entered error warning state
+[13883.619163] mttcan c310000.mttcan can0: entered error passive state
+[13883.713413] mttcan c310000.mttcan can0: entered error warning state
+[13883.720293] mttcan c310000.mttcan can0: entered error passive state
+[13883.814217] mttcan c310000.mttcan can0: entered error warning state
+[13883.821044] mttcan c310000.mttcan can0: entered error passive state
+[13883.917174] mttcan c310000.mttcan can0: entered error passive state
+[13884.016970] mttcan c310000.mttcan can0: entered error warning state
+[13884.119392] mttcan c310000.mttcan can0: entered error passive state
+[13884.126130] mttcan c310000.mttcan can0: entered error passive state
+[13884.220335] mttcan c310000.mttcan can0: entered error warning state
+[13884.227004] mttcan c310000.mttcan can0: entered error passive state
+[13884.321312] mttcan c310000.mttcan can0: entered error warning state
+[13884.424016] mttcan c310000.mttcan can0: entered error warning state
+[13884.430663] mttcan c310000.mttcan can0: entered error passive state
+[13884.528186] mttcan c310000.mttcan can0: entered error passive state
+[13884.534984] mttcan c310000.mttcan can0: entered error passive state
+[13884.627964] mttcan c310000.mttcan can0: entered error passive state
+[13884.728809] mttcan c310000.mttcan can0: entered error passive state
+[13884.828635] mttcan c310000.mttcan can0: entered error warning state
+[13884.929702] mttcan c310000.mttcan can0: entered error warning state
+[13884.936545] mttcan c310000.mttcan can0: entered error passive state
+[13885.030662] mttcan c310000.mttcan can0: entered error warning state
+[13885.236665] mttcan c310000.mttcan can0: entered error warning state
+[13885.243518] mttcan c310000.mttcan can0: entered error passive state
+[13885.338297] mttcan c310000.mttcan can0: entered error passive state
+[13885.438783] mttcan c310000.mttcan can0: entered error passive state
+[13885.540638] mttcan c310000.mttcan can0: entered error passive state
+[13885.743959] mttcan c310000.mttcan can0: entered error warning state
+[13885.845006] mttcan c310000.mttcan can0: entered error warning state
+[13885.945659] mttcan c310000.mttcan can0: entered error warning state
+[13885.952495] mttcan c310000.mttcan can0: entered error passive state
+[13886.049231] mttcan c310000.mttcan can0: entered error passive state
+[13886.148253] mttcan c310000.mttcan can0: entered error warning state
+[13886.155066] mttcan c310000.mttcan can0: entered error passive state
+[13886.250309] mttcan c310000.mttcan can0: entered error passive state
+[13886.351421] mttcan c310000.mttcan can0: entered error warning state
+[13886.452240] mttcan c310000.mttcan can0: entered error warning state
+[13886.553782] mttcan c310000.mttcan can0: entered error warning state
+[13886.560635] mttcan c310000.mttcan can0: entered error passive state
+[13886.654718] mttcan c310000.mttcan can0: entered error warning state
+[13886.661443] mttcan c310000.mttcan can0: entered error passive state
+[13886.755648] mttcan c310000.mttcan can0: entered error warning state
+[13886.858550] mttcan c310000.mttcan can0: entered error passive state
+[13886.958279] mttcan c310000.mttcan can0: entered error warning state
+[13886.964985] mttcan c310000.mttcan can0: entered error passive state
+[13887.059155] mttcan c310000.mttcan can0: entered error warning state
+[13887.160134] mttcan c310000.mttcan can0: entered error warning state
+[13887.166985] mttcan c310000.mttcan can0: entered error passive state
+[13887.262695] mttcan c310000.mttcan can0: entered error passive state
+[13887.362033] mttcan c310000.mttcan can0: entered error warning state
+[13887.463577] mttcan c310000.mttcan can0: entered error warning state
+[13887.470303] mttcan c310000.mttcan can0: entered error passive state
+[13887.566453] mttcan c310000.mttcan can0: entered error passive state
+[13887.668731] mttcan c310000.mttcan can0: entered error passive state
+[13887.768448] mttcan c310000.mttcan can0: entered error warning state
+[13887.870780] mttcan c310000.mttcan can0: entered error passive state
+[13887.971780] mttcan c310000.mttcan can0: entered error warning state
+[13888.072735] mttcan c310000.mttcan can0: entered error warning state
+[13888.079478] mttcan c310000.mttcan can0: entered error passive state
+[13888.175081] mttcan c310000.mttcan can0: entered error warning state
+[13888.182200] mttcan c310000.mttcan can0: entered error passive state
+[13888.277789] mttcan c310000.mttcan can0: entered error passive state
+[13888.377712] mttcan c310000.mttcan can0: entered error warning state
+[13888.479902] mttcan c310000.mttcan can0: entered error passive state
+[13888.581574] mttcan c310000.mttcan can0: entered error warning state
+[13888.588400] mttcan c310000.mttcan can0: entered error passive state
+[13888.684109] mttcan c310000.mttcan can0: entered error passive state
+[13888.783475] mttcan c310000.mttcan can0: entered error warning state
+[13888.885729] mttcan c310000.mttcan can0: entered error warning state
+[13888.892404] mttcan c310000.mttcan can0: entered error passive state
+[13888.988514] mttcan c310000.mttcan can0: entered error passive state
+[13889.089831] mttcan c310000.mttcan can0: entered error passive state
+[13889.190393] mttcan c310000.mttcan can0: entered error passive state
+[13889.292058] mttcan c310000.mttcan can0: entered error passive state
+[13889.393006] mttcan c310000.mttcan can0: entered error warning state
+[13889.495769] mttcan c310000.mttcan can0: entered error warning state
+[13889.597115] mttcan c310000.mttcan can0: entered error passive state
+[13889.697377] mttcan c310000.mttcan can0: entered error warning state
+[13889.704148] mttcan c310000.mttcan can0: entered error passive state
+[13889.799205] mttcan c310000.mttcan can0: entered error warning state
+[13889.900164] mttcan c310000.mttcan can0: entered error warning state
+[13889.906781] mttcan c310000.mttcan can0: entered error passive state
+[13890.001108] mttcan c310000.mttcan can0: entered error warning state
+[13890.007853] mttcan c310000.mttcan can0: entered error passive state
+[13890.103793] mttcan c310000.mttcan can0: entered error passive state
+[13890.110546] mttcan c310000.mttcan can0: entered error passive state
+[13890.203246] mttcan c310000.mttcan can0: entered error warning state
+[13890.303992] mttcan c310000.mttcan can0: entered error warning state
+[13890.510983] mttcan c310000.mttcan can0: entered error warning state
+[13890.517796] mttcan c310000.mttcan can0: entered error passive state
+[13890.610385] mttcan c310000.mttcan can0: entered error passive state
+[13890.710558] mttcan c310000.mttcan can0: entered error warning state
+[13890.717258] mttcan c310000.mttcan can0: entered error passive state
+[13890.811652] mttcan c310000.mttcan can0: entered error warning state
+[13890.915258] mttcan c310000.mttcan can0: entered error passive state
+[13891.014900] mttcan c310000.mttcan can0: entered error warning state
+[13891.117057] mttcan c310000.mttcan can0: entered error passive state
+[13891.216764] mttcan c310000.mttcan can0: entered error warning state
+[13891.223603] mttcan c310000.mttcan can0: entered error passive state
+[13891.320079] mttcan c310000.mttcan can0: entered error passive state
+[13891.421236] mttcan c310000.mttcan can0: entered error passive state
+[13891.523537] mttcan c310000.mttcan can0: entered error passive state
+[13891.625116] mttcan c310000.mttcan can0: entered error warning state
+[13891.631827] mttcan c310000.mttcan can0: entered error passive state
+[13891.727255] mttcan c310000.mttcan can0: entered error passive state
+[13891.826559] mttcan c310000.mttcan can0: entered error warning state
+[13891.833916] mttcan c310000.mttcan can0: entered error passive state
+[13891.929555] mttcan c310000.mttcan can0: entered error passive state
+[13892.029201] mttcan c310000.mttcan can0: entered error warning state
+[13892.130013] mttcan c310000.mttcan can0: entered error warning state
+[13892.231440] mttcan c310000.mttcan can0: entered error warning state
+[13892.238202] mttcan c310000.mttcan can0: entered error passive state
+[13892.333621] mttcan c310000.mttcan can0: entered error passive state
+[13892.433690] mttcan c310000.mttcan can0: entered error warning state
+[13892.534410] mttcan c310000.mttcan can0: entered error warning state
+[13892.541176] mttcan c310000.mttcan can0: entered error passive state
+[13892.636028] mttcan c310000.mttcan can0: entered error passive state
+[13892.736298] mttcan c310000.mttcan can0: entered error warning state
+[13892.743023] mttcan c310000.mttcan can0: entered error passive state
+[13892.839130] mttcan c310000.mttcan can0: entered error passive state
+[13892.939357] mttcan c310000.mttcan can0: entered error warning state
+[13892.946129] mttcan c310000.mttcan can0: entered error passive state
+[13893.039826] mttcan c310000.mttcan can0: entered error warning state
+[13893.046573] mttcan c310000.mttcan can0: entered error passive state
+[13893.140767] mttcan c310000.mttcan can0: entered error warning state
+[13893.241549] mttcan c310000.mttcan can0: entered error warning state
+[13893.343959] mttcan c310000.mttcan can0: entered error warning state
+[13893.350728] mttcan c310000.mttcan can0: entered error passive state
+[13893.445884] mttcan c310000.mttcan can0: entered error passive state
+[13893.545845] mttcan c310000.mttcan can0: entered error warning state
+[13893.552629] mttcan c310000.mttcan can0: entered error passive state
+[13893.648152] mttcan c310000.mttcan can0: entered error warning state
+[13893.750931] mttcan c310000.mttcan can0: entered error warning state
+[13893.757551] mttcan c310000.mttcan can0: entered error passive state
+[13893.852828] mttcan c310000.mttcan can0: entered error warning state
+[13893.859501] mttcan c310000.mttcan can0: entered error passive state
+[13893.954028] mttcan c310000.mttcan can0: entered error warning state
+[13893.960885] mttcan c310000.mttcan can0: entered error passive state
+[13894.055778] mttcan c310000.mttcan can0: entered error passive state
+[13894.062600] mttcan c310000.mttcan can0: entered error passive state
+[13894.156231] mttcan c310000.mttcan can0: entered error warning state
+[13894.258492] mttcan c310000.mttcan can0: entered error warning state
+[13894.360445] mttcan c310000.mttcan can0: entered error warning state
+[13894.367167] mttcan c310000.mttcan can0: entered error passive state
+[13894.463184] mttcan c310000.mttcan can0: entered error passive state
+[13894.563335] mttcan c310000.mttcan can0: entered error warning state
+[13894.570081] mttcan c310000.mttcan can0: entered error passive state
+[13894.665474] mttcan c310000.mttcan can0: entered error passive state
+[13894.765202] mttcan c310000.mttcan can0: entered error warning state
+[13894.866371] mttcan c310000.mttcan can0: entered error warning state
+[13894.873163] mttcan c310000.mttcan can0: entered error passive state

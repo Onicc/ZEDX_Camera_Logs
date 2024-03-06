@@ -1,0 +1,596 @@
+$ sudo ZED_Diagnostic --dmesg
+
+- Running Log Kernel Trace Diagnostic : OK  
+
+$ cat ./dmesg.log 
+####################################
+############ DMESG LOG #############
+####################################
+
+[13857.865944] zedx 30-0018: zedx_write_table: Channel 0
+[13857.867418] zedx 30-0018: zedx_write_table: Channel 0
+[13857.869929] zedx 30-0018: zedx_write_table: Channel 0
+[13857.871362] zedx 30-0018: zedx_write_table: Channel 0
+[13857.872903] zedx 30-0018: zedx_write_table: Channel 0
+[13857.874274] zedx 30-0018: zedx_write_table: Channel 0
+[13857.875661] zedx 30-0018: zedx_write_table: Channel 0
+[13857.877010] zedx 30-0018: zedx_write_table: Channel 0
+[13857.878501] zedx 30-0018: zedx_write_table: Channel 0
+[13857.879817] zedx 30-0018: zedx_write_table: Channel 0
+[13857.881129] zedx 30-0018: zedx_write_table: Channel 0
+[13857.882603] zedx 30-0018: zedx_write_table: Channel 0
+[13857.885137] zedx 30-0018: zedx_write_table: Channel 0
+[13857.886443] zedx 30-0018: zedx_write_table: Channel 0
+[13857.887917] zedx 30-0018: zedx_write_table: Channel 0
+[13857.895591] zedx 30-0018: zedx_write_table: Channel 0
+[13857.897132] zedx 30-0018: zedx_write_table: Channel 0
+[13857.900033] zedx 30-0018: zedx_write_table: Channel 0
+[13857.901383] zedx 30-0018: zedx_write_table: Channel 0
+[13857.902894] zedx 30-0018: zedx_write_table: Channel 0
+[13857.904284] zedx 30-0018: zedx_write_table: Channel 0
+[13857.905631] zedx 30-0018: zedx_write_table: Channel 0
+[13857.907115] zedx 30-0018: zedx_write_table: Channel 0
+[13857.908452] zedx 30-0018: zedx_write_table: Channel 0
+[13857.909806] zedx 30-0018: zedx_write_table: Channel 0
+[13857.911122] zedx 30-0018: zedx_write_table: Channel 0
+[13857.912619] zedx 30-0018: zedx_write_table: Channel 0
+[13857.915137] zedx 30-0018: zedx_write_table: Channel 0
+[13857.916485] zedx 30-0018: zedx_write_table: Channel 0
+[13857.918005] zedx 30-0018: zedx_write_table: Channel 0
+[13857.919327] zedx 30-0018: zedx_write_table: Channel 0
+[13857.920681] zedx 30-0018: zedx_write_table: Channel 0
+[13857.922239] zedx 30-0018: zedx_write_table: Channel 0
+[13857.923610] zedx 30-0018: zedx_write_table: Channel 0
+[13857.924954] zedx 30-0018: zedx_write_table: Channel 0
+[13857.926345] zedx 30-0018: zedx_write_table: Channel 0
+[13857.929069] zedx 30-0018: zedx_write_table: Channel 0
+[13857.930463] zedx 30-0018: zedx_write_table: Channel 0
+[13857.931937] zedx 30-0018: zedx_write_table: Channel 0
+[13857.933260] zedx 30-0018: zedx_write_table: Channel 0
+[13857.934607] zedx 30-0018: zedx_write_table: Channel 0
+[13857.935949] zedx 30-0018: zedx_write_table: Channel 0
+[13857.937409] zedx 30-0018: zedx_write_table: Channel 0
+[13857.938828] zedx 30-0018: zedx_write_table: Channel 0
+[13857.940145] zedx 30-0018: zedx_write_table: Channel 0
+[13857.941592] zedx 30-0018: zedx_write_table: Channel 0
+[13857.944124] zedx 30-0018: zedx_write_table: Channel 0
+[13857.945502] zedx 30-0018: zedx_write_table: Channel 0
+[13857.946980] zedx 30-0018: zedx_write_table: Channel 0
+[13857.948260] zedx 30-0018: zedx_write_table: Channel 0
+[13857.949634] zedx 30-0018: zedx_write_table: Channel 0
+[13857.950956] zedx 30-0018: zedx_write_table: Channel 0
+[13857.952479] zedx 30-0018: zedx_write_table: Channel 0
+[13857.953839] zedx 30-0018: zedx_write_table: Channel 0
+[13857.955228] zedx 30-0018: zedx_write_table: Channel 0
+[13857.956778] zedx 30-0018: zedx_write_table: Channel 0
+[13857.959358] zedx 30-0018: zedx_write_table: Channel 0
+[13857.960710] zedx 30-0018: zedx_write_table: Channel 0
+[13857.962206] zedx 30-0018: zedx_write_table: Channel 0
+[13857.963511] zedx 30-0018: zedx_write_table: Channel 0
+[13857.964881] zedx 30-0018: zedx_write_table: Channel 0
+[13857.966416] zedx 30-0018: zedx_write_table: Channel 0
+[13857.967726] zedx 30-0018: zedx_write_table: Channel 0
+[13857.969047] zedx 30-0018: zedx_write_table: Channel 0
+[13857.970408] zedx 30-0018: zedx_write_table: Channel 0
+[13857.971893] zedx 30-0018: zedx_write_table: Channel 0
+[13857.974440] zedx 30-0018: zedx_write_table: Channel 0
+[13857.975768] zedx 30-0018: zedx_write_table: Channel 0
+[13857.977366] zedx 30-0018: zedx_write_table: Channel 0
+[13857.978712] zedx 30-0018: zedx_write_table: Channel 0
+[13857.980013] zedx 30-0018: zedx_write_table: Channel 0
+[13857.981512] zedx 30-0018: zedx_write_table: Channel 0
+[13857.982829] zedx 30-0018: zedx_write_table: Channel 0
+[13857.984235] zedx 30-0018: zedx_write_table: Channel 0
+[13857.985782] zedx 30-0018: zedx_write_table: Channel 0
+[13857.987303] zedx 30-0018: zedx_write_table: Channel 0
+[13857.996593] zedx 30-0018: zedx_write_table: Channel 0
+[13857.998149] zedx 30-0018: zedx_write_table: Channel 0
+[13857.999515] zedx 30-0018: zedx_write_table: Channel 0
+[13858.001029] zedx 30-0018: zedx_write_table: Channel 0
+[13858.002374] zedx 30-0018: zedx_write_table: Channel 0
+[13858.004989] zedx 30-0018: zedx_write_table: Channel 0
+[13858.006544] zedx 30-0018: zedx_write_table: Channel 0
+[13858.007865] zedx 30-0018: zedx_write_table: Channel 0
+[13858.009205] zedx 30-0018: zedx_write_table: Channel 0
+[13858.010716] zedx 30-0018: zedx_write_table: Channel 0
+[13858.012062] zedx 30-0018: zedx_write_table: Channel 0
+[13858.013392] zedx 30-0018: zedx_write_table: Channel 0
+[13858.014749] zedx 30-0018: zedx_write_table: Channel 0
+[13858.016256] zedx 30-0018: zedx_write_table: Channel 0
+[13858.017608] zedx 30-0018: zedx_write_table: Channel 0
+[13858.020113] zedx 30-0018: zedx_write_table: Channel 0
+[13858.021644] zedx 30-0018: zedx_write_table: Channel 0
+[13858.023025] zedx 30-0018: zedx_write_table: Channel 0
+[13858.024340] zedx 30-0018: zedx_write_table: Channel 0
+[13858.025861] zedx 30-0018: zedx_write_table: Channel 0
+[13858.027176] zedx 30-0018: zedx_write_table: Channel 0
+[13858.028483] zedx 30-0018: zedx_write_table: Channel 0
+[13858.029828] zedx 30-0018: zedx_write_table: Channel 0
+[13858.031377] zedx 30-0018: zedx_write_table: Channel 0
+[13858.033909] zedx 30-0018: zedx_write_table: Channel 0
+[13858.035398] zedx 30-0018: zedx_write_table: Channel 0
+[13858.036706] zedx 30-0018: zedx_write_table: Channel 0
+[13858.038013] zedx 30-0018: zedx_write_table: Channel 0
+[13858.039315] zedx 30-0018: zedx_write_table: Channel 0
+[13858.040797] zedx 30-0018: zedx_write_table: Channel 0
+[13858.042132] zedx 30-0018: zedx_write_table: Channel 0
+[13858.043434] zedx 30-0018: zedx_write_table: Channel 0
+[13858.044739] zedx 30-0018: zedx_write_table: Channel 0
+[13858.046289] zedx 30-0018: zedx_write_table: Channel 0
+[13858.048824] zedx 30-0018: zedx_write_table: Channel 0
+[13858.050355] zedx 30-0018: zedx_write_table: Channel 0
+[13858.051703] zedx 30-0018: zedx_write_table: Channel 0
+[13858.053027] zedx 30-0018: zedx_write_table: Channel 0
+[13858.054373] zedx 30-0018: zedx_write_table: Channel 0
+[13858.055865] zedx 30-0018: zedx_write_table: Channel 0
+[13858.057196] zedx 30-0018: zedx_write_table: Channel 0
+[13858.058563] zedx 30-0018: zedx_write_table: Channel 0
+[13858.059896] zedx 30-0018: zedx_write_table: Channel 0
+[13858.284552] zedx 30-0018: zedx_write_table: Channel 0
+[13858.285541] zedx 30-0018: zedx_write_table: Channel 0
+[13858.286829] zedx 30-0018: zedx_write_table: Channel 0
+[13858.288281] zedx 30-0018: zedx_write_table: Channel 0
+[13858.290887] zedx 30-0018: zedx_write_table: Channel 0
+[13858.292202] zedx 30-0018: zedx_write_table: Channel 0
+[13858.293752] zedx 30-0018: zedx_write_table: Channel 0
+[13858.308158] zedx 30-0018: zedx_write_table: Channel 0
+[13858.310919] zedx 30-0018: zedx_write_table: Channel 0
+[13858.312255] zedx 30-0018: zedx_write_table: Channel 0
+[13858.313804] zedx 30-0018: zedx_write_table: Channel 0
+[13858.315146] zedx 30-0018: zedx_write_table: Channel 0
+[13858.316456] zedx 30-0018: zedx_write_table: Channel 0
+[13858.318000] zedx 30-0018: zedx_write_table: Channel 0
+[13858.320550] zedx 30-0018: zedx_write_table: Channel 0
+[13858.321864] zedx 30-0018: zedx_write_table: Channel 0
+[13858.323342] zedx 30-0018: zedx_write_table: Channel 0
+[13858.324669] zedx 30-0018: zedx_write_table: Channel 0
+[13858.326006] zedx 30-0018: zedx_write_table: Channel 0
+[13858.327477] zedx 30-0018: zedx_write_table: Channel 0
+[13858.328781] zedx 30-0018: zedx_write_table: Channel 0
+[13858.330111] zedx 30-0018: zedx_write_table: Channel 0
+[13858.331406] zedx 30-0018: zedx_write_table: Channel 0
+[13858.332883] zedx 30-0018: zedx_write_table: Channel 0
+[13858.335373] zedx 30-0018: zedx_write_table: Channel 0
+[13858.336672] zedx 30-0018: zedx_write_table: Channel 0
+[13858.338163] zedx 30-0018: zedx_write_table: Channel 0
+[13858.339478] zedx 30-0018: zedx_write_table: Channel 0
+[13858.340797] zedx 30-0018: zedx_write_table: Channel 0
+[13858.342268] zedx 30-0018: zedx_write_table: Channel 0
+[13858.343566] zedx 30-0018: zedx_write_table: Channel 0
+[13858.344892] zedx 30-0018: zedx_write_table: Channel 0
+[13858.346190] zedx 30-0018: zedx_write_table: Channel 0
+[13858.347655] zedx 30-0018: zedx_write_table: Channel 0
+[13858.456551] zedx 30-0018: zedx_write_table: Channel 0
+[13858.457635] zedx 30-0018: zedx_write_table: Channel 0
+[13858.458978] zedx 30-0018: zedx_write_table: Channel 0
+[13858.460283] zedx 30-0018: zedx_write_table: Channel 0
+[13858.461752] zedx 30-0018: zedx_write_table: Channel 0
+[13858.572561] zedx 30-0018: zedx_write_table: Channel 0
+[13858.574814] zedx 30-0018: zedx_write_table: Channel 0
+[13858.576304] zedx 30-0018: zedx_write_table: Channel 0
+[13858.577637] zedx 30-0018: zedx_write_table: Channel 0
+[13858.578952] zedx 30-0018: zedx_write_table: Channel 0
+[13858.580435] zedx 30-0018: zedx_write_table: Channel 0
+[13858.581748] zedx 30-0018: zedx_write_table: Channel 0
+[13858.583060] zedx 30-0018: zedx_write_table: Channel 0
+[13858.584520] zedx 30-0018: zedx_write_table: Channel 0
+[13858.585904] zedx 30-0018: zedx_write_table: Channel 0
+[13858.587195] zedx 30-0018: zedx_write_table: Channel 0
+[13858.589690] zedx 30-0018: zedx_write_table: Channel 0
+[13858.591166] zedx 30-0018: zedx_write_table: Channel 0
+[13858.592483] zedx 30-0018: zedx_write_table: Channel 0
+[13858.593853] zedx 30-0018: zedx_write_table: Channel 0
+[13858.595356] zedx 30-0018: zedx_write_table: Channel 0
+[13858.602964] zedx 30-0018: zedx_write_table: Channel 0
+[13858.604398] zedx 30-0018: zedx_write_table: Channel 0
+[13858.607339] zedx 30-0018: zedx_write_table: Channel 0
+[13858.608690] zedx 30-0018: zedx_write_table: Channel 0
+[13858.610201] zedx 30-0018: zedx_write_table: Channel 0
+[13858.937520] zedx 30-0018: zedx_write_table: Channel 0
+[13858.938815] zedx 30-0018: zedx_write_table: Channel 0
+[13859.413196] zedx 30-0010: zedx_write_table: Channel 0
+[13859.524616] zedx 30-0010: zedx_write_table: Channel 0
+[13859.740562] zedx 30-0010: zedx_write_table: Channel 0
+[13859.741763] zedx 30-0010: zedx_write_table: Channel 0
+[13859.743066] zedx 30-0010: zedx_write_table: Channel 0
+[13859.744399] zedx 30-0010: zedx_write_table: Channel 0
+[13859.745887] zedx 30-0010: zedx_write_table: Channel 0
+[13859.748393] zedx 30-0010: zedx_write_table: Channel 0
+[13859.749894] zedx 30-0010: zedx_write_table: Channel 0
+[13859.751195] zedx 30-0010: zedx_write_table: Channel 0
+[13859.752488] zedx 30-0010: zedx_write_table: Channel 0
+[13859.753801] zedx 30-0010: zedx_write_table: Channel 0
+[13859.755280] zedx 30-0010: zedx_write_table: Channel 0
+[13859.756578] zedx 30-0010: zedx_write_table: Channel 0
+[13859.757920] zedx 30-0010: zedx_write_table: Channel 0
+[13859.759229] zedx 30-0010: zedx_write_table: Channel 0
+[13859.760709] zedx 30-0010: zedx_write_table: Channel 0
+[13859.763306] zedx 30-0010: zedx_write_table: Channel 0
+[13859.764797] zedx 30-0010: zedx_write_table: Channel 0
+[13859.766167] zedx 30-0010: zedx_write_table: Channel 0
+[13859.767471] zedx 30-0010: zedx_write_table: Channel 0
+[13859.768784] zedx 30-0010: zedx_write_table: Channel 0
+[13859.770286] zedx 30-0010: zedx_write_table: Channel 0
+[13859.771598] zedx 30-0010: zedx_write_table: Channel 0
+[13859.772904] zedx 30-0010: zedx_write_table: Channel 0
+[13859.774276] zedx 30-0010: zedx_write_table: Channel 0
+[13859.775757] zedx 30-0010: zedx_write_table: Channel 0
+[13859.778414] zedx 30-0010: zedx_write_table: Channel 0
+[13859.780040] zedx 30-0010: zedx_write_table: Channel 0
+[13859.781406] zedx 30-0010: zedx_write_table: Channel 0
+[13859.782748] zedx 30-0010: zedx_write_table: Channel 0
+[13859.784078] zedx 30-0010: zedx_write_table: Channel 0
+[13859.785602] zedx 30-0010: zedx_write_table: Channel 0
+[13859.786915] zedx 30-0010: zedx_write_table: Channel 0
+[13859.788222] zedx 30-0010: zedx_write_table: Channel 0
+[13859.789765] zedx 30-0010: zedx_write_table: Channel 0
+[13859.791081] zedx 30-0010: zedx_write_table: Channel 0
+[13859.793700] zedx 30-0010: zedx_write_table: Channel 0
+[13859.795226] zedx 30-0010: zedx_write_table: Channel 0
+[13859.796612] zedx 30-0010: zedx_write_table: Channel 0
+[13859.797912] zedx 30-0010: zedx_write_table: Channel 0
+[13859.799416] zedx 30-0010: zedx_write_table: Channel 0
+[13859.800781] zedx 30-0010: zedx_write_table: Channel 0
+[13859.802125] zedx 30-0010: zedx_write_table: Channel 0
+[13859.803442] zedx 30-0010: zedx_write_table: Channel 0
+[13859.804922] zedx 30-0010: zedx_write_table: Channel 0
+[13859.806306] zedx 30-0010: zedx_write_table: Channel 0
+[13859.808797] zedx 30-0010: zedx_write_table: Channel 0
+[13859.810282] zedx 30-0010: zedx_write_table: Channel 0
+[13859.824498] zedx 30-0010: zedx_write_table: Channel 0
+[13859.826207] zedx 30-0010: zedx_write_table: Channel 0
+[13859.828726] zedx 30-0010: zedx_write_table: Channel 0
+[13859.830211] zedx 30-0010: zedx_write_table: Channel 0
+[13859.831515] zedx 30-0010: zedx_write_table: Channel 0
+[13859.832817] zedx 30-0010: zedx_write_table: Channel 0
+[13859.834299] zedx 30-0010: zedx_write_table: Channel 0
+[13859.835601] zedx 30-0010: zedx_write_table: Channel 0
+[13859.838116] zedx 30-0010: zedx_write_table: Channel 0
+[13859.839596] zedx 30-0010: zedx_write_table: Channel 0
+[13859.840905] zedx 30-0010: zedx_write_table: Channel 0
+[13859.842225] zedx 30-0010: zedx_write_table: Channel 0
+[13859.843696] zedx 30-0010: zedx_write_table: Channel 0
+[13859.845010] zedx 30-0010: zedx_write_table: Channel 0
+[13859.846314] zedx 30-0010: zedx_write_table: Channel 0
+[13859.847614] zedx 30-0010: zedx_write_table: Channel 0
+[13859.849244] zedx 30-0010: zedx_write_table: Channel 0
+[13859.850573] zedx 30-0010: zedx_write_table: Channel 0
+[13859.853128] zedx 30-0010: zedx_write_table: Channel 0
+[13859.854614] zedx 30-0010: zedx_write_table: Channel 0
+[13859.855950] zedx 30-0010: zedx_write_table: Channel 0
+[13859.857292] zedx 30-0010: zedx_write_table: Channel 0
+[13859.858773] zedx 30-0010: zedx_write_table: Channel 0
+[13859.860075] zedx 30-0010: zedx_write_table: Channel 0
+[13859.861447] zedx 30-0010: zedx_write_table: Channel 0
+[13859.862761] zedx 30-0010: zedx_write_table: Channel 0
+[13859.864231] zedx 30-0010: zedx_write_table: Channel 0
+[13859.865577] zedx 30-0010: zedx_write_table: Channel 0
+[13859.868084] zedx 30-0010: zedx_write_table: Channel 0
+[13859.869596] zedx 30-0010: zedx_write_table: Channel 0
+[13859.870907] zedx 30-0010: zedx_write_table: Channel 0
+[13859.872215] zedx 30-0010: zedx_write_table: Channel 0
+[13859.873738] zedx 30-0010: zedx_write_table: Channel 0
+[13859.875043] zedx 30-0010: zedx_write_table: Channel 0
+[13859.876343] zedx 30-0010: zedx_write_table: Channel 0
+[13859.877711] zedx 30-0010: zedx_write_table: Channel 0
+[13859.879189] zedx 30-0010: zedx_write_table: Channel 0
+[13859.880497] zedx 30-0010: zedx_write_table: Channel 0
+[13859.882997] zedx 30-0010: zedx_write_table: Channel 0
+[13859.884468] zedx 30-0010: zedx_write_table: Channel 0
+[13859.885793] zedx 30-0010: zedx_write_table: Channel 0
+[13859.887095] zedx 30-0010: zedx_write_table: Channel 0
+[13859.888571] zedx 30-0010: zedx_write_table: Channel 0
+[13859.889889] zedx 30-0010: zedx_write_table: Channel 0
+[13859.891184] zedx 30-0010: zedx_write_table: Channel 0
+[13859.892481] zedx 30-0010: zedx_write_table: Channel 0
+[13859.893981] zedx 30-0010: zedx_write_table: Channel 0
+[13859.895281] zedx 30-0010: zedx_write_table: Channel 0
+[13859.897832] zedx 30-0010: zedx_write_table: Channel 0
+[13859.899571] zedx 30-0010: zedx_write_table: Channel 0
+[13859.902762] zedx 30-0010: zedx_write_table: Channel 0
+[13859.905854] zedx 30-0010: zedx_write_table: Channel 0
+[13859.909327] zedx 30-0010: zedx_write_table: Channel 0
+[13859.912764] zedx 30-0010: zedx_write_table: Channel 0
+[13859.927614] zedx 30-0010: zedx_write_table: Channel 0
+[13859.929165] zedx 30-0010: zedx_write_table: Channel 0
+[13859.931695] zedx 30-0010: zedx_write_table: Channel 0
+[13859.933223] zedx 30-0010: zedx_write_table: Channel 0
+[13859.934550] zedx 30-0010: zedx_write_table: Channel 0
+[13859.935878] zedx 30-0010: zedx_write_table: Channel 0
+[13859.937235] zedx 30-0010: zedx_write_table: Channel 0
+[13859.938767] zedx 30-0010: zedx_write_table: Channel 0
+[13859.940100] zedx 30-0010: zedx_write_table: Channel 0
+[13859.942642] zedx 30-0010: zedx_write_table: Channel 0
+[13859.944140] zedx 30-0010: zedx_write_table: Channel 0
+[13859.945469] zedx 30-0010: zedx_write_table: Channel 0
+[13859.946785] zedx 30-0010: zedx_write_table: Channel 0
+[13859.948282] zedx 30-0010: zedx_write_table: Channel 0
+[13859.949623] zedx 30-0010: zedx_write_table: Channel 0
+[13859.950951] zedx 30-0010: zedx_write_table: Channel 0
+[13859.952440] zedx 30-0010: zedx_write_table: Channel 0
+[13859.953776] zedx 30-0010: zedx_write_table: Channel 0
+[13859.955095] zedx 30-0010: zedx_write_table: Channel 0
+[13859.957699] zedx 30-0010: zedx_write_table: Channel 0
+[13859.959216] zedx 30-0010: zedx_write_table: Channel 0
+[13859.960563] zedx 30-0010: zedx_write_table: Channel 0
+[13859.961960] zedx 30-0010: zedx_write_table: Channel 0
+[13859.963497] zedx 30-0010: zedx_write_table: Channel 0
+[13859.964844] zedx 30-0010: zedx_write_table: Channel 0
+[13859.966237] zedx 30-0010: zedx_write_table: Channel 0
+[13859.967740] zedx 30-0010: zedx_write_table: Channel 0
+[13859.969097] zedx 30-0010: zedx_write_table: Channel 0
+[13859.970461] zedx 30-0010: zedx_write_table: Channel 0
+[13859.973021] zedx 30-0010: zedx_write_table: Channel 0
+[13859.974583] zedx 30-0010: zedx_write_table: Channel 0
+[13859.975924] zedx 30-0010: zedx_write_table: Channel 0
+[13859.977429] zedx 30-0010: zedx_write_table: Channel 0
+[13859.978753] zedx 30-0010: zedx_write_table: Channel 0
+[13859.980072] zedx 30-0010: zedx_write_table: Channel 0
+[13859.981433] zedx 30-0010: zedx_write_table: Channel 0
+[13859.982923] zedx 30-0010: zedx_write_table: Channel 0
+[13859.984258] zedx 30-0010: zedx_write_table: Channel 0
+[13859.985588] zedx 30-0010: zedx_write_table: Channel 0
+[13859.988279] zedx 30-0010: zedx_write_table: Channel 0
+[13859.989632] zedx 30-0010: zedx_write_table: Channel 0
+[13859.990953] zedx 30-0010: zedx_write_table: Channel 0
+[13859.992445] zedx 30-0010: zedx_write_table: Channel 0
+[13859.993857] zedx 30-0010: zedx_write_table: Channel 0
+[13859.995313] zedx 30-0010: zedx_write_table: Channel 0
+[13859.996684] zedx 30-0010: zedx_write_table: Channel 0
+[13859.998169] zedx 30-0010: zedx_write_table: Channel 0
+[13859.999476] zedx 30-0010: zedx_write_table: Channel 0
+[13860.000780] zedx 30-0010: zedx_write_table: Channel 0
+[13860.003454] zedx 30-0010: zedx_write_table: Channel 0
+[13860.004766] zedx 30-0010: zedx_write_table: Channel 0
+[13860.006073] zedx 30-0010: zedx_write_table: Channel 0
+[13860.007543] zedx 30-0010: zedx_write_table: Channel 0
+[13860.008896] zedx 30-0010: zedx_write_table: Channel 0
+[13860.010203] zedx 30-0010: zedx_write_table: Channel 0
+[13860.011677] zedx 30-0010: zedx_write_table: Channel 0
+[13860.013029] zedx 30-0010: zedx_write_table: Channel 0
+[13860.027788] zedx 30-0010: zedx_write_table: Channel 0
+[13860.029131] zedx 30-0010: zedx_write_table: Channel 0
+[13860.031826] zedx 30-0010: zedx_write_table: Channel 0
+[13860.033215] zedx 30-0010: zedx_write_table: Channel 0
+[13860.035738] zedx 30-0010: zedx_write_table: Channel 0
+[13860.037221] zedx 30-0010: zedx_write_table: Channel 0
+[13860.038527] zedx 30-0010: zedx_write_table: Channel 0
+[13860.039829] zedx 30-0010: zedx_write_table: Channel 0
+[13860.041311] zedx 30-0010: zedx_write_table: Channel 0
+[13860.042638] zedx 30-0010: zedx_write_table: Channel 0
+[13860.043968] zedx 30-0010: zedx_write_table: Channel 0
+[13860.045296] zedx 30-0010: zedx_write_table: Channel 0
+[13860.048131] zedx 30-0010: zedx_write_table: Channel 0
+[13860.049595] zedx 30-0010: zedx_write_table: Channel 0
+[13860.050902] zedx 30-0010: zedx_write_table: Channel 0
+[13860.052365] zedx 30-0010: zedx_write_table: Channel 0
+[13860.053716] zedx 30-0010: zedx_write_table: Channel 0
+[13860.055007] zedx 30-0010: zedx_write_table: Channel 0
+[13860.056462] zedx 30-0010: zedx_write_table: Channel 0
+[13860.057813] zedx 30-0010: zedx_write_table: Channel 0
+[13860.059125] zedx 30-0010: zedx_write_table: Channel 0
+[13860.060417] zedx 30-0010: zedx_write_table: Channel 0
+[13860.063097] zedx 30-0010: zedx_write_table: Channel 0
+[13860.064404] zedx 30-0010: zedx_write_table: Channel 0
+[13860.065717] zedx 30-0010: zedx_write_table: Channel 0
+[13860.067186] zedx 30-0010: zedx_write_table: Channel 0
+[13860.068476] zedx 30-0010: zedx_write_table: Channel 0
+[13860.069810] zedx 30-0010: zedx_write_table: Channel 0
+[13860.071266] zedx 30-0010: zedx_write_table: Channel 0
+[13860.072614] zedx 30-0010: zedx_write_table: Channel 0
+[13860.073962] zedx 30-0010: zedx_write_table: Channel 0
+[13860.075251] zedx 30-0010: zedx_write_table: Channel 0
+[13860.077945] zedx 30-0010: zedx_write_table: Channel 0
+[13860.079231] zedx 30-0010: zedx_write_table: Channel 0
+[13860.080557] zedx 30-0010: zedx_write_table: Channel 0
+[13860.082024] zedx 30-0010: zedx_write_table: Channel 0
+[13860.083352] zedx 30-0010: zedx_write_table: Channel 0
+[13860.084673] zedx 30-0010: zedx_write_table: Channel 0
+[13860.086213] zedx 30-0010: zedx_write_table: Channel 0
+[13860.087532] zedx 30-0010: zedx_write_table: Channel 0
+[13860.088824] zedx 30-0010: zedx_write_table: Channel 0
+[13860.090178] zedx 30-0010: zedx_write_table: Channel 0
+[13860.092840] zedx 30-0010: zedx_write_table: Channel 0
+[13860.094202] zedx 30-0010: zedx_write_table: Channel 0
+[13860.095706] zedx 30-0010: zedx_write_table: Channel 0
+[13860.097036] zedx 30-0010: zedx_write_table: Channel 0
+[13860.098396] zedx 30-0010: zedx_write_table: Channel 0
+[13860.099716] zedx 30-0010: zedx_write_table: Channel 0
+[13860.101211] zedx 30-0010: zedx_write_table: Channel 0
+[13860.102532] zedx 30-0010: zedx_write_table: Channel 0
+[13860.103829] zedx 30-0010: zedx_write_table: Channel 0
+[13860.105155] zedx 30-0010: zedx_write_table: Channel 0
+[13860.107876] zedx 30-0010: zedx_write_table: Channel 0
+[13860.109193] zedx 30-0010: zedx_write_table: Channel 0
+[13860.110709] zedx 30-0010: zedx_write_table: Channel 0
+[13860.112020] zedx 30-0010: zedx_write_table: Channel 0
+[13860.113393] zedx 30-0010: zedx_write_table: Channel 0
+[13860.114685] zedx 30-0010: zedx_write_table: Channel 0
+[13860.122673] zedx 30-0010: zedx_write_table: Channel 0
+[13860.123985] zedx 30-0010: zedx_write_table: Channel 0
+[13860.126652] zedx 30-0010: zedx_write_table: Channel 0
+[13860.127977] zedx 30-0010: zedx_write_table: Channel 0
+[13860.129274] zedx 30-0010: zedx_write_table: Channel 0
+[13860.130752] zedx 30-0010: zedx_write_table: Channel 0
+[13860.132113] zedx 30-0010: zedx_write_table: Channel 0
+[13860.133477] zedx 30-0010: zedx_write_table: Channel 0
+[13860.134770] zedx 30-0010: zedx_write_table: Channel 0
+[13860.137441] zedx 30-0010: zedx_write_table: Channel 0
+[13860.138754] zedx 30-0010: zedx_write_table: Channel 0
+[13860.140222] zedx 30-0010: zedx_write_table: Channel 0
+[13860.141536] zedx 30-0010: zedx_write_table: Channel 0
+[13860.142828] zedx 30-0010: zedx_write_table: Channel 0
+[13860.144123] zedx 30-0010: zedx_write_table: Channel 0
+[13860.145584] zedx 30-0010: zedx_write_table: Channel 0
+[13860.146877] zedx 30-0010: zedx_write_table: Channel 0
+[13860.148167] zedx 30-0010: zedx_write_table: Channel 0
+[13860.149466] zedx 30-0010: zedx_write_table: Channel 0
+[13860.150922] zedx 30-0010: zedx_write_table: Channel 0
+[13860.153427] zedx 30-0010: zedx_write_table: Channel 0
+[13860.154698] zedx 30-0010: zedx_write_table: Channel 0
+[13860.156179] zedx 30-0010: zedx_write_table: Channel 0
+[13860.157471] zedx 30-0010: zedx_write_table: Channel 0
+[13860.158757] zedx 30-0010: zedx_write_table: Channel 0
+[13860.160394] zedx 30-0010: zedx_write_table: Channel 0
+[13860.161781] zedx 30-0010: zedx_write_table: Channel 0
+[13860.163110] zedx 30-0010: zedx_write_table: Channel 0
+[13860.164459] zedx 30-0010: zedx_write_table: Channel 0
+[13860.165929] zedx 30-0010: zedx_write_table: Channel 0
+[13860.168415] zedx 30-0010: zedx_write_table: Channel 0
+[13860.169964] zedx 30-0010: zedx_write_table: Channel 0
+[13860.171284] zedx 30-0010: zedx_write_table: Channel 0
+[13860.172618] zedx 30-0010: zedx_write_table: Channel 0
+[13860.173971] zedx 30-0010: zedx_write_table: Channel 0
+[13860.175521] zedx 30-0010: zedx_write_table: Channel 0
+[13860.176836] zedx 30-0010: zedx_write_table: Channel 0
+[13860.178158] zedx 30-0010: zedx_write_table: Channel 0
+[13860.179638] zedx 30-0010: zedx_write_table: Channel 0
+[13860.180978] zedx 30-0010: zedx_write_table: Channel 0
+[13860.183492] zedx 30-0010: zedx_write_table: Channel 0
+[13860.185159] zedx 30-0010: zedx_write_table: Channel 0
+[13860.186461] zedx 30-0010: zedx_write_table: Channel 0
+[13860.187779] zedx 30-0010: zedx_write_table: Channel 0
+[13860.189167] zedx 30-0010: zedx_write_table: Channel 0
+[13860.190658] zedx 30-0010: zedx_write_table: Channel 0
+[13860.191959] zedx 30-0010: zedx_write_table: Channel 0
+[13860.193322] zedx 30-0010: zedx_write_table: Channel 0
+[13860.194790] zedx 30-0010: zedx_write_table: Channel 0
+[13860.197426] zedx 30-0010: zedx_write_table: Channel 0
+[13860.198728] zedx 30-0010: zedx_write_table: Channel 0
+[13860.200185] zedx 30-0010: zedx_write_table: Channel 0
+[13860.201635] zedx 30-0010: zedx_write_table: Channel 0
+[13860.203034] zedx 30-0010: zedx_write_table: Channel 0
+[13860.204599] zedx 30-0010: zedx_write_table: Channel 0
+[13860.206017] zedx 30-0010: zedx_write_table: Channel 0
+[13860.207325] zedx 30-0010: zedx_write_table: Channel 0
+[13860.424549] zedx 30-0010: zedx_write_table: Channel 0
+[13860.434374] zedx 30-0010: zedx_write_table: Channel 0
+[13860.435904] zedx 30-0010: zedx_write_table: Channel 0
+[13860.438438] zedx 30-0010: zedx_write_table: Channel 0
+[13860.439785] zedx 30-0010: zedx_write_table: Channel 0
+[13860.441107] zedx 30-0010: zedx_write_table: Channel 0
+[13860.442570] zedx 30-0010: zedx_write_table: Channel 0
+[13860.443902] zedx 30-0010: zedx_write_table: Channel 0
+[13860.445226] zedx 30-0010: zedx_write_table: Channel 0
+[13860.446520] zedx 30-0010: zedx_write_table: Channel 0
+[13860.447980] zedx 30-0010: zedx_write_table: Channel 0
+[13860.449492] zedx 30-0010: zedx_write_table: Channel 0
+[13860.451984] zedx 30-0010: zedx_write_table: Channel 0
+[13860.453480] zedx 30-0010: zedx_write_table: Channel 0
+[13860.454778] zedx 30-0010: zedx_write_table: Channel 0
+[13860.456066] zedx 30-0010: zedx_write_table: Channel 0
+[13860.457570] zedx 30-0010: zedx_write_table: Channel 0
+[13860.458880] zedx 30-0010: zedx_write_table: Channel 0
+[13860.460184] zedx 30-0010: zedx_write_table: Channel 0
+[13860.461503] zedx 30-0010: zedx_write_table: Channel 0
+[13860.462990] zedx 30-0010: zedx_write_table: Channel 0
+[13860.464289] zedx 30-0010: zedx_write_table: Channel 0
+[13860.466855] zedx 30-0010: zedx_write_table: Channel 0
+[13860.468327] zedx 30-0010: zedx_write_table: Channel 0
+[13860.469670] zedx 30-0010: zedx_write_table: Channel 0
+[13860.470991] zedx 30-0010: zedx_write_table: Channel 0
+[13860.472467] zedx 30-0010: zedx_write_table: Channel 0
+[13860.473820] zedx 30-0010: zedx_write_table: Channel 0
+[13860.475117] zedx 30-0010: zedx_write_table: Channel 0
+[13860.476601] zedx 30-0010: zedx_write_table: Channel 0
+[13860.477922] zedx 30-0010: zedx_write_table: Channel 0
+[13860.479234] zedx 30-0010: zedx_write_table: Channel 0
+[13860.481781] zedx 30-0010: zedx_write_table: Channel 0
+[13860.483286] zedx 30-0010: zedx_write_table: Channel 0
+[13860.592551] zedx 30-0010: zedx_write_table: Channel 0
+[13860.593562] zedx 30-0010: zedx_write_table: Channel 0
+[13860.595083] zedx 30-0010: zedx_write_table: Channel 0
+[13860.596390] zedx 30-0010: zedx_write_table: Channel 0
+[13860.597797] zedx 30-0010: zedx_write_table: Channel 0
+[13860.704563] zedx 30-0010: zedx_write_table: Channel 0
+[13860.706611] zedx 30-0010: zedx_write_table: Channel 0
+[13860.707922] zedx 30-0010: zedx_write_table: Channel 0
+[13860.709398] zedx 30-0010: zedx_write_table: Channel 0
+[13860.710691] zedx 30-0010: zedx_write_table: Channel 0
+[13860.711991] zedx 30-0010: zedx_write_table: Channel 0
+[13860.713485] zedx 30-0010: zedx_write_table: Channel 0
+[13860.714778] zedx 30-0010: zedx_write_table: Channel 0
+[13860.716072] zedx 30-0010: zedx_write_table: Channel 0
+[13860.717394] zedx 30-0010: zedx_write_table: Channel 0
+[13860.718860] zedx 30-0010: zedx_write_table: Channel 0
+[13860.721362] zedx 30-0010: zedx_write_table: Channel 0
+[13860.735490] zedx 30-0010: zedx_write_table: Channel 0
+[13860.736977] zedx 30-0010: zedx_write_table: Channel 0
+[13860.739482] zedx 30-0010: zedx_write_table: Channel 0
+[13860.740782] zedx 30-0010: zedx_write_table: Channel 0
+[13860.742134] zedx 30-0010: zedx_write_table: Channel 0
+[13860.743607] zedx 30-0010: zedx_write_table: Channel 0
+[13860.744912] zedx 30-0010: zedx_write_table: Channel 0
+[13860.746281] zedx 30-0010: zedx_write_table: Channel 0
+[13860.747611] zedx 30-0010: zedx_write_table: Channel 0
+[13861.077493] zedx 30-0010: zedx_write_table: Channel 0
+[13861.078788] zedx 30-0010: zedx_write_table: Channel 0
+
+####################################
+############ Driver list ###########
+####################################
+
+/usr/lib/modules/5.10.104-tegra/kernel/drivers/stereolabs/zedx/sl_zedx.ko ==> exists
+
+################################################
+############ ZEDX Daemon Status LS #############
+################################################
+
+Unit zed_x_daemon.service could not be found.
+
+################################################
+############ I2C Tracz /dev/i2C-30 #############
+################################################
+
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: UU -- -- -- -- -- -- -- UU 19 -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- UU 49 -- -- -- -- -- -- 
+50: -- -- -- -- 54 55 -- -- 58 59 -- -- -- -- -- -- 
+60: -- -- 62 -- -- -- -- -- -- 69 -- -- -- -- -- -- 
+70: -- -- UU UU -- -- -- --                         
+
+################################################
+############ I2C Tracz /dev/i2C-31 #############
+################################################
+
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: UU -- -- -- -- -- -- -- UU 19 -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- UU 49 -- -- -- -- -- -- 
+50: -- -- -- -- 54 55 -- -- 58 59 -- -- -- -- -- -- 
+60: -- -- 62 -- -- -- -- -- -- 69 -- -- -- -- -- -- 
+70: -- -- UU UU -- -- -- --                         
+
+################################################
+############ I2C Tracz /dev/i2C-32 #############
+################################################
+
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- UU -- -- -- -- -- -- -- 
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+70: -- -- UU UU -- -- -- --                         
+
+################################################
+############ I2C Tracz /dev/i2C-33 #############
+################################################
+
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- UU -- -- -- -- -- -- -- 
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+70: -- -- UU UU -- -- -- --                         
+#########################
