@@ -10,9 +10,11 @@
 
 ROS版本：ROS2 Humble
 
+ZED型号：ZED X
+
 ### 启动脚本
 
-见[zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py)。该脚本调用[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)的[zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py)，通过序列号指定相机。
+见[zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py)。该脚本调用[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)的[zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py)，通过序列号指定相机。两个ZED X分别接在EAC5000的GMSL2的第一和第三口。
 
 ### 问题
 
