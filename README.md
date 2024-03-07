@@ -2,7 +2,7 @@
 
 ### 系统信息
 
-机器型号：EAC5000
+机器型号：[Vecow EAC5000](https://www.vecow.com/dispPageBox/vecow/VecowCT.aspx?ddsPageID=PRODUCTDTL_EN&dbid=4852986947)
 
 固件版本：EAC-5000_64GB_EMMC-BOOT_JetPack5.1.1_230713_ZEDX
 
