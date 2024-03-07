@@ -1,5 +1,7 @@
 # ZEDX_Camera_Logs
 
+[中文](./README_CN.md) | [English](./README.md)
+
 ### System Information
 
 - **Machine Model:** [Vecow EAC5000](https://www.vecow.com/dispPageBox/vecow/VecowCT.aspx?ddsPageID=PRODUCTDTL_EN&dbid=4852986947)
