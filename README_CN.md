@@ -8,7 +8,7 @@
 - 固件版本：EAC-5000_64GB_EMMC-BOOT_JetPack5.1.1_230713_ZEDX
 - 系统版本：Ubuntu 20.04
 - ROS版本：ROS2 Humble
-- ZED型号：ZED X
+- ZED型号：[ZED X (2.2mm)](https://store.stereolabs.com/products/zed-x-stereo-camera)
 
 ### 启动脚本
 

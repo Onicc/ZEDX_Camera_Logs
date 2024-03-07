@@ -8,7 +8,7 @@
 - **Firmware Version:** EAC-5000_64GB_EMMC-BOOT_JetPack5.1.1_230713_ZEDX
 - **Operating System Version:** Ubuntu 20.04
 - **ROS Version:** ROS2 Humble
-- **ZED Model:** ZED X
+- **ZED Model:** [ZED X (2.2mm)](https://store.stereolabs.com/products/zed-x-stereo-camera)
 
 ### Launch Script
 
