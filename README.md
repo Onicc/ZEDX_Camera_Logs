@@ -12,7 +12,7 @@
 
 ### Launch Script
 
-Please refer to the [zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py) file. This script utilizes the [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)'s [zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py) script, specifying cameras by their serial numbers. Two ZED X cameras are connected to the first and third ports of GMSL2 on the EAC5000.
+Please refer to the [zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py) file. This script utilizes the [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)'s [zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py) script, specifying cameras by their serial numbers. Two ZED X cameras are connected to the first and third ports of GMSL2 on the [EAC5000](https://www.vecow.com/dispPageBox/vecow/VecowCT.aspx?ddsPageID=PRODUCTDTL_EN&dbid=4852986947).
 
 ### Issues
 

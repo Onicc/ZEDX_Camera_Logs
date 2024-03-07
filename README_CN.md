@@ -12,7 +12,7 @@
 
 ### 启动脚本
 
-见[zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py)。该脚本调用[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)的[zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py)，通过序列号指定相机。两个ZED X分别接在EAC5000的GMSL2的第一和第三口。
+见[zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py)。该脚本调用[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)的[zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py)，通过序列号指定相机。两个ZED X分别接在[EAC5000](https://www.vecow.com/dispPageBox/vecow/VecowCT.aspx?ddsPageID=PRODUCTDTL_EN&dbid=4852986947)的GMSL2的第一和第三口。
 
 ### 问题
 
