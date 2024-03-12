@@ -10,9 +10,78 @@
 - ROS版本：ROS2 Humble
 - ZED型号：[ZED X (2.2mm)](https://store.stereolabs.com/products/zed-x-stereo-camera)
 
-### 启动脚本
+### 复现步骤
 
-见[zedx_multi_camera.launch.py](./zedx_multi_camera.launch.py)。该脚本调用[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)的[zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py)，通过序列号指定相机。两个ZED X分别接在[EAC5000](https://www.vecow.com/dispPageBox/vecow/VecowCT.aspx?ddsPageID=PRODUCTDTL_EN&dbid=4852986947)的GMSL2的第一和第三口。
+通过[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)的[zed_camera.launch.py](https://github.com/stereolabs/zed-ros2-wrapper/blob/master/zed_wrapper/launch/zed_camera.launch.py)指定序列号启动相机。两个ZED X分别接在[EAC5000](https://www.vecow.com/dispPageBox/vecow/VecowCT.aspx?ddsPageID=PRODUCTDTL_EN&dbid=4852986947)的GMSL2的第一和第三口。
+
+以下为具体复现流程：
+
+1. [安装ROS2 Humble](https://nvidia-isaac-ros.github.io/getting_started/isaac_ros_buildfarm_cdn.html#install-ros-2-packages)
+
+2. 建立工作空间并下载[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)，[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)由ZED官方提供，ZED官方支持与ROS2一起运行。
+
+    ```
+    mkdir -p ros2_ws/src
+    cd ros2_ws/src
+    git clone --recursive https://github.com/stereolabs/zed-ros2-wrapper.git
+    ```
+
+3. 编译项目
+
+    ```
+    cd ../
+    colcon build
+    ```
+
+4. 配置环境
+    ```
+    source ./install/local_setup.sh
+    ```
+
+5. 查看ZED X序列号
+
+    ```
+    $ ZED_Explorer --all
+    
+    ## Cam  0  ##
+     Model :  "ZED-X"
+     S/N :  45656860
+     State :  "Camera Available"
+     Path :  /dev/i2c-30
+     ID :  0
+     Type :  "GMSL2"
+    ********************
+    ## Cam  1  ##
+     Model :  "ZED-X"
+     S/N :  46411394
+     State :  "Camera Available"
+     Path :  /dev/i2c-31
+     ID :  1
+     Type :  "GMSL2"
+    ********************
+    ```
+
+6. 通过序列号启动ZED X（这里需要修改为自己相机的序列号，从步骤5获取）
+
+    ```
+    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx zedx_left_serial_number:=45656860
+    ```
+
+    ```
+    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx zedx_left_serial_number:=40051193
+    ```
+
+7. 打开显示界面（如果你有桌面环境）
+    ```
+    ros2 run rqt_image_view rqt_image_view
+    ```
+
+    分别选择`/zedx/left/zed_node/stereo/image_rect_color`和`/zedx/right/zed_node/stereo/image_rect_color`话题即可看到对应摄像头的画面。
+
+8. 问题复现
+    
+    - 问题1：启动程序后随机出现
+    - 问题2：成功启动后静置一段时间出现
 
 ### 问题
 
