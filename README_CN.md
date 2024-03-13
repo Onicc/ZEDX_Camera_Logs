@@ -64,11 +64,11 @@
 6. 通过序列号启动ZED X（这里需要修改为自己相机的序列号，从步骤5获取）
 
     ```
-    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx zedx_left_serial_number:=45656860
+    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx serial_number:=45656860
     ```
 
     ```
-    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx zedx_left_serial_number:=40051193
+    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx serial_number:=40051193
     ```
 
 7. 打开显示界面（如果你有桌面环境）
@@ -79,7 +79,7 @@
     分别选择`/zedx/left/zed_node/stereo/image_rect_color`和`/zedx/right/zed_node/stereo/image_rect_color`话题即可看到对应摄像头的画面。
 
 8. 问题复现
-    
+   
     - 问题1：启动程序后随机出现
     - 问题2：成功启动后静置一段时间出现
 

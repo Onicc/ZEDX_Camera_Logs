@@ -65,11 +65,11 @@ Below are the detailed reproduction steps:
 6. Start ZED X by specifying their serial numbers (modify to match your camera serial numbers obtained from step 5).
 
     ```
-    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx zedx_left_serial_number:=45656860
+    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx serial_number:=45656860
     ```
 
     ```
-    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx zedx_left_serial_number:=40051193
+    ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx serial_number:=40051193
     ```
 
 7. Open the display interface (if you have a desktop environment).
@@ -81,7 +81,7 @@ Below are the detailed reproduction steps:
     Select `/zedx/left/zed_node/stereo/image_rect_color` and `/zedx/right/zed_node/stereo/image_rect_color` topics to view the corresponding camera images.
 
 8. Reproduce the issues:
-    
+   
     - Issue 1: Occurs randomly after starting the program.
     - Issue 2: Occurs after the program runs for a period of time.
 
