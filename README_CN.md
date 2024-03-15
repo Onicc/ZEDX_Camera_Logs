@@ -18,18 +18,17 @@
 
 1. [安装ROS2 Humble](https://nvidia-isaac-ros.github.io/getting_started/isaac_ros_buildfarm_cdn.html#install-ros-2-packages)
 
-2. ROS2 环境设置
-    将以下写入`~/.bashrc`
-
+2. ROS2 环境设置。将以下写入`~/.bashrc`
+    
     ```
     source /opt/ros/humble/setup.bash
     ```
-
+    
     然后运行下面这个命令即可生效
     ```
     source ~/.bashrc
     ```
-
+    
 3. 建立工作空间并下载[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)，[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)由ZED官方提供，ZED官方支持与ROS2一起运行。
 
     ```

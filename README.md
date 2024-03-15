@@ -18,19 +18,18 @@ Below are the detailed reproduction steps:
 
 1. [Install ROS2 Humble](https://nvidia-isaac-ros.github.io/getting_started/isaac_ros_buildfarm_cdn.html#install-ros-2-packages)
 
-2. ROS2 Environment Setup
-    Add the following to `~/.bashrc`
-
+2. ROS2 Environment Setup, Add the following to `~/.bashrc`
+    
     ```
     source /opt/ros/humble/setup.bash
     ```
-
+    
     Then run the following command to take effect
-
+    
     ```
     source ~/.bashrc
     ```
-
+    
 3. Set up the workspace and clone [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper). [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) is provided by ZED official and supports running with ROS2.
 
     ```
