@@ -18,7 +18,19 @@
 
 1. [安装ROS2 Humble](https://nvidia-isaac-ros.github.io/getting_started/isaac_ros_buildfarm_cdn.html#install-ros-2-packages)
 
-2. 建立工作空间并下载[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)，[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)由ZED官方提供，ZED官方支持与ROS2一起运行。
+2. ROS2 环境设置
+    将以下写入`~/.bashrc`
+
+    ```
+    source /opt/ros/humble/setup.bash
+    ```
+
+    然后运行下面这个命令即可生效
+    ```
+    source ~/.bashrc
+    ```
+
+3. 建立工作空间并下载[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)，[zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper)由ZED官方提供，ZED官方支持与ROS2一起运行。
 
     ```
     mkdir -p ros2_ws/src
@@ -26,19 +38,19 @@
     git clone --recursive https://github.com/stereolabs/zed-ros2-wrapper.git
     ```
 
-3. 编译项目
+4. 编译项目
 
     ```
     cd ../
     colcon build
     ```
 
-4. 配置环境
+5. 配置环境
     ```
     source ./install/local_setup.sh
     ```
 
-5. 查看ZED X序列号
+6. 查看ZED X序列号
 
     ```
     $ ZED_Explorer --all
@@ -61,7 +73,7 @@
     ********************
     ```
 
-6. 通过序列号启动ZED X（这里需要修改为自己相机的序列号，从步骤5获取）
+7. 通过序列号启动ZED X（这里需要修改为自己相机的序列号，从步骤5获取）
 
     ```
     ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx serial_number:=45656860
@@ -71,15 +83,15 @@
     ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx serial_number:=40051193
     ```
 
-7. 打开显示界面（如果你有桌面环境）
+8. 打开显示界面（如果你有桌面环境）
     ```
     ros2 run rqt_image_view rqt_image_view
     ```
 
     分别选择`/zedx/left/zed_node/stereo/image_rect_color`和`/zedx/right/zed_node/stereo/image_rect_color`话题即可看到对应摄像头的画面。
 
-8. 问题复现
-   
+9. 问题复现
+
     - 问题1：启动程序后随机出现
     - 问题2：成功启动后静置一段时间出现
 

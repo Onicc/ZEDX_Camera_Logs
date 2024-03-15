@@ -18,7 +18,20 @@ Below are the detailed reproduction steps:
 
 1. [Install ROS2 Humble](https://nvidia-isaac-ros.github.io/getting_started/isaac_ros_buildfarm_cdn.html#install-ros-2-packages)
 
-2. Set up the workspace and clone [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper). [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) is provided by ZED official and supports running with ROS2.
+2. ROS2 Environment Setup
+    Add the following to `~/.bashrc`
+
+    ```
+    source /opt/ros/humble/setup.bash
+    ```
+
+    Then run the following command to take effect
+
+    ```
+    source ~/.bashrc
+    ```
+
+3. Set up the workspace and clone [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper). [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) is provided by ZED official and supports running with ROS2.
 
     ```
     mkdir -p ros2_ws/src
@@ -26,20 +39,20 @@ Below are the detailed reproduction steps:
     git clone --recursive https://github.com/stereolabs/zed-ros2-wrapper.git
     ```
 
-3. Build the project
+4. Build the project
 
     ```
     cd ../
     colcon build
     ```
 
-4. Set up the environment
+5. Set up the environment
 
     ```
     source ./install/local_setup.sh
     ```
 
-5. View the serial numbers of the ZED X cameras.
+6. View the serial numbers of the ZED X cameras.
 
     ```
     $ ZED_Explorer --all
@@ -62,7 +75,7 @@ Below are the detailed reproduction steps:
     ********************
     ```
 
-6. Start ZED X by specifying their serial numbers (modify to match your camera serial numbers obtained from step 5).
+7. Start ZED X by specifying their serial numbers (modify to match your camera serial numbers obtained from step 5).
 
     ```
     ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/left camera_model:=zedx serial_number:=45656860
@@ -72,7 +85,7 @@ Below are the detailed reproduction steps:
     ros2 launch zed_wrapper zed_camera.launch.py camera_name:=zedx/right camera_model:=zedx serial_number:=40051193
     ```
 
-7. Open the display interface (if you have a desktop environment).
+8. Open the display interface (if you have a desktop environment).
 
     ```
     ros2 run rqt_image_view rqt_image_view
@@ -80,8 +93,8 @@ Below are the detailed reproduction steps:
 
     Select `/zedx/left/zed_node/stereo/image_rect_color` and `/zedx/right/zed_node/stereo/image_rect_color` topics to view the corresponding camera images.
 
-8. Reproduce the issues:
-   
+9. Reproduce the issues:
+
     - Issue 1: Occurs randomly after starting the program.
     - Issue 2: Occurs after the program runs for a period of time.
 
