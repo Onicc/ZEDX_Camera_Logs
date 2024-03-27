@@ -1,0 +1,16 @@
+## Cam  0  ##
+ Model :  "ZED-X"
+ S/N :  45656860
+ State :  "Camera Not Available"
+ Path :  /dev/i2c-30
+ ID :  0
+ Type :  "GMSL2"
+********************
+## Cam  1  ##
+ Model :  "ZED-X"
+ S/N :  40051193
+ State :  "Camera Not Available"
+ Path :  /dev/i2c-31
+ ID :  1
+ Type :  "GMSL2"
+********************
